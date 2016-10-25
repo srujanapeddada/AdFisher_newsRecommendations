@@ -8,7 +8,7 @@ import google_search
 # strip html
 from HTMLParser import HTMLParser
 
-class MLSTripper (HTMLParser):
+class MLStripper (HTMLParser):
     def __init__(self):
         self.reset()
         self.fed = []
@@ -32,7 +32,16 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
         self.driver.set_page_load_timeout (60)
         self.driver.get ("http://www.cnn.com/")
         time = str (datetime.now())
-        left_container = self.driver.find_elements_by_class_name("l-container")
-        print (len(left_container))
-        print (left_container)
+       
+	recomms = self.driver.find_element_by_xpath ("//*[@id='outbrain_widget_1']/div/ul")
+	articles = recomms.find_elements_by_tag_name ('li')
+	for article in articles:
+	    temp = article.find_element_by_tag_name ('a')
+	    title = temp.get_attribute ('title')
+	    heading = "Recommended"
+	    news = strip_tags (time+"@|"+heading+"@|"+title).encode("utf8")
+	    self.log ('measurement', 'news', news)
+
+
+
 
