@@ -3,7 +3,9 @@ import sys
 from selenium import webdriver
 from datetime import datetime
 import google_ads
-
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 from HTMLParser import HTMLParser
 
@@ -35,9 +37,11 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 
 	recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
 	print (recomms.get_attribute("class"))
-	headlines = recomms.find_elements_by_tag_name ("li")
+	
+	self.driver.execute_script ("return arguments[0].scrollIntoView(true);", recomms)
+	headlines = recomms.find_elements_by_class_name('headline')
 	print (len(headlines))
 	for headline in headlines:
-	    print ("Headline: " + headline.get_attribute())
+		print (headline.get_attribute("class"))
    
  
