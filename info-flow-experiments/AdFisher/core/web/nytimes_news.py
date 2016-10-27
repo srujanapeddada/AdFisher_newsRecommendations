@@ -13,10 +13,10 @@ class MLStripper (HTMLParser):
     def __init__ (self):
 	self.reset ()
         self.fed = []
-    
+
     def handle_data (self, d):
 	self.fed.append(d)
-    
+
     def get_data (self):
 	return ''.join(self.fed)
 
@@ -36,12 +36,16 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	time = str(datetime.now())
 
 	recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
+    # Sanity check to make sure the right div is being returned
 	print (recomms.get_attribute("class"))
-	
-	self.driver.execute_script ("return arguments[0].scrollIntoView(true);", recomms)
+
+	#self.driver.execute_script ("return arguments[0].scrollIntoView(true);", recomms)
+    # look for all elements with class name 'headline' in the div
 	headlines = recomms.find_elements_by_class_name('headline')
+    # Sanity Check. Should print a non-zero value
 	print (len(headlines))
+    # Placeholder for actual loop that will log the results
 	for headline in headlines:
 		print (headline.get_attribute("class"))
-   
- 
+
+
