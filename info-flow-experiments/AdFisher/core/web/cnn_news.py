@@ -38,9 +38,12 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 	for article in articles:
 	    temp = article.find_element_by_tag_name ('a')
 	    title = temp.get_attribute ('title')
+            agency = "CNN"
+	    ago = "0 minutes ago"
+            body = article.find_element_by_xpath(".//span[@class='ob_source']/span").get_attribute('innerHTML')
 	    heading = "Recommended"
-	    news = strip_tags (time+"@|"+heading+"@|"+title).encode("utf8")
-	    self.log ('measurement', 'news', news)
+	    news = strip_tags(time+"@|"+heading+"@|"+title+"@|"+agency+"@|"+ago+"@|"+body).encode("utf8")
+            self.log('measurement', 'news', news) 
 
 
 
