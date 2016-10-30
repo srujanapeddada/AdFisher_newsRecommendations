@@ -1,0 +1,1647 @@
+2016-10-29 15:44:39.704333||meta||agents||8
+2016-10-29 15:44:39.704361||meta||treatnames||control@|experimental
+2016-10-29 15:44:39.704442||meta||block_id start||0
+2016-10-29 15:44:39.704451||meta||assignment||5@|4@|7@|2@|6@|0@|1@|3
+2016-10-29 15:44:47.068838||event||progress-marker||training-start||6||1
+2016-10-29 15:44:47.104967||event||progress-marker||training-start||5||0
+2016-10-29 15:44:47.106355||event||progress-marker||training-end||5||0
+2016-10-29 15:44:47.207400||event||progress-marker||training-start||2||0
+2016-10-29 15:44:47.207747||event||progress-marker||training-end||2||0
+2016-10-29 15:44:47.267353||event||progress-marker||training-start||4||0
+2016-10-29 15:44:47.268085||event||progress-marker||training-end||4||0
+2016-10-29 15:44:47.317723||event||progress-marker||training-start||7||0
+2016-10-29 15:44:47.317879||event||progress-marker||training-end||7||0
+2016-10-29 15:44:47.713392||event||progress-marker||training-start||0||1
+2016-10-29 15:44:47.846155||event||progress-marker||training-start||3||1
+2016-10-29 15:44:48.069092||event||progress-marker||training-start||1||1
+2016-10-29 15:45:05.083398||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 15:45:06.419881||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 15:45:06.727882||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 15:45:13.287927||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 15:45:13.455884||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 15:45:18.356040||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 15:45:26.228266||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 15:45:28.956274||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 15:45:32.879889||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 15:45:38.491867||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 15:45:43.916299||treatment||visit website||http://ford.com||0||1
+2016-10-29 15:45:54.099930||treatment||visit website||http://ford.com||1||1
+2016-10-29 15:45:56.872219||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 15:45:56.872945||event||progress-marker||training-end||0||1
+2016-10-29 15:45:59.492012||treatment||visit website||http://ford.com||6||1
+2016-10-29 15:46:05.487914||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 15:46:05.488294||event||progress-marker||training-end||1||1
+2016-10-29 15:46:08.571234||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 15:46:08.571891||event||progress-marker||training-end||6||1
+2016-10-29 15:46:41.615869||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 15:46:53.424285||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 15:47:14.422002||treatment||visit website||http://ford.com||3||1
+2016-10-29 15:47:41.892577||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 15:47:41.893221||event||progress-marker||training-end||3||1
+2016-10-29 15:47:41.972034||event||progress-marker||measurement-start||0||1
+2016-10-29 15:47:42.308295||event||progress-marker||measurement-start||5||0
+2016-10-29 15:47:42.384443||event||progress-marker||measurement-start||2||0
+2016-10-29 15:47:42.492825||event||progress-marker||measurement-start||4||0
+2016-10-29 15:47:42.500734||event||progress-marker||measurement-start||7||0
+2016-10-29 15:47:43.688286||event||progress-marker||measurement-start||6||1
+2016-10-29 15:47:45.584438||event||progress-marker||measurement-start||1||1
+2016-10-29 15:47:46.898271||event||progress-marker||measurement-start||3||1
+2016-10-29 15:48:15.036364||measurement||news||2016-10-29 15:48:14.389253@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 15:48:15.312908||measurement||news||2016-10-29 15:48:13.952979@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 15:48:15.793256||measurement||news||2016-10-29 15:48:13.952979@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 15:48:16.038568||measurement||news||2016-10-29 15:48:14.389253@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 15:48:16.163390||measurement||news||2016-10-29 15:48:13.952979@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 15:48:16.257868||measurement||news||2016-10-29 15:48:14.389253@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 15:48:16.901864||measurement||news||2016-10-29 15:48:13.952979@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 15:48:16.935342||measurement||news||2016-10-29 15:48:14.389253@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 15:48:17.146484||measurement||news||2016-10-29 15:48:14.389253@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 15:48:17.149640||measurement||loadtime||0:00:29.838267||5||0
+2016-10-29 15:48:17.245951||measurement||news||2016-10-29 15:48:13.952979@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 15:48:17.260956||measurement||loadtime||0:00:29.754135||7||0
+2016-10-29 15:48:17.424717||measurement||news||2016-10-29 15:48:15.936073@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 15:48:17.771126||measurement||news||2016-10-29 15:48:15.936073@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 15:48:18.201418||measurement||news||2016-10-29 15:48:15.936073@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 15:48:18.474664||measurement||news||2016-10-29 15:48:15.936073@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 15:48:18.779516||measurement||news||2016-10-29 15:48:15.936073@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 15:48:18.780566||measurement||loadtime||0:00:31.392582||2||0
+2016-10-29 15:48:47.953757||measurement||news||2016-10-29 15:48:19.916664@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 15:48:48.430484||measurement||news||2016-10-29 15:48:19.916664@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 15:48:49.439004||measurement||news||2016-10-29 15:48:19.916664@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 15:48:50.343034||measurement||news||2016-10-29 15:48:19.916664@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 15:48:50.649809||measurement||news||2016-10-29 15:48:19.916664@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 15:48:50.649948||measurement||loadtime||0:01:03.147147||4||0
+2016-10-29 15:49:01.751429||measurement||news||2016-10-29 15:49:00.596684@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 15:49:01.979168||measurement||news||2016-10-29 15:49:00.596684@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 15:49:02.216338||measurement||news||2016-10-29 15:49:00.596684@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 15:49:02.442222||measurement||news||2016-10-29 15:49:00.596684@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 15:49:02.776079||measurement||news||2016-10-29 15:49:00.596684@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 15:49:02.777220||measurement||loadtime||0:01:10.873259||3||1
+2016-10-29 15:49:07.872236||measurement||news||2016-10-29 15:49:07.033484@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 15:49:08.631319||measurement||news||2016-10-29 15:49:08.082451@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 15:49:08.951951||measurement||news||2016-10-29 15:49:08.082451@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 15:49:09.108797||measurement||news||2016-10-29 15:49:07.033484@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 15:49:09.438617||measurement||news||2016-10-29 15:49:08.082451@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 15:49:09.705271||measurement||news||2016-10-29 15:49:08.082451@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 15:49:09.777705||measurement||news||2016-10-29 15:49:07.033484@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 15:49:09.995815||measurement||news||2016-10-29 15:49:08.082451@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 15:49:09.996483||measurement||loadtime||0:00:47.731869||7||0
+2016-10-29 15:49:09.996901||event||progress-marker||measurement-end||7||0
+2016-10-29 15:49:10.414869||measurement||news||2016-10-29 15:49:07.033484@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 15:49:10.709577||measurement||news||2016-10-29 15:49:07.033484@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 15:49:10.710305||measurement||loadtime||0:00:46.924391||2||0
+2016-10-29 15:49:10.710647||event||progress-marker||measurement-end||2||0
+2016-10-29 15:49:13.207112||measurement||news||2016-10-29 15:49:12.681418@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 15:49:13.637825||measurement||news||2016-10-29 15:49:13.334593@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 15:49:13.696132||measurement||news||2016-10-29 15:49:12.681418@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 15:49:13.788995||measurement||news||2016-10-29 15:49:13.334593@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 15:49:13.940742||measurement||news||2016-10-29 15:49:13.334593@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 15:49:13.973226||measurement||news||2016-10-29 15:49:12.681418@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 15:49:14.011622||measurement||news||2016-10-29 15:49:13.334593@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 15:49:14.106192||measurement||news||2016-10-29 15:49:13.334593@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 15:49:14.106411||measurement||loadtime||0:00:18.454437||4||0
+2016-10-29 15:49:14.106440||event||progress-marker||measurement-end||4||0
+2016-10-29 15:49:14.223156||measurement||news||2016-10-29 15:49:12.681418@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 15:49:14.464894||measurement||news||2016-10-29 15:49:12.681418@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 15:49:14.465673||measurement||loadtime||0:00:52.309123||5||0
+2016-10-29 15:49:14.465905||event||progress-marker||measurement-end||5||0
+2016-10-29 15:49:23.869772||measurement||news||2016-10-29 15:49:23.656360@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 15:49:23.909827||measurement||news||2016-10-29 15:49:23.656360@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 15:49:23.956825||measurement||news||2016-10-29 15:49:23.656360@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 15:49:24.012694||measurement||news||2016-10-29 15:49:23.656360@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 15:49:24.051633||measurement||news||2016-10-29 15:49:23.656360@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 15:49:24.052073||measurement||loadtime||0:00:16.264292||3||1
+2016-10-29 15:49:24.052266||event||progress-marker||measurement-end||3||1
+2016-10-29 15:49:24.141962||meta||block_id end||0
+2016-10-29 15:49:24.142257||meta||block_id start||1
+2016-10-29 15:49:24.142280||meta||assignment||6@|2@|7@|3@|5@|1@|0@|4
+2016-10-29 15:49:29.964968||event||progress-marker||training-start||0||1
+2016-10-29 15:49:30.306123||event||progress-marker||training-start||1||1
+2016-10-29 15:49:30.325632||event||progress-marker||training-start||6||0
+2016-10-29 15:49:30.326254||event||progress-marker||training-end||6||0
+2016-10-29 15:49:30.548173||event||progress-marker||training-start||7||0
+2016-10-29 15:49:30.558584||event||progress-marker||training-end||7||0
+2016-10-29 15:49:30.680040||event||progress-marker||training-start||4||1
+2016-10-29 15:49:31.160910||event||progress-marker||training-start||2||0
+2016-10-29 15:49:31.161609||event||progress-marker||training-end||2||0
+2016-10-29 15:49:31.529839||event||progress-marker||training-start||3||0
+2016-10-29 15:49:31.530089||event||progress-marker||training-end||3||0
+2016-10-29 15:49:31.633181||event||progress-marker||training-start||5||1
+2016-10-29 15:49:52.382100||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 15:49:53.849886||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 15:50:04.881439||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 15:50:08.798023||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 15:50:11.111496||error||website timeout||http://jalopnik.com||0||1
+2016-10-29 15:50:12.671768||error||website timeout||http://jalopnik.com||5||1
+2016-10-29 15:50:16.366820||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 15:50:18.046039||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 15:50:19.776135||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 15:50:24.177849||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 15:50:24.744183||treatment||visit website||http://ford.com||4||1
+2016-10-29 15:50:25.168892||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 15:50:33.144881||treatment||visit website||http://ford.com||0||1
+2016-10-29 15:51:03.477191||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 15:51:03.478155||event||progress-marker||training-end||0||1
+2016-10-29 15:51:06.807879||treatment||visit website||http://ford.com||1||1
+2016-10-29 15:51:16.416223||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 15:51:16.416397||event||progress-marker||training-end||1||1
+2016-10-29 15:52:06.183054||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 15:52:06.190148||event||progress-marker||training-end||4||1
+2016-10-29 15:52:09.126023||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 15:52:31.760177||treatment||visit website||http://ford.com||5||1
+2016-10-29 15:52:38.853838||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 15:52:38.854490||event||progress-marker||training-end||5||1
+2016-10-29 15:52:40.553255||event||progress-marker||measurement-start||6||0
+2016-10-29 15:52:40.840407||event||progress-marker||measurement-start||7||0
+2016-10-29 15:52:41.231967||event||progress-marker||measurement-start||4||1
+2016-10-29 15:52:41.413756||event||progress-marker||measurement-start||2||0
+2016-10-29 15:52:41.506422||event||progress-marker||measurement-start||1||1
+2016-10-29 15:52:41.789291||event||progress-marker||measurement-start||3||0
+2016-10-29 15:52:43.608905||event||progress-marker||measurement-start||0||1
+2016-10-29 15:52:43.862201||event||progress-marker||measurement-start||5||1
+2016-10-29 15:53:57.763319||measurement||news||2016-10-29 15:53:57.106822@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 15:53:58.676880||measurement||news||2016-10-29 15:53:57.106822@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 15:53:59.399866||measurement||news||2016-10-29 15:53:57.106822@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 15:53:59.931696||measurement||news||2016-10-29 15:53:57.106822@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 15:54:00.974559||measurement||news||2016-10-29 15:53:57.106822@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 15:54:00.974972||measurement||loadtime||0:01:12.110631||5||1
+2016-10-29 15:54:17.050693||measurement||news||2016-10-29 15:54:16.764737@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 15:54:17.137526||measurement||news||2016-10-29 15:54:16.764737@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 15:54:17.219454||measurement||news||2016-10-29 15:54:16.764737@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 15:54:17.289956||measurement||news||2016-10-29 15:54:16.764737@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 15:54:17.356394||measurement||news||2016-10-29 15:54:16.764737@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 15:54:17.356464||measurement||loadtime||0:00:11.376100||5||1
+2016-10-29 15:54:17.356487||event||progress-marker||measurement-end||5||1
+2016-10-29 15:54:17.441238||meta||block_id end||1
+2016-10-29 15:54:17.441473||meta||block_id start||2
+2016-10-29 15:54:17.441503||meta||assignment||5@|6@|2@|4@|1@|0@|3@|7
+2016-10-29 15:54:22.482190||event||progress-marker||training-start||5||0
+2016-10-29 15:54:22.482893||event||progress-marker||training-end||5||0
+2016-10-29 15:54:23.384812||event||progress-marker||training-start||4||0
+2016-10-29 15:54:23.385776||event||progress-marker||training-end||4||0
+2016-10-29 15:54:23.486933||event||progress-marker||training-start||1||1
+2016-10-29 15:54:23.661573||event||progress-marker||training-start||3||1
+2016-10-29 15:54:24.050453||event||progress-marker||training-start||0||1
+2016-10-29 15:54:24.401836||event||progress-marker||training-start||2||0
+2016-10-29 15:54:24.401927||event||progress-marker||training-end||2||0
+2016-10-29 15:54:24.551555||event||progress-marker||training-start||6||0
+2016-10-29 15:54:24.551712||event||progress-marker||training-end||6||0
+2016-10-29 15:54:24.579216||event||progress-marker||training-start||7||1
+2016-10-29 15:54:43.574002||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 15:54:48.294589||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 15:54:49.965137||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 15:54:50.471852||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 15:54:55.352019||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 15:55:01.361242||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 15:55:02.276170||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 15:55:04.183521||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 15:55:08.555913||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 15:55:15.664009||treatment||visit website||http://ford.com||3||1
+2016-10-29 15:55:16.919904||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 15:55:43.972271||error||website timeout||http://popularmechanics.com||0||1
+2016-10-29 15:55:48.704467||error||website timeout||http://popularmechanics.com||1||1
+2016-10-29 15:55:49.443857||treatment||visit website||http://ford.com||0||1
+2016-10-29 15:55:53.783977||treatment||visit website||http://ford.com||1||1
+2016-10-29 15:56:07.056830||treatment||visit website||http://ford.com||7||1
+2016-10-29 15:56:18.424438||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 15:56:18.424743||event||progress-marker||training-end||3||1
+2016-10-29 15:56:21.733874||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 15:56:21.734811||event||progress-marker||training-end||1||1
+2016-10-29 15:56:25.096968||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 15:56:25.097554||event||progress-marker||training-end||7||1
+2016-10-29 15:57:29.036219||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 15:57:29.037161||event||progress-marker||training-end||0||1
+2016-10-29 15:57:29.628879||event||progress-marker||measurement-start||2||0
+2016-10-29 15:57:29.793494||event||progress-marker||measurement-start||6||0
+2016-10-29 15:57:30.166690||event||progress-marker||measurement-start||7||1
+2016-10-29 15:57:31.824806||event||progress-marker||measurement-start||1||1
+2016-10-29 15:57:32.700966||event||progress-marker||measurement-start||5||0
+2016-10-29 15:57:33.524982||event||progress-marker||measurement-start||3||1
+2016-10-29 15:57:33.620941||event||progress-marker||measurement-start||4||0
+2016-10-29 15:57:34.050710||event||progress-marker||measurement-start||0||1
+2016-10-29 15:57:55.728260||measurement||news||2016-10-29 15:57:54.517231@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 15:57:56.779437||measurement||news||2016-10-29 15:57:54.517231@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 15:57:57.578565||measurement||news||2016-10-29 15:57:54.517231@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 15:57:58.428704||measurement||news||2016-10-29 15:57:54.517231@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 15:57:58.689103||measurement||news||2016-10-29 15:57:54.517231@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 15:57:58.691461||measurement||loadtime||0:00:23.889546||6||0
+2016-10-29 15:58:02.761099||measurement||news||2016-10-29 15:58:01.706011@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 15:58:02.999371||measurement||news||2016-10-29 15:58:01.706011@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 15:58:03.590115||measurement||news||2016-10-29 15:58:01.706011@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 15:58:03.971106||measurement||news||2016-10-29 15:58:01.706011@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 15:58:04.403317||measurement||news||2016-10-29 15:58:01.706011@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 15:58:04.404188||measurement||loadtime||0:00:25.776948||4||0
+2016-10-29 15:58:05.736182||measurement||news||2016-10-29 15:58:01.091040@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 15:58:07.779165||measurement||news||2016-10-29 15:58:01.091040@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 15:58:09.667287||measurement||news||2016-10-29 15:58:01.091040@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 15:58:12.233176||measurement||news||2016-10-29 15:58:01.091040@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 15:58:13.858896||measurement||news||2016-10-29 15:57:46.560312@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 15:58:14.164709||measurement||news||2016-10-29 15:57:46.560312@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 15:58:14.425994||measurement||news||2016-10-29 15:57:46.560312@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 15:58:14.830745||measurement||news||2016-10-29 15:58:01.091040@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 15:58:14.831141||measurement||loadtime||0:00:40.198953||2||0
+2016-10-29 15:58:15.476016||measurement||news||2016-10-29 15:57:46.560312@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 15:58:16.022954||measurement||news||2016-10-29 15:57:46.560312@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 15:58:16.023667||measurement||loadtime||0:00:37.495691||3||1
+2016-10-29 15:58:38.089406||measurement||news||2016-10-29 15:58:35.024879@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 15:58:38.524594||measurement||news||2016-10-29 15:58:36.070541@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 15:58:38.860536||measurement||news||2016-10-29 15:58:36.070541@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 15:58:39.126125||measurement||news||2016-10-29 15:58:35.024879@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 15:58:39.347961||measurement||news||2016-10-29 15:58:36.070541@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 15:58:39.719742||measurement||news||2016-10-29 15:58:35.024879@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 15:58:40.076300||measurement||news||2016-10-29 15:58:36.070541@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 15:58:40.425459||measurement||news||2016-10-29 15:58:35.024879@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 15:58:40.717340||measurement||news||2016-10-29 15:58:36.070541@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 15:58:40.718473||measurement||loadtime||0:00:31.304757||4||0
+2016-10-29 15:58:40.719461||event||progress-marker||measurement-end||4||0
+2016-10-29 15:58:41.608254||measurement||news||2016-10-29 15:58:35.024879@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 15:58:41.608345||measurement||loadtime||0:00:37.911273||6||0
+2016-10-29 15:58:41.608369||event||progress-marker||measurement-end||6||0
+2016-10-29 15:58:43.347132||measurement||news||2016-10-29 15:58:00.133218@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 15:58:45.716030||measurement||news||2016-10-29 15:58:42.222625@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 15:58:47.131879||measurement||news||2016-10-29 15:58:42.222625@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 15:58:47.727646||measurement||news||2016-10-29 15:58:46.750357@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 15:58:48.114367||measurement||news||2016-10-29 15:58:00.133218@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 15:58:48.481429||measurement||news||2016-10-29 15:58:46.750357@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 15:58:48.693138||measurement||news||2016-10-29 15:58:00.133218@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 15:58:48.771227||measurement||news||2016-10-29 15:58:42.222625@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 15:58:49.112868||measurement||news||2016-10-29 15:58:46.750357@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 15:58:49.189681||measurement||news||2016-10-29 15:58:00.133218@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 15:58:49.302474||measurement||news||2016-10-29 15:58:46.750357@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 15:58:49.660987||measurement||news||2016-10-29 15:58:46.750357@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 15:58:49.661448||measurement||loadtime||0:00:29.825230||2||0
+2016-10-29 15:58:49.661910||event||progress-marker||measurement-end||2||0
+2016-10-29 15:58:49.835078||measurement||news||2016-10-29 15:58:49.218203@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 15:58:49.967190||measurement||news||2016-10-29 15:58:49.218203@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 15:58:50.017503||measurement||news||2016-10-29 15:58:00.133218@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 15:58:50.017722||measurement||loadtime||0:01:13.189760||1||1
+2016-10-29 15:58:50.041727||measurement||news||2016-10-29 15:58:42.222625@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 15:58:50.075580||measurement||news||2016-10-29 15:58:49.218203@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 15:58:50.168680||measurement||news||2016-10-29 15:58:42.222625@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 15:58:50.168957||measurement||loadtime||0:01:11.112915||0||1
+2016-10-29 15:58:50.239941||measurement||news||2016-10-29 15:58:49.228524@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 15:58:50.326870||measurement||news||2016-10-29 15:58:49.228524@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 15:58:50.433341||measurement||news||2016-10-29 15:58:49.218203@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 15:58:50.558030||measurement||news||2016-10-29 15:58:49.228524@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 15:58:50.567565||measurement||news||2016-10-29 15:58:49.218203@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 15:58:50.567884||measurement||loadtime||0:01:15.395841||7||1
+2016-10-29 15:58:50.656271||measurement||news||2016-10-29 15:58:49.228524@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 15:58:50.756310||measurement||news||2016-10-29 15:58:49.228524@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 15:58:50.756381||measurement||loadtime||0:00:29.728258||3||1
+2016-10-29 15:58:50.756400||event||progress-marker||measurement-end||3||1
+2016-10-29 15:59:02.774146||measurement||news||2016-10-29 15:58:55.415778@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 15:59:03.748849||measurement||news||2016-10-29 15:58:55.415778@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 15:59:04.780753||measurement||news||2016-10-29 15:58:55.415778@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 15:59:05.563636||measurement||news||2016-10-29 15:59:04.861854@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 15:59:05.701300||measurement||news||2016-10-29 15:58:55.415778@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 15:59:05.781880||measurement||news||2016-10-29 15:59:04.567758@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 15:59:05.831044||measurement||news||2016-10-29 15:59:04.861854@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 15:59:05.929274||measurement||news||2016-10-29 15:58:55.415778@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 15:59:05.929398||measurement||loadtime||0:00:10.906093||1||1
+2016-10-29 15:59:05.929423||event||progress-marker||measurement-end||1||1
+2016-10-29 15:59:06.058629||measurement||news||2016-10-29 15:59:04.861854@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 15:59:06.064393||measurement||news||2016-10-29 15:59:04.567758@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 15:59:06.242777||measurement||news||2016-10-29 15:59:04.861854@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 15:59:06.298605||measurement||news||2016-10-29 15:59:04.567758@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 15:59:06.452327||measurement||news||2016-10-29 15:59:04.861854@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 15:59:06.452485||measurement||loadtime||0:00:10.878691||7||1
+2016-10-29 15:59:06.452527||event||progress-marker||measurement-end||7||1
+2016-10-29 15:59:06.957567||measurement||news||2016-10-29 15:59:04.567758@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 15:59:07.086271||measurement||news||2016-10-29 15:59:04.567758@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 15:59:07.086360||measurement||loadtime||0:00:11.912245||0||1
+2016-10-29 15:59:07.086382||event||progress-marker||measurement-end||0||1
+2016-10-29 15:59:07.201709||meta||block_id end||2
+2016-10-29 15:59:07.201962||meta||block_id start||3
+2016-10-29 15:59:07.201984||meta||assignment||6@|5@|4@|2@|3@|0@|7@|1
+2016-10-29 15:59:12.475029||event||progress-marker||training-start||7||1
+2016-10-29 15:59:13.251875||event||progress-marker||training-start||0||1
+2016-10-29 15:59:13.412105||event||progress-marker||training-start||5||0
+2016-10-29 15:59:13.412239||event||progress-marker||training-end||5||0
+2016-10-29 15:59:13.586589||event||progress-marker||training-start||2||0
+2016-10-29 15:59:13.586700||event||progress-marker||training-end||2||0
+2016-10-29 15:59:13.728028||event||progress-marker||training-start||6||0
+2016-10-29 15:59:13.729330||event||progress-marker||training-end||6||0
+2016-10-29 15:59:13.775369||event||progress-marker||training-start||1||1
+2016-10-29 15:59:13.874630||event||progress-marker||training-start||4||0
+2016-10-29 15:59:13.874864||event||progress-marker||training-end||4||0
+2016-10-29 15:59:14.012749||event||progress-marker||training-start||3||1
+2016-10-29 15:59:34.253954||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 15:59:35.451920||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 15:59:40.877016||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 15:59:44.403915||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 15:59:49.690205||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 15:59:53.711471||error||website timeout||http://jalopnik.com||0||1
+2016-10-29 15:59:54.144568||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 15:59:58.172765||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 15:59:59.188530||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 16:00:28.972995||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 16:00:34.604444||error||website timeout||http://popularmechanics.com||7||1
+2016-10-29 16:00:40.292487||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:00:54.900774||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:00:54.901242||event||progress-marker||training-end||7||1
+2016-10-29 16:02:15.764080||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 16:02:29.151083||treatment||visit website||http://ford.com||3||1
+2016-10-29 16:02:38.326590||treatment||visit website||http://ford.com||0||1
+2016-10-29 16:02:40.896002||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 16:02:40.898701||event||progress-marker||training-end||3||1
+2016-10-29 16:02:49.361690||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 16:02:49.362474||event||progress-marker||training-end||0||1
+2016-10-29 16:02:56.411133||treatment||visit website||http://ford.com||1||1
+2016-10-29 16:03:08.735894||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 16:03:08.736022||event||progress-marker||training-end||1||1
+2016-10-29 16:03:08.740495||event||progress-marker||measurement-start||5||0
+2016-10-29 16:03:08.945322||event||progress-marker||measurement-start||2||0
+2016-10-29 16:03:09.101240||event||progress-marker||measurement-start||6||0
+2016-10-29 16:03:09.266426||event||progress-marker||measurement-start||4||0
+2016-10-29 16:03:09.395697||event||progress-marker||measurement-start||0||1
+2016-10-29 16:03:10.099016||event||progress-marker||measurement-start||7||1
+2016-10-29 16:03:10.945777||event||progress-marker||measurement-start||3||1
+2016-10-29 16:03:13.741945||event||progress-marker||measurement-start||1||1
+2016-10-29 16:03:42.580088||measurement||news||2016-10-29 16:03:39.650632@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:03:43.206058||measurement||news||2016-10-29 16:03:39.650632@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:03:43.676855||measurement||news||2016-10-29 16:03:39.650632@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:03:44.399133||measurement||news||2016-10-29 16:03:39.650632@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:03:44.475445||measurement||news||2016-10-29 16:03:41.655583@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:03:45.720393||measurement||news||2016-10-29 16:03:39.650632@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:03:45.721328||measurement||loadtime||0:00:31.446147||4||0
+2016-10-29 16:03:47.527159||measurement||news||2016-10-29 16:03:41.655583@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:03:50.083128||measurement||news||2016-10-29 16:03:41.655583@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:03:51.569910||measurement||news||2016-10-29 16:03:41.655583@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:03:54.347381||measurement||news||2016-10-29 16:03:51.364510@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:03:55.224965||measurement||news||2016-10-29 16:03:51.364510@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:03:55.390624||measurement||news||2016-10-29 16:03:49.808179@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:03:56.186165||measurement||news||2016-10-29 16:03:41.655583@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:03:56.186593||measurement||loadtime||0:00:42.237564||2||0
+2016-10-29 16:03:58.187667||measurement||news||2016-10-29 16:03:51.364510@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:03:59.081036||measurement||news||2016-10-29 16:03:51.364510@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:03:59.423678||measurement||news||2016-10-29 16:03:51.364510@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:03:59.425315||measurement||loadtime||0:00:44.321266||7||1
+2016-10-29 16:04:00.658537||measurement||news||2016-10-29 16:03:49.808179@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:04:03.266536||measurement||news||2016-10-29 16:03:49.614259@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 16:04:03.308777||measurement||news||2016-10-29 16:03:49.808179@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:04:04.842243||measurement||news||2016-10-29 16:03:49.808179@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:04:07.366518||measurement||news||2016-10-29 16:03:49.808179@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:04:07.367554||measurement||loadtime||0:00:53.261424||6||0
+2016-10-29 16:04:07.435014||measurement||news||2016-10-29 16:03:57.353170@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:04:08.384101||measurement||news||2016-10-29 16:03:49.614259@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 16:04:11.342306||measurement||news||2016-10-29 16:03:57.353170@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:04:13.149053||measurement||news||2016-10-29 16:03:57.353170@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:04:13.241463||measurement||news||2016-10-29 16:03:49.614259@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 16:04:15.204565||measurement||news||2016-10-29 16:03:57.353170@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:04:18.097635||measurement||news||2016-10-29 16:04:07.142936@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:04:20.320033||measurement||news||2016-10-29 16:03:49.614259@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 16:04:21.890224||measurement||news||2016-10-29 16:03:49.614259@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 16:04:21.891233||measurement||loadtime||0:01:08.145521||5||0
+2016-10-29 16:04:22.493092||measurement||news||2016-10-29 16:03:57.353170@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:04:22.493170||measurement||loadtime||0:01:06.542940||3||1
+2016-10-29 16:04:24.059440||measurement||news||2016-10-29 16:04:07.142936@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:04:26.555365||measurement||news||2016-10-29 16:04:07.142936@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:04:29.486651||measurement||news||2016-10-29 16:04:07.142936@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:04:29.564201||measurement||news||2016-10-29 16:04:28.060140@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:04:29.937988||measurement||news||2016-10-29 16:04:28.060140@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:04:30.201478||measurement||news||2016-10-29 16:04:07.142936@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:04:30.202433||measurement||loadtime||0:01:15.801096||0||1
+2016-10-29 16:04:30.378283||measurement||news||2016-10-29 16:04:28.060140@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:04:31.143296||measurement||news||2016-10-29 16:04:28.060140@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:04:32.109894||measurement||news||2016-10-29 16:04:28.060140@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:04:32.110389||measurement||loadtime||0:00:30.916874||2||0
+2016-10-29 16:04:32.110633||event||progress-marker||measurement-end||2||0
+2016-10-29 16:04:36.483875||measurement||news||2016-10-29 16:04:35.002792@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:04:36.737993||measurement||news||2016-10-29 16:04:35.002792@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:04:37.220320||measurement||news||2016-10-29 16:04:35.002792@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:04:37.738102||measurement||news||2016-10-29 16:04:35.002792@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:04:37.919421||measurement||news||2016-10-29 16:04:35.126157@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:04:38.201884||measurement||news||2016-10-29 16:04:36.074807@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:04:38.247188||measurement||news||2016-10-29 16:04:35.126157@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:04:38.325821||measurement||news||2016-10-29 16:04:37.529984@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:04:38.496104||measurement||news||2016-10-29 16:04:35.126157@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:04:38.563074||measurement||news||2016-10-29 16:04:37.529984@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:04:38.724664||measurement||news||2016-10-29 16:04:35.002792@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:04:38.725405||measurement||loadtime||0:00:48.001485||4||0
+2016-10-29 16:04:38.725606||event||progress-marker||measurement-end||4||0
+2016-10-29 16:04:38.767372||measurement||news||2016-10-29 16:04:35.126157@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:04:38.960270||measurement||news||2016-10-29 16:04:37.529984@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:04:39.142553||measurement||news||2016-10-29 16:04:35.126157@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:04:39.143062||measurement||loadtime||0:00:34.711898||7||1
+2016-10-29 16:04:39.143240||event||progress-marker||measurement-end||7||1
+2016-10-29 16:04:39.208799||measurement||news||2016-10-29 16:04:37.529984@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:04:39.293010||measurement||news||2016-10-29 16:04:36.074807@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:04:39.533625||measurement||news||2016-10-29 16:04:37.529984@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:04:39.534198||measurement||loadtime||0:00:27.160995||6||0
+2016-10-29 16:04:39.534392||event||progress-marker||measurement-end||6||0
+2016-10-29 16:04:39.689829||measurement||news||2016-10-29 16:04:36.074807@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:04:40.937983||measurement||news||2016-10-29 16:04:36.074807@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:04:43.125822||measurement||news||2016-10-29 16:04:36.074807@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:04:43.125909||measurement||loadtime||0:01:24.380626||1||1
+2016-10-29 16:04:46.226404||measurement||news||2016-10-29 16:04:45.726742@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:04:46.517169||measurement||news||2016-10-29 16:04:45.726742@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:04:46.645576||measurement||news||2016-10-29 16:04:45.726742@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:04:46.789057||measurement||news||2016-10-29 16:04:45.726742@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:04:47.019834||measurement||news||2016-10-29 16:04:45.726742@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:04:47.020571||measurement||loadtime||0:00:19.524708||3||1
+2016-10-29 16:04:47.020701||event||progress-marker||measurement-end||3||1
+2016-10-29 16:04:50.914402||measurement||news||2016-10-29 16:04:50.535821@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 16:04:51.055305||measurement||news||2016-10-29 16:04:50.535821@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 16:04:51.137187||measurement||news||2016-10-29 16:04:50.535821@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 16:04:51.227666||measurement||news||2016-10-29 16:04:50.535821@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 16:04:51.303237||measurement||news||2016-10-29 16:04:50.535821@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 16:04:51.303349||measurement||loadtime||0:00:24.407478||5||0
+2016-10-29 16:04:51.303372||event||progress-marker||measurement-end||5||0
+2016-10-29 16:04:51.875068||measurement||news||2016-10-29 16:04:50.446469@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:04:52.057941||measurement||news||2016-10-29 16:04:50.446469@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:04:52.205170||measurement||news||2016-10-29 16:04:50.446469@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:04:52.292037||measurement||news||2016-10-29 16:04:50.446469@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:04:52.657056||measurement||news||2016-10-29 16:04:50.446469@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:04:52.657600||measurement||loadtime||0:00:17.449483||0||1
+2016-10-29 16:04:52.657864||event||progress-marker||measurement-end||0||1
+2016-10-29 16:04:52.943012||measurement||news||2016-10-29 16:04:49.095131@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:04:57.426199||measurement||news||2016-10-29 16:04:49.095131@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:04:57.538710||measurement||news||2016-10-29 16:04:49.095131@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:04:57.782715||measurement||news||2016-10-29 16:04:49.095131@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:04:58.092351||measurement||news||2016-10-29 16:04:49.095131@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:04:58.092424||measurement||loadtime||0:00:09.961211||1||1
+2016-10-29 16:04:58.092445||event||progress-marker||measurement-end||1||1
+2016-10-29 16:04:58.288212||meta||block_id end||3
+2016-10-29 16:04:58.288536||meta||block_id start||4
+2016-10-29 16:04:58.288562||meta||assignment||6@|3@|5@|2@|1@|4@|7@|0
+2016-10-29 16:05:03.665850||event||progress-marker||training-start||7||1
+2016-10-29 16:05:04.240638||event||progress-marker||training-start||2||0
+2016-10-29 16:05:04.242099||event||progress-marker||training-end||2||0
+2016-10-29 16:05:04.261188||event||progress-marker||training-start||5||0
+2016-10-29 16:05:04.261677||event||progress-marker||training-end||5||0
+2016-10-29 16:05:04.275610||event||progress-marker||training-start||3||0
+2016-10-29 16:05:04.275694||event||progress-marker||training-end||3||0
+2016-10-29 16:05:04.433724||event||progress-marker||training-start||4||1
+2016-10-29 16:05:04.443967||event||progress-marker||training-start||0||1
+2016-10-29 16:05:04.733345||event||progress-marker||training-start||6||0
+2016-10-29 16:05:04.733464||event||progress-marker||training-end||6||0
+2016-10-29 16:05:04.862015||event||progress-marker||training-start||1||1
+2016-10-29 16:05:43.998646||error||website timeout||http://jalopnik.com||7||1
+2016-10-29 16:05:44.552625||error||website timeout||http://jalopnik.com||4||1
+2016-10-29 16:05:44.746291||error||website timeout||http://jalopnik.com||0||1
+2016-10-29 16:05:45.048663||error||website timeout||http://jalopnik.com||1||1
+2016-10-29 16:05:49.246751||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:05:49.924129||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:05:50.179318||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 16:05:50.640391||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 16:07:32.244528||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 16:07:38.408067||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:07:43.926525||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 16:07:51.459976||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:07:51.460254||event||progress-marker||training-end||4||1
+2016-10-29 16:07:53.988876||treatment||visit website||http://ford.com||1||1
+2016-10-29 16:08:04.344428||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:08:06.127867||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 16:08:06.128438||event||progress-marker||training-end||1||1
+2016-10-29 16:08:11.941104||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 16:08:15.824283||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:08:22.172176||treatment||visit website||http://ford.com||0||1
+2016-10-29 16:08:22.893776||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:08:22.894497||event||progress-marker||training-end||7||1
+2016-10-29 16:08:27.812064||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 16:08:27.812231||event||progress-marker||training-end||0||1
+2016-10-29 16:08:27.910975||event||progress-marker||measurement-start||7||1
+2016-10-29 16:08:29.481415||event||progress-marker||measurement-start||3||0
+2016-10-29 16:08:29.542008||event||progress-marker||measurement-start||5||0
+2016-10-29 16:08:29.562320||event||progress-marker||measurement-start||2||0
+2016-10-29 16:08:29.977628||event||progress-marker||measurement-start||6||0
+2016-10-29 16:08:31.168825||event||progress-marker||measurement-start||1||1
+2016-10-29 16:08:31.517104||event||progress-marker||measurement-start||4||1
+2016-10-29 16:08:32.824720||event||progress-marker||measurement-start||0||1
+2016-10-29 16:09:24.423271||measurement||news||2016-10-29 16:08:48.685875@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:09:25.058645||measurement||news||2016-10-29 16:08:48.685875@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:09:25.327541||measurement||news||2016-10-29 16:08:48.685875@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:09:26.074918||measurement||news||2016-10-29 16:08:48.685875@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:09:26.466020||measurement||news||2016-10-29 16:08:48.685875@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:09:26.468226||measurement||loadtime||0:00:48.639905||0||1
+2016-10-29 16:09:42.833712||measurement||news||2016-10-29 16:09:42.618381@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:09:42.926238||measurement||news||2016-10-29 16:09:42.618381@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:09:42.990108||measurement||news||2016-10-29 16:09:42.618381@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:09:43.031413||measurement||news||2016-10-29 16:09:42.618381@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:09:43.091449||measurement||news||2016-10-29 16:09:42.618381@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:09:43.091537||measurement||loadtime||0:00:11.614155||0||1
+2016-10-29 16:09:43.091576||event||progress-marker||measurement-end||0||1
+2016-10-29 16:09:43.183419||meta||block_id end||4
+2016-10-29 16:09:43.183694||meta||block_id start||5
+2016-10-29 16:09:43.183717||meta||assignment||1@|4@|2@|3@|0@|6@|5@|7
+2016-10-29 16:09:48.118687||event||progress-marker||training-start||5||1
+2016-10-29 16:09:48.500315||event||progress-marker||training-start||1||0
+2016-10-29 16:09:48.500461||event||progress-marker||training-end||1||0
+2016-10-29 16:09:48.542899||event||progress-marker||training-start||4||0
+2016-10-29 16:09:48.543921||event||progress-marker||training-end||4||0
+2016-10-29 16:09:48.638195||event||progress-marker||training-start||2||0
+2016-10-29 16:09:48.644644||event||progress-marker||training-end||2||0
+2016-10-29 16:09:48.896343||event||progress-marker||training-start||6||1
+2016-10-29 16:09:49.271009||event||progress-marker||training-start||0||1
+2016-10-29 16:09:49.383160||event||progress-marker||training-start||3||0
+2016-10-29 16:09:49.383477||event||progress-marker||training-end||3||0
+2016-10-29 16:09:49.670336||event||progress-marker||training-start||7||1
+2016-10-29 16:10:28.293195||error||website timeout||http://jalopnik.com||5||1
+2016-10-29 16:10:29.103250||error||website timeout||http://jalopnik.com||6||1
+2016-10-29 16:10:29.343408||error||website timeout||http://jalopnik.com||0||1
+2016-10-29 16:10:29.716834||error||website timeout||http://jalopnik.com||7||1
+2016-10-29 16:10:33.568847||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:10:34.280066||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 16:10:34.432423||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 16:10:34.895154||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:12:06.464761||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 16:12:07.878283||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 16:12:21.897660||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:12:22.065900||treatment||visit website||http://ford.com||6||1
+2016-10-29 16:12:24.340132||treatment||visit website||http://ford.com||0||1
+2016-10-29 16:12:30.282561||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 16:12:30.284321||event||progress-marker||training-end||6||1
+2016-10-29 16:12:31.671922||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:12:36.911892||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:12:36.912823||event||progress-marker||training-end||5||1
+2016-10-29 16:12:43.281111||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:12:54.004403||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:12:57.557874||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 16:12:57.558013||event||progress-marker||training-end||0||1
+2016-10-29 16:12:59.908449||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:12:59.909715||event||progress-marker||training-end||7||1
+2016-10-29 16:13:00.354335||event||progress-marker||measurement-start||6||1
+2016-10-29 16:13:01.980365||event||progress-marker||measurement-start||5||1
+2016-10-29 16:13:02.566488||event||progress-marker||measurement-start||0||1
+2016-10-29 16:13:03.762513||event||progress-marker||measurement-start||1||0
+2016-10-29 16:13:03.781938||event||progress-marker||measurement-start||4||0
+2016-10-29 16:13:03.904700||event||progress-marker||measurement-start||2||0
+2016-10-29 16:13:04.612430||event||progress-marker||measurement-start||3||0
+2016-10-29 16:13:04.924763||event||progress-marker||measurement-start||7||1
+2016-10-29 16:13:40.555536||measurement||news||2016-10-29 16:13:39.838917@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:13:40.860747||measurement||news||2016-10-29 16:13:39.838917@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:13:41.129864||measurement||news||2016-10-29 16:13:39.838917@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:13:41.373557||measurement||news||2016-10-29 16:13:39.838917@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:13:41.486414||measurement||news||2016-10-29 16:13:39.838917@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:13:41.486827||measurement||loadtime||0:00:36.130772||6||1
+2016-10-29 16:13:41.992763||measurement||news||2016-10-29 16:13:41.376117@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:13:42.249363||measurement||news||2016-10-29 16:13:41.376117@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:13:42.686896||measurement||news||2016-10-29 16:13:41.376117@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:13:42.809824||measurement||news||2016-10-29 16:13:41.376117@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:13:42.994439||measurement||news||2016-10-29 16:13:41.376117@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:13:42.995401||measurement||loadtime||0:00:35.426233||0||1
+2016-10-29 16:13:44.003732||measurement||news||2016-10-29 16:13:43.612656@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:13:44.062996||measurement||news||2016-10-29 16:13:43.612656@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:13:44.127060||measurement||news||2016-10-29 16:13:43.612656@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:13:44.187498||measurement||news||2016-10-29 16:13:43.612656@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:13:44.328209||measurement||news||2016-10-29 16:13:43.612656@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:13:44.328321||measurement||loadtime||0:00:35.419602||2||0
+2016-10-29 16:13:44.705054||measurement||news||2016-10-29 16:13:39.375582@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:13:44.727142||measurement||news||2016-10-29 16:13:39.920825@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:13:44.798229||measurement||news||2016-10-29 16:13:39.375582@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:13:44.839891||measurement||news||2016-10-29 16:13:39.920825@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:13:44.861979||measurement||news||2016-10-29 16:13:39.375582@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:13:44.918737||measurement||news||2016-10-29 16:13:39.375582@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:13:44.946125||measurement||news||2016-10-29 16:13:39.920825@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:13:44.982975||measurement||news||2016-10-29 16:13:39.375582@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:13:44.983288||measurement||loadtime||0:00:35.367355||3||0
+2016-10-29 16:13:45.105375||measurement||news||2016-10-29 16:13:39.920825@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:13:45.192896||measurement||news||2016-10-29 16:13:39.920825@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:13:45.193499||measurement||loadtime||0:00:36.428186||1||0
+2016-10-29 16:13:46.668472||measurement||news||2016-10-29 16:13:41.529324@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:13:46.792292||measurement||news||2016-10-29 16:13:41.529324@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:13:46.903257||measurement||news||2016-10-29 16:13:41.529324@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:13:47.020702||measurement||news||2016-10-29 16:13:41.529324@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:13:47.113016||measurement||news||2016-10-29 16:13:41.529324@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:13:47.113651||measurement||loadtime||0:00:38.329776||4||0
+2016-10-29 16:13:59.852252||measurement||news||2016-10-29 16:13:57.958280@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:13:59.890943||measurement||news||2016-10-29 16:13:59.517574@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:13:59.996707||measurement||news||2016-10-29 16:13:59.517574@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:14:00.106616||measurement||news||2016-10-29 16:13:57.958280@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:14:00.306280||measurement||news||2016-10-29 16:13:57.958280@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:14:00.384806||measurement||news||2016-10-29 16:13:59.517574@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:14:00.443056||measurement||news||2016-10-29 16:13:57.958280@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:14:00.541883||measurement||news||2016-10-29 16:13:57.958280@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:14:00.542367||measurement||loadtime||0:00:14.045839||6||1
+2016-10-29 16:14:00.542834||event||progress-marker||measurement-end||6||1
+2016-10-29 16:14:00.612415||measurement||news||2016-10-29 16:13:59.517574@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:14:00.845377||measurement||news||2016-10-29 16:13:59.517574@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:14:00.845737||measurement||loadtime||0:00:12.849691||0||1
+2016-10-29 16:14:00.845955||event||progress-marker||measurement-end||0||1
+2016-10-29 16:14:03.536543||measurement||news||2016-10-29 16:14:01.810877@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:14:03.729412||measurement||news||2016-10-29 16:14:01.810877@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:14:03.837400||measurement||news||2016-10-29 16:14:01.810877@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:14:04.054342||measurement||news||2016-10-29 16:14:01.810877@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:14:04.139991||measurement||news||2016-10-29 16:14:01.810877@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:14:04.140226||measurement||loadtime||0:00:14.808103||2||0
+2016-10-29 16:14:04.140363||event||progress-marker||measurement-end||2||0
+2016-10-29 16:14:10.222510||measurement||news||2016-10-29 16:14:10.035634@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:14:10.297545||measurement||news||2016-10-29 16:14:10.035634@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:14:10.445774||measurement||news||2016-10-29 16:14:10.035634@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:14:10.539174||measurement||news||2016-10-29 16:14:10.035634@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:14:10.613072||measurement||news||2016-10-29 16:14:10.035634@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:14:10.613192||measurement||loadtime||0:00:18.494242||4||0
+2016-10-29 16:14:10.613236||event||progress-marker||measurement-end||4||0
+2016-10-29 16:14:14.874944||measurement||news||2016-10-29 16:14:14.648279@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:14:14.927685||measurement||news||2016-10-29 16:14:14.648279@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:14:14.975450||measurement||news||2016-10-29 16:14:14.648279@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:14:15.055368||measurement||news||2016-10-29 16:14:14.648279@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:14:15.112024||measurement||news||2016-10-29 16:14:14.648279@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:14:15.112320||measurement||loadtime||0:00:25.123020||3||0
+2016-10-29 16:14:15.112463||event||progress-marker||measurement-end||3||0
+2016-10-29 16:14:50.331296||meta||block_id end||5
+2016-10-29 16:14:50.331487||meta||block_id start||6
+2016-10-29 16:14:50.331506||meta||assignment||0@|6@|3@|4@|7@|1@|5@|2
+2016-10-29 16:14:55.794294||event||progress-marker||training-start||7||1
+2016-10-29 16:14:55.822731||event||progress-marker||training-start||4||0
+2016-10-29 16:14:55.823270||event||progress-marker||training-end||4||0
+2016-10-29 16:14:56.166696||event||progress-marker||training-start||0||0
+2016-10-29 16:14:56.166929||event||progress-marker||training-end||0||0
+2016-10-29 16:14:56.299668||event||progress-marker||training-start||2||1
+2016-10-29 16:14:56.551209||event||progress-marker||training-start||6||0
+2016-10-29 16:14:56.551713||event||progress-marker||training-end||6||0
+2016-10-29 16:14:56.557227||event||progress-marker||training-start||3||0
+2016-10-29 16:14:56.558553||event||progress-marker||training-end||3||0
+2016-10-29 16:14:56.692347||event||progress-marker||training-start||5||1
+2016-10-29 16:14:56.829443||event||progress-marker||training-start||1||1
+2016-10-29 16:15:36.244835||error||website timeout||http://jalopnik.com||7||1
+2016-10-29 16:15:36.379265||error||website timeout||http://jalopnik.com||2||1
+2016-10-29 16:15:36.781578||error||website timeout||http://jalopnik.com||5||1
+2016-10-29 16:15:36.852803||error||website timeout||http://jalopnik.com||1||1
+2016-10-29 16:15:41.552717||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:15:41.624791||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 16:15:41.984153||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:15:42.248399||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 16:16:10.924824||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 16:16:30.736158||treatment||visit website||http://ford.com||2||1
+2016-10-29 16:16:33.064282||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:16:35.216011||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 16:16:37.380020||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:16:37.629629||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 16:16:37.629785||event||progress-marker||training-end||2||1
+2016-10-29 16:18:13.230823||treatment||visit website||http://ford.com||1||1
+2016-10-29 16:18:18.378399||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:18:18.492288||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 16:18:18.492872||event||progress-marker||training-end||1||1
+2016-10-29 16:18:20.072423||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:18:28.484194||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:18:28.484317||event||progress-marker||training-end||7||1
+2016-10-29 16:18:38.708954||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:18:38.709750||event||progress-marker||training-end||5||1
+2016-10-29 16:18:41.137784||event||progress-marker||measurement-start||4||0
+2016-10-29 16:18:41.507667||event||progress-marker||measurement-start||0||0
+2016-10-29 16:18:41.863889||event||progress-marker||measurement-start||6||0
+2016-10-29 16:18:41.893427||event||progress-marker||measurement-start||3||0
+2016-10-29 16:18:42.805622||event||progress-marker||measurement-start||2||1
+2016-10-29 16:18:43.512077||event||progress-marker||measurement-start||7||1
+2016-10-29 16:18:43.525744||event||progress-marker||measurement-start||1||1
+2016-10-29 16:18:43.721256||event||progress-marker||measurement-start||5||1
+2016-10-29 16:19:06.225481||measurement||news||2016-10-29 16:19:04.375944@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:19:06.755735||measurement||news||2016-10-29 16:19:04.375944@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:19:07.038605||measurement||news||2016-10-29 16:19:04.375944@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:19:07.338008||measurement||news||2016-10-29 16:19:04.375944@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:19:08.044690||measurement||news||2016-10-29 16:19:04.375944@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:19:08.044808||measurement||loadtime||0:00:21.901735||4||0
+2016-10-29 16:19:08.903492||measurement||news||2016-10-29 16:19:07.972934@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:19:09.065496||measurement||news||2016-10-29 16:19:07.972934@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:19:09.370915||measurement||news||2016-10-29 16:19:07.972934@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:19:10.065299||measurement||news||2016-10-29 16:19:07.972934@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:19:10.411805||measurement||news||2016-10-29 16:19:07.972934@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:19:10.412569||measurement||loadtime||0:00:22.604735||2||1
+2016-10-29 16:19:19.422097||measurement||news||2016-10-29 16:19:18.439439@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:19:19.774693||measurement||news||2016-10-29 16:19:18.439439@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:19:20.240487||measurement||news||2016-10-29 16:19:18.439439@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:19:20.660423||measurement||news||2016-10-29 16:19:18.439439@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:19:20.864395||measurement||news||2016-10-29 16:19:18.439439@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:19:20.865087||measurement||loadtime||0:00:33.997173||6||0
+2016-10-29 16:19:23.158013||measurement||news||2016-10-29 16:19:17.111034@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:19:23.288208||measurement||news||2016-10-29 16:19:17.111034@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:19:23.747139||measurement||news||2016-10-29 16:19:17.111034@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:19:24.015178||measurement||news||2016-10-29 16:19:17.111034@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:19:24.213423||measurement||news||2016-10-29 16:19:17.111034@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:19:24.214474||measurement||loadtime||0:00:37.698338||0||0
+2016-10-29 16:19:26.840672||measurement||news||2016-10-29 16:19:25.365542@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:19:27.169083||measurement||news||2016-10-29 16:19:25.365542@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:19:27.696180||measurement||news||2016-10-29 16:19:25.365542@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:19:28.260933||measurement||news||2016-10-29 16:19:25.365542@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:19:29.658424||measurement||news||2016-10-29 16:19:24.524530@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:19:29.889521||measurement||news||2016-10-29 16:19:24.524530@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:19:30.251464||measurement||news||2016-10-29 16:19:25.365542@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:19:30.252972||measurement||loadtime||0:00:41.724827||1||1
+2016-10-29 16:19:30.276692||measurement||news||2016-10-29 16:19:24.524530@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:19:30.628618||measurement||news||2016-10-29 16:19:24.524530@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:19:30.841374||measurement||news||2016-10-29 16:19:24.524530@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:19:30.841999||measurement||loadtime||0:00:43.945735||3||0
+2016-10-29 16:19:33.048649||measurement||news||2016-10-29 16:19:32.344900@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:19:33.449995||measurement||news||2016-10-29 16:19:32.344900@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:19:33.837444||measurement||news||2016-10-29 16:19:32.344900@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:19:34.256513||measurement||news||2016-10-29 16:19:32.344900@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:19:34.425481||measurement||news||2016-10-29 16:19:32.344900@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:19:34.426756||measurement||loadtime||0:00:45.691039||5||1
+2016-10-29 16:19:43.541873||measurement||news||2016-10-29 16:19:42.551199@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:19:43.808185||measurement||news||2016-10-29 16:19:42.551199@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:19:44.650820||measurement||news||2016-10-29 16:19:42.551199@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:19:46.259916||measurement||news||2016-10-29 16:19:42.551199@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:19:47.472321||measurement||news||2016-10-29 16:19:42.551199@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:19:47.475832||measurement||loadtime||0:00:32.058213||2||1
+2016-10-29 16:19:47.476310||event||progress-marker||measurement-end||2||1
+2016-10-29 16:19:48.397055||measurement||news||2016-10-29 16:19:47.968998@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:19:48.572955||measurement||news||2016-10-29 16:19:47.968998@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:19:48.753472||measurement||news||2016-10-29 16:19:47.968998@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:19:48.967522||measurement||news||2016-10-29 16:19:47.968998@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:19:49.086111||measurement||news||2016-10-29 16:19:47.968998@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:19:49.086660||measurement||loadtime||0:00:36.034676||4||0
+2016-10-29 16:19:49.087644||event||progress-marker||measurement-end||4||0
+2016-10-29 16:19:53.612234||measurement||news||2016-10-29 16:19:53.248905@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:19:54.161286||measurement||news||2016-10-29 16:19:53.248905@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:19:54.509330||measurement||news||2016-10-29 16:19:53.248905@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:19:54.798392||measurement||news||2016-10-29 16:19:53.248905@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:19:54.929939||measurement||news||2016-10-29 16:19:53.248905@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:19:54.931830||measurement||loadtime||0:00:19.673753||1||1
+2016-10-29 16:19:54.932092||event||progress-marker||measurement-end||1||1
+2016-10-29 16:19:55.982869||measurement||news||2016-10-29 16:19:55.187402@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:19:56.077183||measurement||news||2016-10-29 16:19:55.298594@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:19:56.215660||measurement||news||2016-10-29 16:19:55.854129@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:19:56.314411||measurement||news||2016-10-29 16:19:55.854129@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:19:56.319182||measurement||news||2016-10-29 16:19:55.298594@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:19:56.364721||measurement||news||2016-10-29 16:19:55.187402@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:19:56.483099||measurement||news||2016-10-29 16:19:55.854129@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:19:56.608660||measurement||news||2016-10-29 16:19:55.298594@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:19:56.800547||measurement||news||2016-10-29 16:19:55.854129@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:19:56.962972||measurement||news||2016-10-29 16:19:55.298594@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:19:57.280572||measurement||news||2016-10-29 16:19:55.854129@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:19:57.280956||measurement||loadtime||0:00:21.433295||3||0
+2016-10-29 16:19:57.281131||event||progress-marker||measurement-end||3||0
+2016-10-29 16:19:57.295405||measurement||news||2016-10-29 16:19:55.298594@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:19:57.295698||measurement||loadtime||0:00:31.427508||6||0
+2016-10-29 16:19:57.295735||event||progress-marker||measurement-end||6||0
+2016-10-29 16:19:57.576242||measurement||news||2016-10-29 16:19:55.187402@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:19:57.755880||measurement||news||2016-10-29 16:19:55.187402@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:19:57.901425||measurement||news||2016-10-29 16:19:55.187402@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:19:57.903102||measurement||loadtime||0:00:18.470697||5||1
+2016-10-29 16:19:57.907949||event||progress-marker||measurement-end||5||1
+2016-10-29 16:19:59.004030||measurement||news||2016-10-29 16:19:57.520835@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:19:59.065929||measurement||news||2016-10-29 16:19:57.520835@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:19:59.150842||measurement||news||2016-10-29 16:19:57.520835@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:19:59.217302||measurement||news||2016-10-29 16:19:57.520835@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:19:59.317918||measurement||news||2016-10-29 16:19:57.520835@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:19:59.318212||measurement||loadtime||0:00:30.098125||0||0
+2016-10-29 16:19:59.318340||event||progress-marker||measurement-end||0||0
+2016-10-29 16:19:59.378172||meta||block_id end||6
+2016-10-29 16:19:59.378343||meta||block_id start||7
+2016-10-29 16:19:59.378355||meta||assignment||6@|1@|0@|3@|5@|2@|7@|4
+2016-10-29 16:20:04.817883||event||progress-marker||training-start||4||1
+2016-10-29 16:20:04.968161||event||progress-marker||training-start||6||0
+2016-10-29 16:20:04.968271||event||progress-marker||training-end||6||0
+2016-10-29 16:20:05.170835||event||progress-marker||training-start||7||1
+2016-10-29 16:20:05.266911||event||progress-marker||training-start||1||0
+2016-10-29 16:20:05.267010||event||progress-marker||training-end||1||0
+2016-10-29 16:20:05.402943||event||progress-marker||training-start||3||0
+2016-10-29 16:20:05.403177||event||progress-marker||training-end||3||0
+2016-10-29 16:20:05.523333||event||progress-marker||training-start||2||1
+2016-10-29 16:20:05.548968||event||progress-marker||training-start||0||0
+2016-10-29 16:20:05.553473||event||progress-marker||training-end||0||0
+2016-10-29 16:20:05.792004||event||progress-marker||training-start||5||1
+2016-10-29 16:20:45.047066||error||website timeout||http://jalopnik.com||4||1
+2016-10-29 16:20:45.359272||error||website timeout||http://jalopnik.com||7||1
+2016-10-29 16:20:45.730491||error||website timeout||http://jalopnik.com||2||1
+2016-10-29 16:20:45.909084||error||website timeout||http://jalopnik.com||5||1
+2016-10-29 16:20:50.755926||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:20:50.968597||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 16:20:51.076499||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:20:51.731877||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:21:09.379300||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:21:12.208229||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:21:37.261457||error||website timeout||http://popularmechanics.com||2||1
+2016-10-29 16:21:42.446788||treatment||visit website||http://ford.com||2||1
+2016-10-29 16:21:42.655020||error||website timeout||http://popularmechanics.com||4||1
+2016-10-29 16:21:47.911852||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:22:16.504297||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:22:17.012092||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 16:22:17.012188||event||progress-marker||training-end||2||1
+2016-10-29 16:22:23.292212||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:22:23.292800||event||progress-marker||training-end||7||1
+2016-10-29 16:22:26.176228||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:22:26.176934||event||progress-marker||training-end||4||1
+2016-10-29 16:23:18.140181||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:23:29.259898||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:23:29.260128||event||progress-marker||training-end||5||1
+2016-10-29 16:23:30.310186||event||progress-marker||measurement-start||6||0
+2016-10-29 16:23:30.579751||event||progress-marker||measurement-start||1||0
+2016-10-29 16:23:30.709011||event||progress-marker||measurement-start||3||0
+2016-10-29 16:23:30.878380||event||progress-marker||measurement-start||0||0
+2016-10-29 16:23:31.286539||event||progress-marker||measurement-start||4||1
+2016-10-29 16:23:32.106292||event||progress-marker||measurement-start||2||1
+2016-10-29 16:23:33.409624||event||progress-marker||measurement-start||7||1
+2016-10-29 16:23:34.268449||event||progress-marker||measurement-start||5||1
+2016-10-29 16:24:03.294333||measurement||news||2016-10-29 16:23:58.009728@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:24:03.414176||measurement||news||2016-10-29 16:23:58.009728@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:24:03.528698||measurement||news||2016-10-29 16:23:58.009728@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:24:03.638215||measurement||news||2016-10-29 16:23:58.009728@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:24:03.741183||measurement||news||2016-10-29 16:23:58.009728@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:24:03.741249||measurement||loadtime||0:00:28.157312||1||0
+2016-10-29 16:24:05.416182||measurement||news||2016-10-29 16:24:00.234550@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:24:05.971261||measurement||news||2016-10-29 16:24:00.234550@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:24:06.625874||measurement||news||2016-10-29 16:24:00.234550@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:24:07.206723||measurement||news||2016-10-29 16:24:00.234550@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:24:07.420246||measurement||news||2016-10-29 16:24:00.234550@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:24:07.420644||measurement||loadtime||0:00:32.104375||6||0
+2016-10-29 16:24:07.922146||measurement||news||2016-10-29 16:24:06.215880@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:24:08.483019||measurement||news||2016-10-29 16:24:06.215880@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:24:08.960101||measurement||news||2016-10-29 16:24:06.215880@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:24:09.660783||measurement||news||2016-10-29 16:24:06.215880@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:24:09.756522||measurement||news||2016-10-29 16:24:07.995227@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:24:09.871713||measurement||news||2016-10-29 16:24:06.215880@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:24:09.871917||measurement||loadtime||0:00:33.988618||0||0
+2016-10-29 16:24:10.131260||measurement||news||2016-10-29 16:24:07.995227@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:24:10.703686||measurement||news||2016-10-29 16:24:07.995227@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:24:11.270211||measurement||news||2016-10-29 16:24:07.995227@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:24:11.480580||measurement||news||2016-10-29 16:24:08.845393@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:24:11.602254||measurement||news||2016-10-29 16:24:07.995227@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:24:11.602330||measurement||loadtime||0:00:35.889434||3||0
+2016-10-29 16:24:11.700538||measurement||news||2016-10-29 16:24:10.741181@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:24:11.782257||measurement||news||2016-10-29 16:24:08.845393@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:24:12.015863||measurement||news||2016-10-29 16:24:08.845393@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:24:12.216456||measurement||news||2016-10-29 16:24:10.741181@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:24:12.351424||measurement||news||2016-10-29 16:24:08.845393@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:24:12.376660||measurement||news||2016-10-29 16:24:10.741181@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:24:12.570363||measurement||news||2016-10-29 16:24:08.845393@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:24:12.571572||measurement||loadtime||0:00:33.299449||5||1
+2016-10-29 16:24:12.651178||measurement||news||2016-10-29 16:24:10.741181@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:24:12.818229||measurement||news||2016-10-29 16:24:10.741181@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:24:12.825756||measurement||loadtime||0:00:36.537913||4||1
+2016-10-29 16:24:14.601712||measurement||news||2016-10-29 16:24:13.403025@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:24:14.927581||measurement||news||2016-10-29 16:24:13.403025@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:24:15.387379||measurement||news||2016-10-29 16:24:13.403025@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:24:15.697804||measurement||news||2016-10-29 16:24:13.403025@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:24:15.855611||measurement||news||2016-10-29 16:24:13.403025@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:24:15.856860||measurement||loadtime||0:00:38.748135||2||1
+2016-10-29 16:24:19.827518||measurement||news||2016-10-29 16:24:16.442715@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:24:22.155532||measurement||news||2016-10-29 16:24:16.442715@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:24:23.392314||measurement||news||2016-10-29 16:24:16.442715@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:24:24.679043||measurement||news||2016-10-29 16:24:16.442715@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:24:25.204993||measurement||news||2016-10-29 16:24:16.442715@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:24:25.205505||measurement||loadtime||0:00:46.790007||7||1
+2016-10-29 16:24:30.994262||measurement||news||2016-10-29 16:24:30.220400@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:24:31.401015||measurement||news||2016-10-29 16:24:30.220400@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:24:31.834150||measurement||news||2016-10-29 16:24:30.220400@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:24:32.309341||measurement||news||2016-10-29 16:24:30.220400@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:24:32.514566||measurement||news||2016-10-29 16:24:30.220400@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:24:32.515114||measurement||loadtime||0:00:20.089066||6||0
+2016-10-29 16:24:32.516374||event||progress-marker||measurement-end||6||0
+2016-10-29 16:24:35.576595||measurement||news||2016-10-29 16:24:34.008734@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:24:36.604149||measurement||news||2016-10-29 16:24:34.008734@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:24:37.411504||measurement||news||2016-10-29 16:24:34.008734@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:24:39.640392||measurement||news||2016-10-29 16:24:34.008734@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:24:40.769724||measurement||news||2016-10-29 16:24:40.483343@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:24:40.958570||measurement||news||2016-10-29 16:24:40.483343@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:24:41.188964||measurement||news||2016-10-29 16:24:40.483343@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:24:41.229073||measurement||news||2016-10-29 16:24:34.008734@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:24:41.229175||measurement||loadtime||0:00:32.484338||1||0
+2016-10-29 16:24:41.229211||event||progress-marker||measurement-end||1||0
+2016-10-29 16:24:41.388507||measurement||news||2016-10-29 16:24:40.483343@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:24:41.641940||measurement||news||2016-10-29 16:24:40.483343@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:24:41.642423||measurement||loadtime||0:00:26.766507||0||0
+2016-10-29 16:24:41.642609||event||progress-marker||measurement-end||0||0
+2016-10-29 16:24:42.288184||measurement||news||2016-10-29 16:24:40.968546@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:24:42.633138||measurement||news||2016-10-29 16:24:40.968546@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:24:42.725263||measurement||news||2016-10-29 16:24:42.043854@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:24:43.033099||measurement||news||2016-10-29 16:24:42.277323@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:24:43.044241||measurement||news||2016-10-29 16:24:40.968546@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:24:43.138351||measurement||news||2016-10-29 16:24:42.043854@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:24:43.221427||measurement||news||2016-10-29 16:24:42.121127@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:24:43.282247||measurement||news||2016-10-29 16:24:42.277323@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:24:43.449487||measurement||news||2016-10-29 16:24:42.043854@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:24:43.504627||measurement||news||2016-10-29 16:24:42.121127@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:24:43.533219||measurement||news||2016-10-29 16:24:42.277323@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:24:43.788511||measurement||news||2016-10-29 16:24:42.277323@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:24:43.820452||measurement||news||2016-10-29 16:24:42.043854@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:24:44.104668||measurement||news||2016-10-29 16:24:42.043854@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:24:44.105337||measurement||loadtime||0:00:23.245173||2||1
+2016-10-29 16:24:44.105987||event||progress-marker||measurement-end||2||1
+2016-10-29 16:24:44.140990||measurement||news||2016-10-29 16:24:42.121127@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:24:44.200964||measurement||news||2016-10-29 16:24:42.277323@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:24:44.201053||measurement||loadtime||0:00:26.625171||5||1
+2016-10-29 16:24:44.201075||event||progress-marker||measurement-end||5||1
+2016-10-29 16:24:44.393207||measurement||news||2016-10-29 16:24:42.121127@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:24:44.404214||measurement||news||2016-10-29 16:24:40.968546@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:24:44.542619||measurement||news||2016-10-29 16:24:40.968546@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:24:44.543060||measurement||loadtime||0:00:26.713989||4||1
+2016-10-29 16:24:44.543596||event||progress-marker||measurement-end||4||1
+2016-10-29 16:24:44.701095||measurement||news||2016-10-29 16:24:42.121127@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:24:44.702032||measurement||loadtime||0:00:28.093976||3||0
+2016-10-29 16:24:44.702638||event||progress-marker||measurement-end||3||0
+2016-10-29 16:25:03.697626||measurement||news||2016-10-29 16:25:03.376023@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:25:03.767727||measurement||news||2016-10-29 16:25:03.376023@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:25:03.845621||measurement||news||2016-10-29 16:25:03.376023@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:25:03.885036||measurement||news||2016-10-29 16:25:03.376023@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:25:03.934260||measurement||news||2016-10-29 16:25:03.376023@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:25:03.934649||measurement||loadtime||0:00:33.725272||7||1
+2016-10-29 16:25:03.935111||event||progress-marker||measurement-end||7||1
+2016-10-29 16:25:04.036158||meta||block_id end||7
+2016-10-29 16:25:04.036401||meta||block_id start||8
+2016-10-29 16:25:04.036422||meta||assignment||1@|3@|7@|2@|6@|4@|5@|0
+2016-10-29 16:25:08.910482||event||progress-marker||training-start||1||0
+2016-10-29 16:25:08.911082||event||progress-marker||training-end||1||0
+2016-10-29 16:25:09.647596||event||progress-marker||training-start||4||1
+2016-10-29 16:25:09.826961||event||progress-marker||training-start||7||0
+2016-10-29 16:25:09.831692||event||progress-marker||training-start||6||1
+2016-10-29 16:25:09.832578||event||progress-marker||training-end||7||0
+2016-10-29 16:25:09.949114||event||progress-marker||training-start||2||0
+2016-10-29 16:25:09.949837||event||progress-marker||training-end||2||0
+2016-10-29 16:25:10.024860||event||progress-marker||training-start||3||0
+2016-10-29 16:25:10.024945||event||progress-marker||training-end||3||0
+2016-10-29 16:25:10.048980||event||progress-marker||training-start||5||1
+2016-10-29 16:25:10.172455||event||progress-marker||training-start||0||1
+2016-10-29 16:25:24.175958||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 16:25:24.643961||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 16:25:29.555834||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 16:25:33.355915||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 16:25:35.051843||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 16:25:40.599894||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:25:50.709157||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:26:01.283814||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 16:26:06.080205||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 16:26:11.299957||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:26:16.715847||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:26:16.716107||event||progress-marker||training-end||4||1
+2016-10-29 16:26:16.820372||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 16:26:21.512058||treatment||visit website||http://ford.com||6||1
+2016-10-29 16:26:27.152549||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:26:27.551881||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 16:26:33.948962||treatment||visit website||http://ford.com||0||1
+2016-10-29 16:26:35.744152||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 16:26:35.744250||event||progress-marker||training-end||6||1
+2016-10-29 16:26:44.201113||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 16:26:44.201306||event||progress-marker||training-end||0||1
+2016-10-29 16:27:16.045842||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:27:25.512163||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:27:25.512306||event||progress-marker||training-end||5||1
+2016-10-29 16:27:25.807853||event||progress-marker||measurement-start||6||1
+2016-10-29 16:27:26.818478||event||progress-marker||measurement-start||4||1
+2016-10-29 16:27:29.129893||event||progress-marker||measurement-start||1||0
+2016-10-29 16:27:29.274752||event||progress-marker||measurement-start||0||1
+2016-10-29 16:27:30.026542||event||progress-marker||measurement-start||7||0
+2016-10-29 16:27:30.140995||event||progress-marker||measurement-start||2||0
+2016-10-29 16:27:30.233391||event||progress-marker||measurement-start||3||0
+2016-10-29 16:27:30.526568||event||progress-marker||measurement-start||5||1
+2016-10-29 16:27:48.539192||measurement||news||2016-10-29 16:27:47.259441@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:27:48.959276||measurement||news||2016-10-29 16:27:47.259441@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:27:49.171441||measurement||news||2016-10-29 16:27:47.101411@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:27:50.716148||measurement||news||2016-10-29 16:27:47.101411@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:27:50.929521||measurement||news||2016-10-29 16:27:47.101411@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:27:51.104417||measurement||news||2016-10-29 16:27:47.101411@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:27:51.222236||measurement||news||2016-10-29 16:27:47.101411@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:27:51.225705||measurement||loadtime||0:00:15.694468||5||1
+2016-10-29 16:27:52.579190||measurement||news||2016-10-29 16:27:50.621336@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:27:56.319076||measurement||news||2016-10-29 16:27:50.621336@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:27:56.544463||measurement||news||2016-10-29 16:27:47.259441@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:27:57.667573||measurement||news||2016-10-29 16:27:47.259441@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:27:58.313470||measurement||news||2016-10-29 16:27:50.621336@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:27:58.372443||measurement||news||2016-10-29 16:27:47.259441@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:27:58.373247||measurement||loadtime||0:00:27.561041||6||1
+2016-10-29 16:27:58.784902||measurement||news||2016-10-29 16:27:50.621336@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:28:02.491460||measurement||news||2016-10-29 16:27:50.621336@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:28:02.491862||measurement||loadtime||0:00:30.671703||4||1
+2016-10-29 16:28:11.401914||measurement||news||2016-10-29 16:28:10.682253@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:28:12.026155||measurement||news||2016-10-29 16:28:10.682253@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:28:12.398113||measurement||news||2016-10-29 16:28:10.682253@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:28:13.020034||measurement||news||2016-10-29 16:28:10.682253@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:28:13.708662||measurement||news||2016-10-29 16:28:10.682253@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:28:13.709581||measurement||loadtime||0:00:39.573241||1||0
+2016-10-29 16:28:19.710034||measurement||news||2016-10-29 16:28:18.729438@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:28:20.196961||measurement||news||2016-10-29 16:28:18.729438@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:28:20.496493||measurement||news||2016-10-29 16:28:18.729438@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:28:20.981018||measurement||news||2016-10-29 16:28:18.729438@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:28:21.744318||measurement||news||2016-10-29 16:28:18.729438@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:28:21.745494||measurement||loadtime||0:00:25.493721||5||1
+2016-10-29 16:28:21.746706||event||progress-marker||measurement-end||5||1
+2016-10-29 16:28:27.755509||measurement||news||2016-10-29 16:28:26.577647@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:28:28.117360||measurement||news||2016-10-29 16:28:26.577647@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:28:28.279753||measurement||news||2016-10-29 16:28:26.577647@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:28:28.497924||measurement||news||2016-10-29 16:28:26.577647@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:28:28.711886||measurement||news||2016-10-29 16:28:26.577647@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:28:28.712929||measurement||loadtime||0:00:53.680753||7||0
+2016-10-29 16:28:29.524294||measurement||news||2016-10-29 16:28:28.722066@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:28:29.876430||measurement||news||2016-10-29 16:28:28.722066@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:28:30.535373||measurement||news||2016-10-29 16:28:28.722066@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:28:30.943867||measurement||news||2016-10-29 16:28:28.722066@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:28:32.270419||measurement||news||2016-10-29 16:28:28.722066@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:28:32.272184||measurement||loadtime||0:00:28.896329||6||1
+2016-10-29 16:28:32.272927||event||progress-marker||measurement-end||6||1
+2016-10-29 16:28:33.094635||measurement||news||2016-10-29 16:28:29.925973@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:28:33.775737||measurement||news||2016-10-29 16:28:29.925973@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:28:34.502452||measurement||news||2016-10-29 16:28:29.925973@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:28:35.095554||measurement||news||2016-10-29 16:28:29.925973@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:28:35.451333||measurement||news||2016-10-29 16:28:29.925973@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:28:35.451463||measurement||loadtime||0:00:27.955343||4||1
+2016-10-29 16:28:35.451517||event||progress-marker||measurement-end||4||1
+2016-10-29 16:28:36.337124||measurement||news||2016-10-29 16:28:35.638819@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:28:36.412890||measurement||news||2016-10-29 16:28:35.638819@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:28:36.544122||measurement||news||2016-10-29 16:28:35.638819@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:28:36.642964||measurement||news||2016-10-29 16:28:35.638819@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:28:36.745496||measurement||news||2016-10-29 16:28:35.638819@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:28:36.748998||measurement||loadtime||0:00:18.036517||1||0
+2016-10-29 16:28:36.749615||event||progress-marker||measurement-end||1||0
+2016-10-29 16:28:41.564855||measurement||news||2016-10-29 16:28:41.278700@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:28:41.740815||measurement||news||2016-10-29 16:28:41.278700@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:28:41.784094||measurement||news||2016-10-29 16:28:41.278700@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:28:41.824089||measurement||news||2016-10-29 16:28:41.278700@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:28:41.862663||measurement||news||2016-10-29 16:28:41.278700@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:28:41.862854||measurement||loadtime||0:00:08.146714||7||0
+2016-10-29 16:28:41.862962||event||progress-marker||measurement-end||7||0
+2016-10-29 16:28:41.932226||meta||block_id end||8
+2016-10-29 16:28:41.932396||meta||block_id start||9
+2016-10-29 16:28:41.932409||meta||assignment||0@|1@|6@|7@|5@|4@|3@|2
+2016-10-29 16:28:46.876125||event||progress-marker||training-start||4||1
+2016-10-29 16:28:47.846427||event||progress-marker||training-start||3||1
+2016-10-29 16:28:48.045919||event||progress-marker||training-start||1||0
+2016-10-29 16:28:48.046484||event||progress-marker||training-end||1||0
+2016-10-29 16:28:48.475503||event||progress-marker||training-start||6||0
+2016-10-29 16:28:48.476774||event||progress-marker||training-end||6||0
+2016-10-29 16:28:48.623028||event||progress-marker||training-start||2||1
+2016-10-29 16:28:48.651491||event||progress-marker||training-start||0||0
+2016-10-29 16:28:48.652605||event||progress-marker||training-end||0||0
+2016-10-29 16:28:48.817048||event||progress-marker||training-start||7||0
+2016-10-29 16:28:48.818181||event||progress-marker||training-end||7||0
+2016-10-29 16:28:48.950954||event||progress-marker||training-start||5||1
+2016-10-29 16:29:04.904555||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 16:29:21.218120||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 16:29:21.343894||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 16:29:22.235929||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 16:29:29.515916||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:29:32.684328||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:29:33.876124||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 16:29:37.318532||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 16:29:49.979458||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 16:29:52.407952||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:30:21.140027||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 16:30:25.475599||treatment||visit website||http://ford.com||3||1
+2016-10-29 16:30:35.222081||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:30:40.836005||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:30:40.836947||event||progress-marker||training-end||5||1
+2016-10-29 16:30:41.800222||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 16:30:41.800295||event||progress-marker||training-end||3||1
+2016-10-29 16:30:42.415864||treatment||visit website||http://ford.com||2||1
+2016-10-29 16:30:54.372199||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 16:30:54.372285||event||progress-marker||training-end||2||1
+2016-10-29 16:32:50.299938||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 16:33:06.180121||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:33:11.351902||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:33:11.352169||event||progress-marker||training-end||4||1
+2016-10-29 16:33:12.030442||event||progress-marker||measurement-start||3||1
+2016-10-29 16:33:13.618431||event||progress-marker||measurement-start||1||0
+2016-10-29 16:33:13.983700||event||progress-marker||measurement-start||6||0
+2016-10-29 16:33:14.226781||event||progress-marker||measurement-start||0||0
+2016-10-29 16:33:14.320302||event||progress-marker||measurement-start||7||0
+2016-10-29 16:33:14.606696||event||progress-marker||measurement-start||2||1
+2016-10-29 16:33:16.101458||event||progress-marker||measurement-start||5||1
+2016-10-29 16:33:16.364245||event||progress-marker||measurement-start||4||1
+2016-10-29 16:33:48.209271||measurement||news||2016-10-29 16:33:47.455282@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:33:48.552970||measurement||news||2016-10-29 16:33:47.455282@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:33:48.933812||measurement||news||2016-10-29 16:33:47.455282@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:33:49.332010||measurement||news||2016-10-29 16:33:47.455282@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:33:50.134047||measurement||news||2016-10-29 16:33:47.455282@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:33:50.134334||measurement||loadtime||0:00:30.810152||7||0
+2016-10-29 16:33:51.002057||measurement||news||2016-10-29 16:33:48.697529@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:33:51.499395||measurement||news||2016-10-29 16:33:47.451178@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:33:52.439273||measurement||news||2016-10-29 16:33:48.697529@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:33:52.700850||measurement||news||2016-10-29 16:33:47.451178@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:33:52.944700||measurement||news||2016-10-29 16:33:48.697529@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:33:53.378319||measurement||news||2016-10-29 16:33:47.451178@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:33:53.547866||measurement||news||2016-10-29 16:33:48.697529@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:33:53.641508||measurement||news||2016-10-29 16:33:49.561221@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:33:53.978758||measurement||news||2016-10-29 16:33:48.697529@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:33:53.978865||measurement||loadtime||0:00:32.874781||5||1
+2016-10-29 16:33:54.106691||measurement||news||2016-10-29 16:33:47.451178@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:33:54.964473||measurement||news||2016-10-29 16:33:47.451178@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:33:54.964553||measurement||loadtime||0:00:35.976090||6||0
+2016-10-29 16:33:55.865834||measurement||news||2016-10-29 16:33:49.561221@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:33:57.069872||measurement||news||2016-10-29 16:33:54.783265@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:33:57.555427||measurement||news||2016-10-29 16:33:49.561221@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:33:57.883947||measurement||news||2016-10-29 16:33:54.783265@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:33:59.176529||measurement||news||2016-10-29 16:33:54.783265@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:34:00.347455||measurement||news||2016-10-29 16:33:49.561221@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:34:01.914859||measurement||news||2016-10-29 16:33:49.561221@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:34:01.914948||measurement||loadtime||0:00:43.290931||1||0
+2016-10-29 16:34:02.518896||measurement||news||2016-10-29 16:33:54.783265@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:34:02.935270||measurement||news||2016-10-29 16:33:56.674228@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:34:03.346145||measurement||news||2016-10-29 16:33:56.674228@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:34:05.462290||measurement||news||2016-10-29 16:33:54.783265@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:34:05.463767||measurement||loadtime||0:00:46.231106||0||0
+2016-10-29 16:34:07.084050||measurement||news||2016-10-29 16:33:48.964060@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:34:07.298457||measurement||news||2016-10-29 16:33:56.674228@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:34:07.831907||measurement||news||2016-10-29 16:33:56.674228@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:34:08.915074||measurement||news||2016-10-29 16:33:56.674228@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:34:08.915591||measurement||loadtime||0:00:49.295740||2||1
+2016-10-29 16:34:13.259817||measurement||news||2016-10-29 16:33:48.964060@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:34:19.027828||measurement||news||2016-10-29 16:33:48.964060@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:34:25.278533||measurement||news||2016-10-29 16:33:48.964060@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:34:27.358995||measurement||news||2016-10-29 16:34:25.168462@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:34:28.339602||measurement||news||2016-10-29 16:34:25.168462@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:34:29.001598||measurement||news||2016-10-29 16:34:25.168462@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:34:29.502937||measurement||news||2016-10-29 16:34:25.168462@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:34:30.264370||measurement||news||2016-10-29 16:34:25.168462@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:34:30.264857||measurement||loadtime||0:00:31.280961||5||1
+2016-10-29 16:34:30.265368||event||progress-marker||measurement-end||5||1
+2016-10-29 16:34:31.908378||measurement||news||2016-10-29 16:33:48.964060@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:34:31.908941||measurement||loadtime||0:01:14.873777||3||1
+2016-10-29 16:34:33.512064||measurement||news||2016-10-29 16:34:30.404697@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:34:35.800345||measurement||news||2016-10-29 16:34:30.404697@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:34:38.399974||measurement||news||2016-10-29 16:34:30.404697@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:34:39.167459||measurement||news||2016-10-29 16:34:30.404697@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:34:40.048416||measurement||news||2016-10-29 16:34:37.975341@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:34:40.416609||measurement||news||2016-10-29 16:34:30.404697@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:34:40.416748||measurement||loadtime||0:00:45.279904||7||0
+2016-10-29 16:34:40.416794||event||progress-marker||measurement-end||7||0
+2016-10-29 16:34:40.878736||measurement||news||2016-10-29 16:34:34.110637@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:34:41.138137||measurement||news||2016-10-29 16:34:37.975341@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:34:41.546224||measurement||news||2016-10-29 16:34:34.872224@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||0
+2016-10-29 16:34:42.350246||measurement||news||2016-10-29 16:34:34.110637@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:34:42.602036||measurement||news||2016-10-29 16:34:37.975341@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:34:43.985786||measurement||news||2016-10-29 16:34:42.625516@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:34:44.301552||measurement||news||2016-10-29 16:34:37.975341@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:34:44.671969||measurement||news||2016-10-29 16:34:34.110637@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:34:44.679562||measurement||news||2016-10-29 16:34:42.625516@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:34:44.833216||measurement||news||2016-10-29 16:34:43.531673@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:34:44.885572||measurement||news||2016-10-29 16:34:37.975341@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:34:44.886441||measurement||loadtime||0:00:37.966569||1||0
+2016-10-29 16:34:44.886992||event||progress-marker||measurement-end||1||0
+2016-10-29 16:34:45.734168||measurement||news||2016-10-29 16:34:42.625516@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:34:46.092600||measurement||news||2016-10-29 16:34:43.531673@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:34:46.252732||measurement||news||2016-10-29 16:34:34.110637@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:34:46.316378||measurement||news||2016-10-29 16:34:34.872224@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||0
+2016-10-29 16:34:46.330030||measurement||news||2016-10-29 16:34:42.625516@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:34:46.534927||measurement||news||2016-10-29 16:34:42.625516@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:34:46.535202||measurement||loadtime||0:00:32.615203||2||1
+2016-10-29 16:34:46.535340||event||progress-marker||measurement-end||2||1
+2016-10-29 16:34:46.581784||measurement||news||2016-10-29 16:34:34.872224@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||0
+2016-10-29 16:34:46.756175||measurement||news||2016-10-29 16:34:34.110637@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:34:46.756475||measurement||loadtime||0:01:25.388612||4||1
+2016-10-29 16:34:46.780548||measurement||news||2016-10-29 16:34:43.531673@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:34:46.808228||measurement||news||2016-10-29 16:34:34.872224@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||0
+2016-10-29 16:34:46.840158||measurement||news||2016-10-29 16:34:43.531673@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:34:46.916814||measurement||news||2016-10-29 16:34:43.531673@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:34:46.917007||measurement||loadtime||0:00:36.448124||0||0
+2016-10-29 16:34:46.917802||event||progress-marker||measurement-end||0||0
+2016-10-29 16:34:46.958111||measurement||news||2016-10-29 16:34:34.872224@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||0
+2016-10-29 16:34:46.958187||measurement||loadtime||0:00:46.990261||6||0
+2016-10-29 16:34:46.958209||event||progress-marker||measurement-end||6||0
+2016-10-29 16:34:52.329960||measurement||news||2016-10-29 16:34:41.428059@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:34:52.528851||measurement||news||2016-10-29 16:34:41.428059@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:34:52.611074||measurement||news||2016-10-29 16:34:41.428059@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:34:52.726007||measurement||news||2016-10-29 16:34:41.428059@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:34:52.833885||measurement||news||2016-10-29 16:34:41.428059@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:34:52.834837||measurement||loadtime||0:00:15.922817||3||1
+2016-10-29 16:34:52.835324||event||progress-marker||measurement-end||3||1
+2016-10-29 16:34:57.809204||measurement||news||2016-10-29 16:34:57.619758@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:34:57.905630||measurement||news||2016-10-29 16:34:57.619758@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:34:57.979930||measurement||news||2016-10-29 16:34:57.619758@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:34:58.052284||measurement||news||2016-10-29 16:34:57.619758@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:34:58.178535||measurement||news||2016-10-29 16:34:57.619758@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:34:58.179089||measurement||loadtime||0:00:06.416470||4||1
+2016-10-29 16:34:58.179691||event||progress-marker||measurement-end||4||1
+2016-10-29 16:34:58.323466||meta||block_id end||9
+2016-10-29 16:34:58.323816||meta||block_id start||10
+2016-10-29 16:34:58.323839||meta||assignment||3@|4@|2@|0@|7@|5@|1@|6
+2016-10-29 16:35:03.972186||event||progress-marker||training-start||2||0
+2016-10-29 16:35:03.972303||event||progress-marker||training-end||2||0
+2016-10-29 16:35:04.405357||event||progress-marker||training-start||1||1
+2016-10-29 16:35:04.457758||event||progress-marker||training-start||3||0
+2016-10-29 16:35:04.457897||event||progress-marker||training-end||3||0
+2016-10-29 16:35:04.628726||event||progress-marker||training-start||0||0
+2016-10-29 16:35:04.628892||event||progress-marker||training-end||0||0
+2016-10-29 16:35:04.657509||event||progress-marker||training-start||5||1
+2016-10-29 16:35:04.948081||event||progress-marker||training-start||7||1
+2016-10-29 16:35:05.113920||event||progress-marker||training-start||6||1
+2016-10-29 16:35:05.252919||event||progress-marker||training-start||4||0
+2016-10-29 16:35:05.253751||event||progress-marker||training-end||4||0
+2016-10-29 16:35:23.784304||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 16:35:24.201378||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 16:35:24.453083||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 16:35:27.345610||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 16:35:34.349524||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 16:35:36.535189||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:35:47.693447||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:35:49.717287||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 16:35:58.144018||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 16:36:02.760025||treatment||visit website||http://ford.com||6||1
+2016-10-29 16:36:18.527124||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 16:36:18.527908||event||progress-marker||training-end||6||1
+2016-10-29 16:37:01.937756||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:37:03.131263||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 16:37:16.055880||treatment||visit website||http://ford.com||1||1
+2016-10-29 16:37:21.460022||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 16:37:21.460112||event||progress-marker||training-end||1||1
+2016-10-29 16:38:13.687495||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:38:23.191930||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:38:23.192689||event||progress-marker||training-end||5||1
+2016-10-29 16:38:36.346708||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:38:47.893597||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:38:54.432092||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:38:54.433305||event||progress-marker||training-end||7||1
+2016-10-29 16:38:54.481786||event||progress-marker||measurement-start||2||0
+2016-10-29 16:38:54.984136||event||progress-marker||measurement-start||3||0
+2016-10-29 16:38:55.227713||event||progress-marker||measurement-start||0||0
+2016-10-29 16:38:55.702463||event||progress-marker||measurement-start||4||0
+2016-10-29 16:38:56.630779||event||progress-marker||measurement-start||1||1
+2016-10-29 16:38:58.263105||event||progress-marker||measurement-start||5||1
+2016-10-29 16:38:58.842123||event||progress-marker||measurement-start||6||1
+2016-10-29 16:38:59.449126||event||progress-marker||measurement-start||7||1
+2016-10-29 16:39:31.613420||measurement||news||2016-10-29 16:39:29.405771@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:39:32.332195||measurement||news||2016-10-29 16:39:29.405771@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:39:32.496543||measurement||news||2016-10-29 16:39:30.836453@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:39:32.612838||measurement||news||2016-10-29 16:39:28.832309@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:39:33.144601||measurement||news||2016-10-29 16:39:30.857109@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:39:33.162311||measurement||news||2016-10-29 16:39:29.405771@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:39:33.270232||measurement||news||2016-10-29 16:39:30.836453@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:39:33.490597||measurement||news||2016-10-29 16:39:30.836453@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:39:33.607630||measurement||news||2016-10-29 16:39:29.405771@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:39:33.937955||measurement||news||2016-10-29 16:39:29.405771@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:39:33.938054||measurement||loadtime||0:00:34.450080||2||0
+2016-10-29 16:39:34.034199||measurement||news||2016-10-29 16:39:30.836453@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:39:34.138184||measurement||news||2016-10-29 16:39:30.857109@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:39:34.279546||measurement||news||2016-10-29 16:39:28.832309@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:39:34.430414||measurement||news||2016-10-29 16:39:30.836453@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:39:34.430996||measurement||loadtime||0:00:30.586584||6||1
+2016-10-29 16:39:34.721522||measurement||news||2016-10-29 16:39:28.832309@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:39:34.862120||measurement||news||2016-10-29 16:39:30.857109@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:39:35.244489||measurement||news||2016-10-29 16:39:30.857109@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:39:35.713255||measurement||news||2016-10-29 16:39:34.357112@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:39:35.723636||measurement||news||2016-10-29 16:39:30.857109@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:39:35.723808||measurement||loadtime||0:00:35.734613||3||0
+2016-10-29 16:39:36.226988||measurement||news||2016-10-29 16:39:34.357112@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:39:36.520663||measurement||news||2016-10-29 16:39:34.357112@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:39:37.039571||measurement||news||2016-10-29 16:39:28.832309@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:39:37.228782||measurement||news||2016-10-29 16:39:34.357112@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:39:37.478266||measurement||news||2016-10-29 16:39:31.957070@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:39:37.976680||measurement||news||2016-10-29 16:39:34.357112@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:39:37.977274||measurement||loadtime||0:00:34.707328||5||1
+2016-10-29 16:39:39.608447||measurement||news||2016-10-29 16:39:28.832309@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:39:39.610083||measurement||loadtime||0:00:38.905652||4||0
+2016-10-29 16:39:39.828879||measurement||news||2016-10-29 16:39:31.957070@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:39:40.852755||measurement||news||2016-10-29 16:39:31.957070@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:39:41.758471||measurement||news||2016-10-29 16:39:31.957070@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:39:43.143737||measurement||news||2016-10-29 16:39:40.826168@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:39:43.538351||measurement||news||2016-10-29 16:39:31.957070@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:39:43.547553||measurement||loadtime||0:00:43.308086||0||0
+2016-10-29 16:39:43.554107||measurement||news||2016-10-29 16:39:40.826168@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:39:44.296706||measurement||news||2016-10-29 16:39:40.826168@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:39:45.270904||measurement||news||2016-10-29 16:39:40.826168@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:39:45.804026||measurement||news||2016-10-29 16:39:40.826168@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:39:45.804647||measurement||loadtime||0:00:44.167804||1||1
+2016-10-29 16:40:00.292180||measurement||news||2016-10-29 16:39:59.757167@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:40:00.491318||measurement||news||2016-10-29 16:39:59.757167@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:40:00.696837||measurement||news||2016-10-29 16:39:59.757167@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:40:00.961333||measurement||news||2016-10-29 16:39:59.757167@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:40:01.124078||measurement||news||2016-10-29 16:39:59.757167@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:40:01.125087||measurement||loadtime||0:00:22.184622||2||0
+2016-10-29 16:40:01.125583||event||progress-marker||measurement-end||2||0
+2016-10-29 16:40:09.958000||measurement||news||2016-10-29 16:40:09.163066@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:40:10.226991||measurement||news||2016-10-29 16:40:09.163066@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:40:10.850292||measurement||news||2016-10-29 16:40:09.163066@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:40:11.368578||measurement||news||2016-10-29 16:40:09.163066@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:40:11.592376||measurement||news||2016-10-29 16:40:09.163066@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:40:11.592550||measurement||loadtime||0:00:28.604683||5||1
+2016-10-29 16:40:11.592586||event||progress-marker||measurement-end||5||1
+2016-10-29 16:40:12.039983||measurement||news||2016-10-29 16:40:11.289882@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||6||1
+2016-10-29 16:40:12.448588||measurement||news||2016-10-29 16:40:11.289882@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||6||1
+2016-10-29 16:40:12.656641||measurement||news||2016-10-29 16:40:12.208111@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||0
+2016-10-29 16:40:12.768140||measurement||news||2016-10-29 16:40:11.289882@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||6||1
+2016-10-29 16:40:12.817400||measurement||news||2016-10-29 16:40:12.208111@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||0
+2016-10-29 16:40:12.987898||measurement||news||2016-10-29 16:40:12.208111@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||0
+2016-10-29 16:40:13.008734||measurement||news||2016-10-29 16:40:11.289882@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||6||1
+2016-10-29 16:40:13.131774||measurement||news||2016-10-29 16:40:12.208111@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||0
+2016-10-29 16:40:13.284975||measurement||news||2016-10-29 16:40:11.289882@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||6||1
+2016-10-29 16:40:13.285101||measurement||loadtime||0:00:33.849224||6||1
+2016-10-29 16:40:13.285154||event||progress-marker||measurement-end||6||1
+2016-10-29 16:40:13.334975||measurement||news||2016-10-29 16:40:12.208111@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||0
+2016-10-29 16:40:13.335060||measurement||loadtime||0:00:32.606152||3||0
+2016-10-29 16:40:13.335088||event||progress-marker||measurement-end||3||0
+2016-10-29 16:40:13.916071||measurement||news||2016-10-29 16:40:13.512561@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:40:14.081347||measurement||news||2016-10-29 16:40:13.512561@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:40:14.217968||measurement||news||2016-10-29 16:40:13.512561@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:40:14.323324||measurement||news||2016-10-29 16:40:13.512561@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:40:14.500068||measurement||news||2016-10-29 16:40:13.512561@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:40:14.501374||measurement||loadtime||0:00:29.877264||4||0
+2016-10-29 16:40:14.508167||event||progress-marker||measurement-end||4||0
+2016-10-29 16:40:16.271209||measurement||news||2016-10-29 16:40:13.587033@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||0
+2016-10-29 16:40:17.590837||measurement||news||2016-10-29 16:40:13.587033@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||0
+2016-10-29 16:40:17.617881||measurement||news||2016-10-29 16:40:17.008659@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:40:17.775623||measurement||news||2016-10-29 16:40:17.008659@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:40:17.842444||measurement||news||2016-10-29 16:40:17.008659@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:40:17.913011||measurement||news||2016-10-29 16:40:17.008659@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:40:18.050615||measurement||news||2016-10-29 16:40:17.008659@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:40:18.050890||measurement||loadtime||0:01:13.594791||7||1
+2016-10-29 16:40:18.278181||measurement||news||2016-10-29 16:40:17.754803@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:40:18.480593||measurement||news||2016-10-29 16:40:13.587033@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||0
+2016-10-29 16:40:18.677838||measurement||news||2016-10-29 16:40:17.754803@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:40:18.858514||measurement||news||2016-10-29 16:40:17.754803@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:40:18.960913||measurement||news||2016-10-29 16:40:17.754803@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:40:19.070602||measurement||news||2016-10-29 16:40:13.587033@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||0
+2016-10-29 16:40:19.126416||measurement||news||2016-10-29 16:40:17.754803@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:40:19.126527||measurement||loadtime||0:00:28.316579||1||1
+2016-10-29 16:40:19.126553||event||progress-marker||measurement-end||1||1
+2016-10-29 16:40:19.536293||measurement||news||2016-10-29 16:40:13.587033@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||0
+2016-10-29 16:40:19.536377||measurement||loadtime||0:00:30.980090||0||0
+2016-10-29 16:40:19.536396||event||progress-marker||measurement-end||0||0
+2016-10-29 16:40:28.185528||measurement||news||2016-10-29 16:40:27.667457@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:40:28.226053||measurement||news||2016-10-29 16:40:27.667457@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:40:28.300539||measurement||news||2016-10-29 16:40:27.667457@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:40:28.334596||measurement||news||2016-10-29 16:40:27.667457@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:40:28.383781||measurement||news||2016-10-29 16:40:27.667457@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:40:28.384124||measurement||loadtime||0:00:05.327201||7||1
+2016-10-29 16:40:28.384421||event||progress-marker||measurement-end||7||1
+2016-10-29 16:40:28.507488||meta||block_id end||10
+2016-10-29 16:40:28.507653||meta||block_id start||11
+2016-10-29 16:40:28.507665||meta||assignment||4@|0@|6@|1@|2@|7@|5@|3
+2016-10-29 16:40:33.535946||event||progress-marker||training-start||2||1
+2016-10-29 16:40:33.765388||event||progress-marker||training-start||1||0
+2016-10-29 16:40:33.766421||event||progress-marker||training-end||1||0
+2016-10-29 16:40:33.817404||event||progress-marker||training-start||0||0
+2016-10-29 16:40:33.818291||event||progress-marker||training-end||0||0
+2016-10-29 16:40:33.971800||event||progress-marker||training-start||3||1
+2016-10-29 16:40:33.988083||event||progress-marker||training-start||5||1
+2016-10-29 16:40:34.096308||event||progress-marker||training-start||7||1
+2016-10-29 16:40:34.137468||event||progress-marker||training-start||4||0
+2016-10-29 16:40:34.138327||event||progress-marker||training-end||4||0
+2016-10-29 16:40:34.144132||event||progress-marker||training-start||6||0
+2016-10-29 16:40:34.144712||event||progress-marker||training-end||6||0
+2016-10-29 16:41:05.018667||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 16:41:10.348133||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 16:41:14.061796||error||website timeout||http://jalopnik.com||5||1
+2016-10-29 16:41:14.314748||error||website timeout||http://jalopnik.com||7||1
+2016-10-29 16:41:18.602100||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 16:41:18.663983||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 16:41:19.443930||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:41:19.636232||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:41:36.810256||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:41:49.712726||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 16:41:59.492156||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 16:42:21.741330||treatment||visit website||http://ford.com||2||1
+2016-10-29 16:42:21.939190||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:42:22.256042||treatment||visit website||http://ford.com||3||1
+2016-10-29 16:42:34.233354||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:42:39.065515||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:42:39.142001||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 16:42:39.142072||event||progress-marker||training-end||2||1
+2016-10-29 16:42:40.671833||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 16:42:40.672501||event||progress-marker||training-end||3||1
+2016-10-29 16:42:48.285431||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:42:48.285568||event||progress-marker||training-end||5||1
+2016-10-29 16:42:58.827817||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:42:58.828349||event||progress-marker||training-end||7||1
+2016-10-29 16:42:59.019604||event||progress-marker||measurement-start||1||0
+2016-10-29 16:42:59.061570||event||progress-marker||measurement-start||0||0
+2016-10-29 16:42:59.184053||event||progress-marker||measurement-start||2||1
+2016-10-29 16:42:59.401467||event||progress-marker||measurement-start||4||0
+2016-10-29 16:42:59.407885||event||progress-marker||measurement-start||6||0
+2016-10-29 16:43:00.712053||event||progress-marker||measurement-start||3||1
+2016-10-29 16:43:03.315743||event||progress-marker||measurement-start||5||1
+2016-10-29 16:43:03.839340||event||progress-marker||measurement-start||7||1
+2016-10-29 16:43:18.986626||measurement||news||2016-10-29 16:43:18.706131@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:43:19.163886||measurement||news||2016-10-29 16:43:18.706131@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:43:19.471307||measurement||news||2016-10-29 16:43:18.706131@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:43:19.604759||measurement||news||2016-10-29 16:43:18.706131@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:43:19.713130||measurement||news||2016-10-29 16:43:18.706131@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:43:19.713339||measurement||loadtime||0:00:15.689411||1||0
+2016-10-29 16:43:23.345239||measurement||news||2016-10-29 16:43:22.837978@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:43:23.558189||measurement||news||2016-10-29 16:43:22.837978@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:43:24.418174||measurement||news||2016-10-29 16:43:22.837978@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:43:24.655814||measurement||news||2016-10-29 16:43:22.837978@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:43:24.782272||measurement||news||2016-10-29 16:43:18.181378@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:43:24.869832||measurement||news||2016-10-29 16:43:18.181378@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:43:24.984166||measurement||news||2016-10-29 16:43:18.181378@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:43:25.069621||measurement||news||2016-10-29 16:43:18.181378@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:43:25.169522||measurement||news||2016-10-29 16:43:18.181378@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:43:25.175846||measurement||loadtime||0:00:20.771886||4||0
+2016-10-29 16:43:25.226729||measurement||news||2016-10-29 16:43:22.837978@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:43:25.226841||measurement||loadtime||0:00:16.907012||5||1
+2016-10-29 16:43:25.348230||measurement||news||2016-10-29 16:43:24.496794@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:43:25.510164||measurement||news||2016-10-29 16:43:24.496794@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:43:25.878047||measurement||news||2016-10-29 16:43:24.496794@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:43:26.046958||measurement||news||2016-10-29 16:43:24.496794@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:43:26.241992||measurement||news||2016-10-29 16:43:24.496794@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:43:26.242432||measurement||loadtime||0:00:22.054301||2||1
+2016-10-29 16:43:35.002785||measurement||news||2016-10-29 16:43:33.054837@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:43:35.254140||measurement||news||2016-10-29 16:43:33.054837@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:43:35.484997||measurement||news||2016-10-29 16:43:33.054837@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:43:35.755459||measurement||news||2016-10-29 16:43:33.054837@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:43:36.383639||measurement||news||2016-10-29 16:43:33.054837@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:43:36.384173||measurement||loadtime||0:00:27.540338||7||1
+2016-10-29 16:43:44.452185||measurement||news||2016-10-29 16:43:43.842501@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:43:44.647758||measurement||news||2016-10-29 16:43:43.842501@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:43:44.870404||measurement||news||2016-10-29 16:43:43.842501@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:43:44.995467||measurement||news||2016-10-29 16:43:43.842501@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:43:45.082998||measurement||news||2016-10-29 16:43:43.842501@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:43:45.083403||measurement||loadtime||0:00:39.367446||3||1
+2016-10-29 16:43:46.956970||measurement||news||2016-10-29 16:43:46.762206@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||1
+2016-10-29 16:43:47.076331||measurement||news||2016-10-29 16:43:46.762206@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||1
+2016-10-29 16:43:47.174733||measurement||news||2016-10-29 16:43:46.762206@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||1
+2016-10-29 16:43:47.262689||measurement||news||2016-10-29 16:43:46.762206@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||1
+2016-10-29 16:43:47.338988||measurement||news||2016-10-29 16:43:46.762206@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||1
+2016-10-29 16:43:47.345572||measurement||loadtime||0:00:16.097686||2||1
+2016-10-29 16:43:47.345974||event||progress-marker||measurement-end||2||1
+2016-10-29 16:43:49.173423||measurement||news||2016-10-29 16:43:48.933765@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||0
+2016-10-29 16:43:49.293686||measurement||news||2016-10-29 16:43:48.933765@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||0
+2016-10-29 16:43:49.410100||measurement||news||2016-10-29 16:43:48.933765@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||0
+2016-10-29 16:43:49.542800||measurement||news||2016-10-29 16:43:48.933765@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||0
+2016-10-29 16:43:49.682990||measurement||news||2016-10-29 16:43:48.933765@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||0
+2016-10-29 16:43:49.683426||measurement||loadtime||0:00:19.502404||4||0
+2016-10-29 16:43:49.683573||event||progress-marker||measurement-end||4||0
+2016-10-29 16:43:51.404211||measurement||news||2016-10-29 16:43:51.054501@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||0
+2016-10-29 16:43:51.484115||measurement||news||2016-10-29 16:43:51.054501@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||0
+2016-10-29 16:43:51.630948||measurement||news||2016-10-29 16:43:51.054501@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||0
+2016-10-29 16:43:51.711429||measurement||news||2016-10-29 16:43:51.054501@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||0
+2016-10-29 16:43:51.808548||measurement||news||2016-10-29 16:43:51.054501@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||0
+2016-10-29 16:43:51.809157||measurement||loadtime||0:00:27.092963||1||0
+2016-10-29 16:43:51.809646||event||progress-marker||measurement-end||1||0
+2016-10-29 16:43:52.830143||measurement||news||2016-10-29 16:43:52.652507@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||1
+2016-10-29 16:43:52.917672||measurement||news||2016-10-29 16:43:52.652507@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||1
+2016-10-29 16:43:53.089476||measurement||news||2016-10-29 16:43:52.652507@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||1
+2016-10-29 16:43:53.278665||measurement||news||2016-10-29 16:43:52.652507@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||1
+2016-10-29 16:43:53.350460||measurement||news||2016-10-29 16:43:52.652507@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||1
+2016-10-29 16:43:53.350687||measurement||loadtime||0:00:23.118254||5||1
+2016-10-29 16:43:53.350799||event||progress-marker||measurement-end||5||1
+2016-10-29 16:43:54.147083||measurement||news||2016-10-29 16:43:53.702302@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:43:54.203771||measurement||news||2016-10-29 16:43:53.702302@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:43:54.272280||measurement||news||2016-10-29 16:43:53.702302@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:43:54.339224||measurement||news||2016-10-29 16:43:53.702302@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:43:54.422466||measurement||news||2016-10-29 16:43:53.702302@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:43:54.423344||measurement||loadtime||0:00:13.035234||7||1
+2016-10-29 16:43:54.424295||event||progress-marker||measurement-end||7||1
+2016-10-29 16:43:56.492630||measurement||news||2016-10-29 16:43:56.287381@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||3||1
+2016-10-29 16:43:56.555510||measurement||news||2016-10-29 16:43:56.287381@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||3||1
+2016-10-29 16:43:56.618760||measurement||news||2016-10-29 16:43:56.287381@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||3||1
+2016-10-29 16:43:56.672691||measurement||news||2016-10-29 16:43:56.287381@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||3||1
+2016-10-29 16:43:56.730847||measurement||news||2016-10-29 16:43:56.287381@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||3||1
+2016-10-29 16:43:56.731019||measurement||loadtime||0:00:06.643760||3||1
+2016-10-29 16:43:56.731122||event||progress-marker||measurement-end||3||1
+2016-10-29 16:44:00.019110||meta||block_id end||11
+2016-10-29 16:44:00.019294||meta||block_id start||12
+2016-10-29 16:44:00.019311||meta||assignment||0@|6@|2@|3@|1@|5@|4@|7
+2016-10-29 16:44:04.738553||event||progress-marker||training-start||2||0
+2016-10-29 16:44:04.739028||event||progress-marker||training-end||2||0
+2016-10-29 16:44:05.145865||event||progress-marker||training-start||5||1
+2016-10-29 16:44:05.350474||event||progress-marker||training-start||6||0
+2016-10-29 16:44:05.352090||event||progress-marker||training-end||6||0
+2016-10-29 16:44:05.562473||event||progress-marker||training-start||3||0
+2016-10-29 16:44:05.563322||event||progress-marker||training-end||3||0
+2016-10-29 16:44:05.578245||event||progress-marker||training-start||1||1
+2016-10-29 16:44:05.636024||event||progress-marker||training-start||4||1
+2016-10-29 16:44:05.661443||event||progress-marker||training-start||0||0
+2016-10-29 16:44:05.676813||event||progress-marker||training-end||0||0
+2016-10-29 16:44:05.696713||event||progress-marker||training-start||7||1
+2016-10-29 16:44:37.875899||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 16:44:41.646177||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 16:44:41.831864||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 16:44:42.029657||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 16:44:46.535239||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:44:50.763962||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 16:44:53.071845||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 16:44:53.662964||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 16:44:58.878999||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:44:59.796314||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 16:45:00.059866||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 16:45:01.219804||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 16:45:07.628932||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 16:45:12.671943||treatment||visit website||http://ford.com||7||1
+2016-10-29 16:45:18.304485||treatment||visit website||http://ford.com||1||1
+2016-10-29 16:45:19.631935||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:45:19.632416||event||progress-marker||training-end||4||1
+2016-10-29 16:45:41.023977||treatment||visit website||http://autoblog.com||7||1
+2016-10-29 16:45:41.024057||event||progress-marker||training-end||7||1
+2016-10-29 16:46:01.500201||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 16:46:01.500317||event||progress-marker||training-end||1||1
+2016-10-29 16:46:01.602259||treatment||visit website||http://ford.com||5||1
+2016-10-29 16:46:09.880466||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 16:46:09.880961||event||progress-marker||training-end||5||1
+2016-10-29 16:46:09.964304||event||progress-marker||measurement-start||2||0
+2016-10-29 16:46:10.612561||event||progress-marker||measurement-start||6||0
+2016-10-29 16:46:10.811362||event||progress-marker||measurement-start||3||0
+2016-10-29 16:46:10.972483||event||progress-marker||measurement-start||0||0
+2016-10-29 16:46:11.094269||event||progress-marker||measurement-start||7||1
+2016-10-29 16:46:11.518272||event||progress-marker||measurement-start||1||1
+2016-10-29 16:46:14.728637||event||progress-marker||measurement-start||4||1
+2016-10-29 16:46:14.892854||event||progress-marker||measurement-start||5||1
+2016-10-29 16:46:45.336220||measurement||news||2016-10-29 16:46:43.746741@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:46:45.723230||measurement||news||2016-10-29 16:46:43.746741@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:46:45.958984||measurement||news||2016-10-29 16:46:43.746741@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:46:46.205257||measurement||news||2016-10-29 16:46:43.746741@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:46:46.410116||measurement||news||2016-10-29 16:46:43.746741@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:46:46.411568||measurement||loadtime||0:00:29.890082||1||1
+2016-10-29 16:46:57.463578||measurement||news||2016-10-29 16:46:57.084507@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:46:57.649356||measurement||news||2016-10-29 16:46:57.084507@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:46:57.936967||measurement||news||2016-10-29 16:46:57.084507@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:46:58.136489||measurement||news||2016-10-29 16:46:57.084507@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:46:58.336038||measurement||news||2016-10-29 16:46:57.084507@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:46:58.336538||measurement||loadtime||0:00:38.604270||4||1
+2016-10-29 16:47:03.780920||measurement||news||2016-10-29 16:47:03.572843@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||1||1
+2016-10-29 16:47:03.904925||measurement||news||2016-10-29 16:47:03.572843@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||1||1
+2016-10-29 16:47:04.023796||measurement||news||2016-10-29 16:47:03.572843@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||1||1
+2016-10-29 16:47:04.105124||measurement||news||2016-10-29 16:47:03.572843@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||1||1
+2016-10-29 16:47:04.190531||measurement||news||2016-10-29 16:47:03.572843@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||1||1
+2016-10-29 16:47:04.190605||measurement||loadtime||0:00:12.774748||1||1
+2016-10-29 16:47:04.190625||event||progress-marker||measurement-end||1||1
+2016-10-29 16:47:09.210286||measurement||news||2016-10-29 16:47:03.429328@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:47:09.433562||measurement||news||2016-10-29 16:47:03.429328@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:47:09.636038||measurement||news||2016-10-29 16:47:03.429328@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:47:09.821530||measurement||news||2016-10-29 16:47:03.429328@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:47:09.945000||measurement||news||2016-10-29 16:47:03.429328@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:47:09.948307||measurement||loadtime||0:00:53.852065||7||1
+2016-10-29 16:47:12.276588||measurement||news||2016-10-29 16:47:11.614319@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||4||1
+2016-10-29 16:47:12.342970||measurement||news||2016-10-29 16:47:11.614319@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||4||1
+2016-10-29 16:47:12.440269||measurement||news||2016-10-29 16:47:11.614319@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||4||1
+2016-10-29 16:47:12.533673||measurement||news||2016-10-29 16:47:11.614319@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||4||1
+2016-10-29 16:47:12.633918||measurement||news||2016-10-29 16:47:11.614319@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||4||1
+2016-10-29 16:47:12.634007||measurement||loadtime||0:00:09.294056||4||1
+2016-10-29 16:47:12.634031||event||progress-marker||measurement-end||4||1
+2016-10-29 16:47:19.712545||measurement||news||2016-10-29 16:47:19.420691@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||1
+2016-10-29 16:47:19.804215||measurement||news||2016-10-29 16:47:19.420691@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||1
+2016-10-29 16:47:19.887541||measurement||news||2016-10-29 16:47:19.420691@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||1
+2016-10-29 16:47:19.932176||measurement||news||2016-10-29 16:47:19.420691@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||1
+2016-10-29 16:47:19.978563||measurement||news||2016-10-29 16:47:19.420691@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||1
+2016-10-29 16:47:19.978878||measurement||loadtime||0:00:05.024293||7||1
+2016-10-29 16:47:19.979288||event||progress-marker||measurement-end||7||1
+2016-10-29 16:47:24.938615||meta||block_id end||12
+2016-10-29 16:47:24.939150||meta||block_id start||13
+2016-10-29 16:47:24.939173||meta||assignment||7@|2@|5@|1@|4@|3@|0@|6
+2016-10-29 16:47:29.671760||event||progress-marker||training-start||5||0
+2016-10-29 16:47:29.672719||event||progress-marker||training-end||5||0
+2016-10-29 16:47:29.680672||event||progress-marker||training-start||3||1
+2016-10-29 16:47:30.057260||event||progress-marker||training-start||0||1
+2016-10-29 16:47:30.737327||event||progress-marker||training-start||4||1
+2016-10-29 16:47:30.836864||event||progress-marker||training-start||2||0
+2016-10-29 16:47:30.837048||event||progress-marker||training-end||2||0
+2016-10-29 16:47:31.089041||event||progress-marker||training-start||1||0
+2016-10-29 16:47:31.089164||event||progress-marker||training-end||1||0
+2016-10-29 16:47:31.126978||event||progress-marker||training-start||7||0
+2016-10-29 16:47:31.128076||event||progress-marker||training-end||7||0
+2016-10-29 16:47:31.217668||event||progress-marker||training-start||6||1
+2016-10-29 16:48:09.881733||error||website timeout||http://jalopnik.com||3||1
+2016-10-29 16:48:10.225980||error||website timeout||http://jalopnik.com||0||1
+2016-10-29 16:48:10.936468||error||website timeout||http://jalopnik.com||4||1
+2016-10-29 16:48:11.240464||error||website timeout||http://jalopnik.com||6||1
+2016-10-29 16:48:14.987857||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 16:48:15.652102||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 16:48:16.088349||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 16:48:16.299853||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 16:48:27.532235||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 16:48:27.612071||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 16:48:38.196171||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 16:48:38.652341||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 16:48:59.326523||treatment||visit website||http://ford.com||3||1
+2016-10-29 16:49:06.696028||treatment||visit website||http://ford.com||4||1
+2016-10-29 16:49:12.171867||treatment||visit website||http://ford.com||6||1
+2016-10-29 16:49:13.203850||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 16:49:13.203973||event||progress-marker||training-end||3||1
+2016-10-29 16:49:18.053332||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 16:49:18.053672||event||progress-marker||training-end||4||1
+2016-10-29 16:49:34.381547||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 16:49:34.381916||event||progress-marker||training-end||6||1
+2016-10-29 16:49:36.194522||treatment||visit website||http://ford.com||0||1
+2016-10-29 16:49:45.119834||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 16:49:45.119936||event||progress-marker||training-end||0||1
+2016-10-29 16:49:46.098178||event||progress-marker||measurement-start||2||0
+2016-10-29 16:49:46.340382||event||progress-marker||measurement-start||1||0
+2016-10-29 16:49:46.392007||event||progress-marker||measurement-start||7||0
+2016-10-29 16:49:48.115056||event||progress-marker||measurement-start||4||1
+2016-10-29 16:49:48.279744||event||progress-marker||measurement-start||3||1
+2016-10-29 16:49:49.408333||event||progress-marker||measurement-start||6||1
+2016-10-29 16:49:49.915852||event||progress-marker||measurement-start||5||0
+2016-10-29 16:49:50.133833||event||progress-marker||measurement-start||0||1
+2016-10-29 16:50:24.819347||measurement||news||2016-10-29 16:50:24.541535@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:50:24.938323||measurement||news||2016-10-29 16:50:24.541535@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:50:25.057208||measurement||news||2016-10-29 16:50:24.541535@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:50:25.225383||measurement||news||2016-10-29 16:50:24.541535@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:50:25.439253||measurement||news||2016-10-29 16:50:24.541535@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:50:25.440062||measurement||loadtime||0:00:34.043042||7||0
+2016-10-29 16:50:25.621286||measurement||news||2016-10-29 16:50:25.282596@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||2||0
+2016-10-29 16:50:25.688119||measurement||news||2016-10-29 16:50:25.282596@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||2||0
+2016-10-29 16:50:25.767202||measurement||news||2016-10-29 16:50:25.282596@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||2||0
+2016-10-29 16:50:25.818219||measurement||news||2016-10-29 16:50:25.282596@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||2||0
+2016-10-29 16:50:25.901775||measurement||news||2016-10-29 16:50:25.282596@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||2||0
+2016-10-29 16:50:25.902029||measurement||loadtime||0:00:34.800942||2||0
+2016-10-29 16:50:25.976333||measurement||news||2016-10-29 16:50:25.673688@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:50:26.108825||measurement||news||2016-10-29 16:50:25.673688@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:50:26.217055||measurement||news||2016-10-29 16:50:25.673688@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:50:26.346548||measurement||news||2016-10-29 16:50:25.673688@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:50:26.505611||measurement||news||2016-10-29 16:50:25.673688@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:50:26.505955||measurement||loadtime||0:00:31.369941||0||1
+2016-10-29 16:50:32.843295||measurement||news||2016-10-29 16:50:32.474786@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 16:50:32.956201||measurement||news||2016-10-29 16:50:32.474786@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 16:50:33.043033||measurement||news||2016-10-29 16:50:32.474786@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 16:50:33.190304||measurement||news||2016-10-29 16:50:32.474786@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 16:50:33.252373||measurement||news||2016-10-29 16:50:32.474786@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 16:50:33.253293||measurement||loadtime||0:00:38.332798||5||0
+2016-10-29 16:50:43.475440||measurement||news||2016-10-29 16:50:38.034046@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||7||0
+2016-10-29 16:50:43.557303||measurement||news||2016-10-29 16:50:38.034046@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||7||0
+2016-10-29 16:50:43.624103||measurement||news||2016-10-29 16:50:38.034046@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||7||0
+2016-10-29 16:50:43.740062||measurement||news||2016-10-29 16:50:38.034046@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||7||0
+2016-10-29 16:50:43.808156||measurement||news||2016-10-29 16:50:38.034046@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||7||0
+2016-10-29 16:50:43.808824||measurement||loadtime||0:00:13.364003||7||0
+2016-10-29 16:50:43.809285||event||progress-marker||measurement-end||7||0
+2016-10-29 16:50:46.804367||measurement||news||2016-10-29 16:50:45.286403@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||0||1
+2016-10-29 16:50:47.302574||measurement||news||2016-10-29 16:50:45.286403@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||0||1
+2016-10-29 16:50:47.658790||measurement||news||2016-10-29 16:50:45.286403@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||0||1
+2016-10-29 16:50:47.786847||measurement||news||2016-10-29 16:50:45.286403@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||0||1
+2016-10-29 16:50:47.960129||measurement||news||2016-10-29 16:50:45.286403@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||0||1
+2016-10-29 16:50:47.960537||measurement||loadtime||0:00:16.452130||0||1
+2016-10-29 16:50:47.960675||event||progress-marker||measurement-end||0||1
+2016-10-29 16:50:52.430162||measurement||news||2016-10-29 16:50:52.025379@|Recommended@|Mosul battle: Four main Islamic State tactics@|BBC@|0 minutes ago@|World||5||0
+2016-10-29 16:50:52.476683||measurement||news||2016-10-29 16:50:52.025379@|Recommended@|Youngsters remain at Calais camp@|BBC@|0 minutes ago@|Europe||5||0
+2016-10-29 16:50:52.513814||measurement||news||2016-10-29 16:50:52.025379@|Recommended@|Meet the baby girl 'born twice'@|BBC@|0 minutes ago@|US  Canada||5||0
+2016-10-29 16:50:52.553305||measurement||news||2016-10-29 16:50:52.025379@|Recommended@|Mourners queue to see Thai King@|BBC@|0 minutes ago@|Asia||5||0
+2016-10-29 16:50:52.588141||measurement||news||2016-10-29 16:50:52.025379@|Recommended@|'The day I killed my rapist'@|BBC@|0 minutes ago@|Magazine||5||0
+2016-10-29 16:50:52.588284||measurement||loadtime||0:00:14.327719||5||0
+2016-10-29 16:50:52.588305||event||progress-marker||measurement-end||5||0
+2016-10-29 16:50:59.374872||meta||block_id end||13
