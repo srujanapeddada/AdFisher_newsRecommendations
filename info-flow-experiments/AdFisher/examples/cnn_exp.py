@@ -6,8 +6,8 @@ import web.cnn_news              # interacting with Google News
 import converter.reader             # read log and create feature vectors
 import analysis.statistics          # statistics for significance testing
 
-log_file = 'log.demo.txt'
-site_file = 'demo.txt'
+log_file = 'log.cnn_read_news.txt'
+site_file = 'cnn_readNews_test.txt'
 
 def make_browser(unit_id, treatment_id):
     b = web.cnn_news.CnnNewsUnit(browser='firefox', log_file=log_file, unit_id=unit_id, 
@@ -28,8 +28,8 @@ def exp_treatment(unit):
 
 # Measurement - Collects ads
 def measurement(unit):
-    unit.get_recommendedStories()
-
+    unit.read_CNN_articles(count=2, keyword='Trump', category='politics', time_on_site=20)
+    #unit.get_recommendedStories()
 
 # Shuts down the browser once we are done with it.
 def cleanup_browser(unit):
