@@ -45,6 +45,54 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 	    news = strip_tags(time+"@|"+heading+"@|"+title+"@|"+agency+"@|"+ago+"@|"+body).encode("utf8")
             self.log('measurement', 'news', news) 
 
+    def read_CNN_articles (self, count=5, keyword=None, category=None, time_on_site=20):
+	self.driver.set_page_load_timeout (60)
+	valid_categories = ['us', 'world', 'politics', 'money', 'opinion', 'health', 
+                            'entertainment', 'style' 'travel', 'sports']
+
+	if (category.lower() in valid_categories):
+	    url = "http://www.cnn.com/" + category.lower()
+	else:
+	    url = "http://www.cnn.com/"
+
+	self.driver.get (url)
+	tim = str (datetime.now())
+	
+	i = 0
+
+	for i in range (0, count):
+	    links = []
+	    if (keyword != None):
+		print (len(self.driver.find_elements_by_xpath(".//div[@class='cd__content']")))
+		print (".//div[@class='cd__content'][contains(text(),'"+keyword+"')]")
+		
+	        print(len(self.driver.find_elements_by_xpath(".//div[@class='cd__content']/h3/a/span[contains(.,'"+keyword+"')]"))) 
+	        links.extend (self.driver.find_elements_by_xpath(".//div[@class='cd__content']/h3/a/span[contains(.,'"+keyword+"')]")) 
+	
+	    print "links in unit", self.unit_id, "found: ", len (links)
+
+	    if (i>=len(links)):
+	        break
+
+	    # may have to modify to array element
+	    print (links[i].get_attribute('innerHTML'))
+	    self.driver.execute_script ("return arguments[0].scrollIntoView();", links[i])
+	    time.sleep (2)
+            links[i].click()	
+
+            for handle in self.driver.window_handles:
+	        seld.driver.switch_to.window(handle)
+		print self.driver.title()
+		time.sleep(time_on_site)
+		site = self.driver.current_url
+		self.log ('treatment', 'read_news', site)
+		self.driver.close()
+		self.driver.switch_to.window (self.driver.window_handles[0])
+
+	
+
+
+
 
 
 
