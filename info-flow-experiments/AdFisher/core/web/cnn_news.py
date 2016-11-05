@@ -66,8 +66,8 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 		print (len(self.driver.find_elements_by_xpath(".//div[@class='cd__content']")))
 		print (".//div[@class='cd__content'][contains(text(),'"+keyword+"')]")
 		
-	        print(len(self.driver.find_elements_by_xpath(".//div[@class='cd__content']/h3/a/span[contains(.,'"+keyword+"')]"))) 
-	        links.extend (self.driver.find_elements_by_xpath(".//div[@class='cd__content']/h3/a/span[contains(.,'"+keyword+"')]")) 
+	        print(len(self.driver.find_elements_by_xpath(".//div[@class='cd__content'][contains(.,'"+keyword+"')]"))) 
+	        links.extend (self.driver.find_elements_by_xpath(".//div[@class='cd__content'][contains(.,'"+keyword+"')]")) 
 	
 	    print "links in unit", self.unit_id, "found: ", len (links)
 
@@ -76,9 +76,11 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 
 	    # may have to modify to array element
 	    print (links[i].get_attribute('innerHTML'))
-	    self.driver.execute_script ("return arguments[0].scrollIntoView();", links[i])
-	    time.sleep (2)
-            links[i].click()	
+	    y = links[i].location['y']
+	    print (y)
+	    self.driver.execute_script('window.scrollTo(0,{0})'.format(y))
+	    time.sleep (5)
+            links[i].find_element_by_xpath(".//h3/a/span").click()	
 
             for handle in self.driver.window_handles:
 	        seld.driver.switch_to.window(handle)
