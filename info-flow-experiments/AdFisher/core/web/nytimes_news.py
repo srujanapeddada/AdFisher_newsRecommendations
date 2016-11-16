@@ -33,23 +33,20 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
     def get_recommendedStories (self):
         self.driver.set_page_load_timeout (60)
         self.driver.get ('http://www.nytimes.com/')
-	    tim = str(datetime.now())
+	tim = str(datetime.now())
 
 
-	    self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
-	    time.sleep(3)
+	self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
+	time.sleep(3)
 
-	    recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
+	recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
 
-	    headlines = recomms.find_elements_by_class_name('headline')
-	    for headline in headlines:
-		    title = (headline.get_attribute("innerHTML"))
-            agency = "NYTimes"
-            ago = "0 minutes ago"
-            body = ""
-            heading = "Recommended"
-            news = strip_tags (tim+"@|"+heading+"@|"+title+"@|"+agency+"@|"+ago+"@|"+body).encode("utf8")
-            self.log('measurement', 'news', news)
-
-
-
+	headlines = recomms.find_elements_by_class_name('headline')
+	for headline in headlines:
+		title1 = (headline.get_attribute("innerHTML"))
+		title2 = strip_tags (title1).encode("utf8")
+		title3 = title2.strip() 
+            	agency = "NYTimes"
+            	heading = "Recommended"
+            	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
+            	self.log('measurement', 'news', news)
