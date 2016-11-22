@@ -47,15 +47,48 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 
     def read_CNN_articles (self, count=5, keyword=None, category=None, time_on_site=20):
 	self.driver.set_page_load_timeout (60)
-	valid_categories = ['us', 'world', 'politics', 'money', 'opinion', 'health', 
+        self.driver.get('http://cnn.com/')
+	valid_categories = ['u.s.', 'world', 'politics', 'money', 'opinion', 'health', 
                             'entertainment', 'style' 'travel', 'sports']
 
-	if (category.lower() in valid_categories):
-	    url = "http://www.cnn.com/" + category.lower()
-	else:
-	    url = "http://www.cnn.com/"
+	categoryTab = self.driver.find_element_by_css_selector('div.nav-menu-links')
+        print ("Element found")
 
-	self.driver.get (url)
+	if (category.lower() in valid_categories):
+	    categoryLink = categoryTab.find_element_by_partial_link_text(category.title())
+	    print ("Clicking on the link")
+	    print (categoryLink.get_attribute("innerHTML"))
+
+	    categoryLink.click()
+	    time.sleep (5)
+
+	    visitedLinks = []
+	    index = 0
+
+            # makes sure we visit at most count number of pages
+	    for visited in range (0, count):
+                time.sleep(3)
+		# searches for links on the page
+	        searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
+		print ("links in unit: ", len(searchLinks))
+
+                if (len(searchLinks) == 0): 
+		    print ("No Links found on: ", keyword)
+		    break
+
+		# for each of the links found
+		if (index < len(searchLinks)):
+		    searchLinks[index].click()
+		    index += 1
+		    time.sleep(time_on_site)
+		    site = self.driver.current_url
+		    print ("Site: ", site)
+		    self.log('treatment', 'read_news', site)
+		    # Go back to the previous page
+		    self.driver.back()
+	
+
+	''''self.driver.get (url)
 	tim = str (datetime.now())
 	
 	i = 0
@@ -89,7 +122,7 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 		site = self.driver.current_url
 		self.log ('treatment', 'read_news', site)
 		self.driver.close()
-		self.driver.switch_to.window (self.driver.window_handles[0])
+		self.driver.switch_to.window (self.driver.window_handles[0])'''
 
 	
 
