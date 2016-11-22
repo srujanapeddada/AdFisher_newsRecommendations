@@ -23,13 +23,12 @@ def control_treatment(unit):
 
 # Experimental Group treatment
 def exp_treatment(unit):
-    pass
+    unit.read_CNN_articles(count=2, keyword='Trump', category='politics', time_on_site=20)
 
 
 # Measurement - Collects ads
 def measurement(unit):
-    unit.read_CNN_articles(count=2, keyword='Trump', category='politics', time_on_site=20)
-    #unit.get_recommendedStories()
+    unit.get_recommendedStories()
 
 # Shuts down the browser once we are done with it.
 def cleanup_browser(unit):
@@ -40,16 +39,17 @@ def cleanup_browser(unit):
 
 # Load results reads the log_file, and creates feature vectors
 def load_results():
-    pass
+    collection, names = converter.reader.read_log(log_file)
+    return converter.reader.get_feature_vectors(collection, feat_choice='news')
 
 def test_stat(observed_values, unit_assignments):
+    return analysis.statistics.difference(observed_values, unit_assignments)
     pass
-
 
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment], 
                         measurement=measurement, end_unit=cleanup_browser,
                         load_results=load_results, test_stat=test_stat, ml_analysis=True, 
-                        num_blocks=1, num_units=2, timeout=2000,
-                        log_file=log_file, exp_flag=True, analysis_flag=False, 
+                        num_blocks=15, num_units=2, timeout=2000,
+                        log_file=log_file, exp_flag=True, analysis_flag=True, 
                         treatment_names=["control", "experimental"])
 
