@@ -59,32 +59,38 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 
 	    # makes sure we visit at most count number of pages
 	    for visited in range (0, count):
-		self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
-		time.sleep(3)
-		# searches for links on the page
-	        searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
-		print ("links in unit: ", len(searchLinks))
-		# if no links found then break out of the loop
-		if (len(searchLinks) == 0): 
-		    print ("No Links found on: ", keyword)
-		    break
-		# for each of the links found
+		try:
+		    self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
+		    time.sleep(3)
+		    # searches for links on the page
+	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
+		    print ("links in unit: ", len(searchLinks))
+		    # if no links found then break out of the loop
+		    if (len(searchLinks) == 0): 
+		        print ("No Links found on: ", keyword)
+		        break
+		    # for each of the links found
 
-		if (index < len(searchLinks)):
-		    searchLinks[index].click()
-		    index += 1
-		    time.sleep(time_on_site)
-		    site = self.driver.current_url
-		    print ("Site: ", site)
-		    self.log('treatment', 'read_news', site)
-		    # Go back to the previous page
-		    self.driver.back()
+		    if (index < len(searchLinks)):
+		        searchLinks[index].click()
+		        index += 1
+		        time.sleep(time_on_site)
+		        site = self.driver.current_url
+		        print ("Site: ", site)
+		        self.log('treatment', 'read_news', site)
+		        # Go back to the previous page
+		        self.driver.back()
+		except:
+		    print("finding links on page failed")
+		    pass
 
     def get_recommendedStories (self):
         self.driver.set_page_load_timeout (60)
         self.driver.get ('http://www.nytimes.com/')
 	tim = str(datetime.now())
 
+	self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+	time.sleep(3)
 
 	recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
 
@@ -97,3 +103,4 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
             	heading = "Recommended"
             	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
             	self.log('measurement', 'news', news)
+
