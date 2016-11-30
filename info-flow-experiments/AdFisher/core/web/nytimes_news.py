@@ -32,13 +32,69 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
     def __init__ (self, browser, log_file, unit_id, treatment_id, headless=False, proxy = None):
 	google_ads.GoogleAdsUnit.__init__(self,browser,log_file,unit_id, treatment_id, headless, proxy=proxy)
 
+
+
+    def search_and_click_special (self, count=5, keyword=None, category=None, time_on_site=20):
+        self.driver.set_page_load_timeout (160)
+	if (category == "Food"):
+		category = "dining"
+	self.driver.get('http://nytimes.com/'+category.lower())
+	#categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
+	#print ("Element found")
+	
+        # Go to the page that serves the category
+        #categoryLink = categoryTab.find_element_by_partial_link_text(category)
+        #print ("Clicking on the link")
+        #print (categoryLink.get_attribute("innerHTML"))
+
+        #categoryLink.click()
+	#time.sleep (5)
+	visitedLinks = []
+	index = 0
+        # makes sure we visit at most count number of pages
+        for visited in range (0, count):
+	    try:
+	        time.sleep(3)
+	        # searches for links on the page
+		page = self.driver.find_element_by_id ("page")
+	        searchLinks = page.find_elements_by_partial_link_text(keyword.title())	
+	        print ("links in unit: ", len(searchLinks))
+	        # if no links found then break out of the loop
+	        if (len(searchLinks) == 0): 
+		    print ("No Links found on: ", keyword)
+		    break
+	        # for each of the links found
+
+	        if (index < len(searchLinks)):
+		    self.driver.get (searchLinks[index].get_attribute ('href'))
+		    #self.driver.execute_script("return arguments[0].scrollIntoView();", searchLinks[index])
+		    #time.sleep(3)
+		    #searchLinks[index].click()
+		    index += 1
+		    time.sleep(time_on_site)
+		    site = self.driver.current_url
+		    print ("Site: ", site)
+		    self.log('treatment', 'read_news', site)
+		    # Go back to the previous page
+		    self.driver.back()
+	    except Exception, e:
+		print (e)
+	        print("finding links on page failed")
+	        pass
+
+
+	
+
+
     # Search for articles by category and keyword and click 
     def read_NYT_articles (self, count=5, keyword=None, category=None, time_on_site=20):
         self.driver.set_page_load_timeout (60)
 	self.driver.get('http://nytimes.com/')
 	valid_categories = ['World', 'U.S.', 'Politics', 'Business',
-			    'Opinion', 'Tech', 'Science', 'Health',
-			    'Sports', 'Arts', 'Style', 'Food', 'Travel']
+			    'Opinion', 'Tech', 'Science', 
+			    'Arts', 'Style', 'Travel']
+
+	special_categories = ['Sports', 'Food', 'Health']
 
 	categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
 	print ("Element found")
@@ -83,6 +139,9 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 		except:
 		    print("finding links on page failed")
 		    pass
+
+	if (category in special_categories):
+		self.search_and_click_special (count, keyword, category, time_on_site)
 
     def get_recommendedStories (self):
         self.driver.set_page_load_timeout (60)
