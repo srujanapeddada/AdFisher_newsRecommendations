@@ -1,6 +1,7 @@
 import time, re
 import sys
 from selenium import webdriver
+import selenium.common.exceptions 
 from datetime import datetime
 import google_ads
 import google_search
@@ -67,67 +68,37 @@ class CnnNewsUnit (google_ads.GoogleAdsUnit):
 
             # makes sure we visit at most count number of pages
 	    for visited in range (0, count):
-                time.sleep(3)
-		# searches for links on the page
-	        searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
-		print ("links in unit: ", len(searchLinks))
+		try:
+                    time.sleep(3)
+		    # searches for links on the page
+	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
+		    #for temp in range (0, 10):
+			#print (searchLinks[temp].get_attribute('href'))
+		    print ("links in unit: ", len(searchLinks))
 
-                if (len(searchLinks) == 0): 
-		    print ("No Links found on: ", keyword)
-		    break
+                    if (len(searchLinks) == 0): 
+		        print ("No Links found on: ", keyword)
+		        break
 
-		# for each of the links found
-		if (index < len(searchLinks)):
-		    searchLinks[index].click()
+	    	    # for each of the links found
+	 	    if (index < len(searchLinks)):
+		        searchLinks[index].click()
+		        index += 1
+		        time.sleep(time_on_site)
+		        site = self.driver.current_url
+		        print ("Site: ", site)
+		        self.log('treatment', 'read_news', site)
+		        # Go back to the previous page
+		        self.driver.back()
+		except Exception as e:
+		    print (e)
+		    print ("Since page cannot be clicked, we use the link")
+		    self.driver.get (searchLinks[index].get_attribute('href'))
 		    index += 1
-		    time.sleep(time_on_site)
-		    site = self.driver.current_url
+		    time.sleep (time_on_site)
+		    site = self. driver.current_url
 		    print ("Site: ", site)
 		    self.log('treatment', 'read_news', site)
 		    # Go back to the previous page
 		    self.driver.back()
-	
-
-	''''self.driver.get (url)
-	tim = str (datetime.now())
-	
-	i = 0
-
-	for i in range (0, count):
-	    links = []
-	    if (keyword != None):
-		print (len(self.driver.find_elements_by_xpath(".//div[@class='cd__content']")))
-		print (".//div[@class='cd__content'][contains(text(),'"+keyword+"')]")
-		
-	        print(len(self.driver.find_elements_by_xpath(".//div[@class='cd__content'][contains(.,'"+keyword+"')]"))) 
-	        links.extend (self.driver.find_elements_by_xpath(".//div[@class='cd__content'][contains(.,'"+keyword+"')]")) 
-	
-	    print "links in unit", self.unit_id, "found: ", len (links)
-
-	    if (i>=len(links)):
-	        break
-
-	    # may have to modify to array element
-	    print (links[i].get_attribute('innerHTML'))
-	    y = links[i].location['y']
-	    print (y)
-	    self.driver.execute_script('window.scrollTo(0,{0})'.format(y))
-	    time.sleep (5)
-            links[i].find_element_by_xpath(".//h3/a/span").click()	
-
-            for handle in self.driver.window_handles:
-	        seld.driver.switch_to.window(handle)
-		print self.driver.title()
-		time.sleep(time_on_site)
-		site = self.driver.current_url
-		self.log ('treatment', 'read_news', site)
-		self.driver.close()
-		self.driver.switch_to.window (self.driver.window_handles[0])'''
-
-	
-
-
-
-
-
 
