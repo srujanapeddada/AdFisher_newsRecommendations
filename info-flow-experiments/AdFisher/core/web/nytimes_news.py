@@ -41,7 +41,7 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	self.driver.get('http://nytimes.com/'+category.lower())
 	#categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
 	#print ("Element found")
-	
+
         # Go to the page that serves the category
         #categoryLink = categoryTab.find_element_by_partial_link_text(category)
         #print ("Clicking on the link")
@@ -56,11 +56,14 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	    try:
 	        time.sleep(3)
 	        # searches for links on the page
-		page = self.driver.find_element_by_id ("page")
-	        searchLinks = page.find_elements_by_partial_link_text(keyword.title())	
+            if (category == "dining"):
+                page = self.driver.find_element_by_id ("main")
+            else:
+                page = self.driver.find_element_by_class_name ("rank")
+	        searchLinks = page.find_elements_by_partial_link_text(keyword.title())
 	        print ("links in unit: ", len(searchLinks))
 	        # if no links found then break out of the loop
-	        if (len(searchLinks) == 0): 
+	        if (len(searchLinks) == 0):
 		    print ("No Links found on: ", keyword)
 		    break
 	        # for each of the links found
@@ -83,15 +86,15 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	        pass
 
 
-	
 
 
-    # Search for articles by category and keyword and click 
+
+    # Search for articles by category and keyword and click
     def read_NYT_articles (self, count=5, keyword=None, category=None, time_on_site=20):
         self.driver.set_page_load_timeout (60)
 	self.driver.get('http://nytimes.com/')
 	valid_categories = ['World', 'U.S.', 'Politics', 'Business',
-			    'Opinion', 'Tech', 'Science', 
+			    'Opinion', 'Tech', 'Science',
 			    'Arts', 'Style', 'Travel']
 
 	special_categories = ['Sports', 'Food', 'Health']
@@ -119,10 +122,10 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 		    self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
 		    time.sleep(3)
 		    # searches for links on the page
-	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
+	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())
 		    print ("links in unit: ", len(searchLinks))
 		    # if no links found then break out of the loop
-		    if (len(searchLinks) == 0): 
+		    if (len(searchLinks) == 0):
 		        print ("No Links found on: ", keyword)
 		        break
 		    # for each of the links found
@@ -157,7 +160,7 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	for headline in headlines:
 		title1 = (headline.get_attribute("innerHTML"))
 		title2 = strip_tags (title1).encode("utf8")
-		title3 = title2.strip() 
+		title3 = title2.strip()
             	agency = "NYTimes"
             	heading = "Recommended"
             	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
