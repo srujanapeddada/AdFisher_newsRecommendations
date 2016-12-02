@@ -56,10 +56,10 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	    try:
 	        time.sleep(3)
 	        # searches for links on the page
-            if (category == "dining"):
-                page = self.driver.find_element_by_id ("main")
-            else:
+            if (category == 'sports'):
                 page = self.driver.find_element_by_class_name ("rank")
+            else:
+                page = self.driver.find_element_by_id ("main")
 	        searchLinks = page.find_elements_by_partial_link_text(keyword.title())
 	        print ("links in unit: ", len(searchLinks))
 	        # if no links found then break out of the loop
