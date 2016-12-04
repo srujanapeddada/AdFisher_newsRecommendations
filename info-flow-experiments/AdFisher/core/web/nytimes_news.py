@@ -27,6 +27,7 @@ def strip_tags (html):
     s.feed(html)
     return s.get_data()
 
+
 class NYTNewsUnit (google_ads.GoogleAdsUnit):
 
     def __init__ (self, browser, log_file, unit_id, treatment_id, headless=False, proxy = None):
@@ -54,32 +55,33 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
         # makes sure we visit at most count number of pages
         for visited in range (0, count):
 	    try:
-	        time.sleep(3)
+	            time.sleep(3)
 	        # searches for links on the page
-            if (category == 'sports'):
-                page = self.driver.find_element_by_class_name ("rank")
-            else:
-                page = self.driver.find_element_by_id ("main")
-	        searchLinks = page.find_elements_by_partial_link_text(keyword.title())
-	        print ("links in unit: ", len(searchLinks))
-	        # if no links found then break out of the loop
-	        if (len(searchLinks) == 0):
-		    print ("No Links found on: ", keyword)
-		    break
-	        # for each of the links found
+		    if (category == 'Sports'):
+			page = self.driver.find_element_by_class_name('rank')
+		    else:
+		        page = self.driver.find_element_by_id ('main')
 
-	        if (index < len(searchLinks)):
-		    self.driver.get (searchLinks[index].get_attribute ('href'))
-		    #self.driver.execute_script("return arguments[0].scrollIntoView();", searchLinks[index])
-		    #time.sleep(3)
-		    #searchLinks[index].click()
-		    index += 1
-		    time.sleep(time_on_site)
-		    site = self.driver.current_url
-		    print ("Site: ", site)
-		    self.log('treatment', 'read_news', site)
-		    # Go back to the previous page
-		    self.driver.back()
+		    searchLinks = page.find_elements_by_partial_link_text(keyword.title())
+		    print ("links in unit: ", len(searchLinks))
+		    # if no links found then break out of the loop
+		    if (len(searchLinks) == 0):
+		    	print ("No Links found on: ", keyword)
+	                break
+			# for each of the links found
+
+	            if (index < len(searchLinks)):
+			self.driver.get (searchLinks[index].get_attribute ('href'))
+			#self.driver.execute_script("return arguments[0].scrollIntoView();", searchLinks[index])
+			#time.sleep(3)
+			#searchLinks[index].click()
+			index += 1
+			time.sleep(time_on_site)
+			site = self.driver.current_url
+			print ("Site: ", site)
+			self.log('treatment', 'read_news', site)
+			# Go back to the previous page
+			self.driver.back()
 	    except Exception, e:
 		print (e)
 	        print("finding links on page failed")
@@ -165,4 +167,3 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
             	heading = "Recommended"
             	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
             	self.log('measurement', 'news', news)
-
