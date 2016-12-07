@@ -4,7 +4,7 @@ import os, platform                         # for running  os, platform specific
 from selenium import webdriver              # for running the driver on websites
 from datetime import datetime               # for tagging log with datetime
 
-# from xvfbwrapper import Xvfb                # for creating artificial display to run experiments                
+# from xvfbwrapper import Xvfb                # for creating artificial display to run experiments
 from selenium.webdriver.common.proxy import *       # for proxy settings
 
 class BrowserUnit:
@@ -32,12 +32,36 @@ class BrowserUnit:
             sproxy = Proxy({
                 'proxyType': ProxyType.MANUAL
                 })
-            
+
         if(browser=='firefox'):
             if (platform.system()=='Darwin'):
                 self.driver = webdriver.Firefox(proxy=sproxy)
+                self.driver.set_window_position (0,0)
+                self.driver.set_window_size (1024, 768)
             elif (platform.system()=='Linux'):
                 self.driver = webdriver.Firefox(proxy=sproxy)
+                self.driver.set_window_position (0,0)
+                self.driver.set_window_size (1024, 768)
+            elif (platform.system()=='Linux'):
+                self.driver = webdriver.Firefox(proxy=sproxy)
+            else:
+                print "Unidentified Platform"
+                sys.exit(0)
+        elif(browser=='chrome'):
+            print "Expecting chromedriver at path specified in core/web/browser_unit"
+            if (platform.system()=='Darwin'):
+                chromedriver = "../core/web/chromedriver/chromedriver_mac"
+            elif (platform.system() == 'Linux'):
+                chromedriver = "../core/web/chromedriver/chromedriver_linux"
+            else:
+                print "Unidentified Platform"
+                sys.exit(0)
+            os.environ["webdriver.chrome.driver"] = chromedriver
+            chrome_option = webdriver.ChromeOptions()
+            if(proxy != None):
+                chrome_option.add_argument("--proxy-server="+proxy)
+            self.driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=chrome_option)
+        else:
             else:
                 print "Unidentified Platform"
                 sys.exit(0)
@@ -71,16 +95,16 @@ class BrowserUnit:
         if(self.headless):
             self.vdisplay.stop()
         self.driver.quit()
-    
+
     def wait(self, seconds):
         time.sleep(seconds)
-    
+
     def log(self, linetype, linename, msg):     # linetype = ['treatment', 'measurement', 'event', 'error', 'meta']
         """Maintains a log of visitations"""
         fo = open(self.log_file, "a")
         fo.write(str(datetime.now())+"||"+linetype+"||"+linename+"||"+str(msg)+"||"+str(self.unit_id)+"||"+str(self.treatment_id) + '\n')
-        fo.close()      
-    
+        fo.close()
+
     def interpret_log_line(self, line):
         """Interprets a line of the log, and returns six components
             For lines containing meta-data, the unit_id and treatment_id is -1
@@ -105,7 +129,7 @@ class BrowserUnit:
         tim, linetype, linename, value, unit_id, treatment_id = self.interpret_log_line(line)
         instances = int(value)
         fo.close()
-    
+
         fo = open(self.log_file, "r")
         for line in fo:
             tim, linetype, linename, value, unit_id, treatment_id = self.interpret_log_line(line)
@@ -141,8 +165,8 @@ class BrowserUnit:
                     clear = clear and True
                 else:
                     clear = False
-                            
-    def visit_sites(self, site_file, delay=5): 
+
+    def visit_sites(self, site_file, delay=5):
         """Visits all pages in site_file"""
         fo = open(site_file, "r")
         for line in fo:
@@ -157,7 +181,7 @@ class BrowserUnit:
                             # self.log("pref"+"||"+str(treatment_id)+"||"+"@".join(pref), self.unit_id)
             except:
                 self.log('error', 'website timeout', site)
-                
+
     def collect_sites_from_alexa(self, alexa_link, output_file="sites.txt", num_sites=5):
         """Collects sites from Alexa and stores them in file_name"""
         fo = open(output_file, "w")
