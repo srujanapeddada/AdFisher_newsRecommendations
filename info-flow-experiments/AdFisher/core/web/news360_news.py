@@ -32,7 +32,7 @@ class News360NewsUnit (google_ads.GoogleAdsUnit):
     def __init__ (self, browser, log_file, unit_id, treatment_id, headless=False, proxy = None):
 			google_ads.GoogleAdsUnit.__init__(self,browser,log_file,unit_id, treatment_id, headless, proxy=proxy)
 
-     
+
     def login(self, username, password):
       self.driver.set_page_load_timeout(60)
       self.driver.get('https://www.news360.com')
@@ -57,13 +57,13 @@ class News360NewsUnit (google_ads.GoogleAdsUnit):
       for headline in headlines:
 	title1 = (headline.get_attribute("innerHTML"))
 	title2 = strip_tags (title1).encode("utf8")
-	title3 = title2.strip() 
+	title3 = title2.strip()
         agency = "News360"
         heading = "Recommended"
         news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
         self.log('measurement', 'news', news)
 
-    
+
     # Search for articles by category and keyword and click
     def read_articles (self, count=5, time_on_site=20):
 	# check to make sure the category is valid
@@ -85,10 +85,10 @@ class News360NewsUnit (google_ads.GoogleAdsUnit):
 		    self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
 		    time.sleep(3)
 		    # searches for links on the page
-	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())	
+	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())
 		    print ("links in unit: ", len(searchLinks))
 		    # if no links found then break out of the loop
-		    if (len(searchLinks) == 0): 
+		    if (len(searchLinks) == 0):
 		        print ("No Links found on: ", keyword)
 		        break
 		    # for each of the links found
@@ -116,9 +116,9 @@ class News360NewsUnit (google_ads.GoogleAdsUnit):
 
 	headlines = recomms.find_elements_by_class_name('headline')
 	for headline in headlines:
-		title1 = (headline.get_attribute("innerHTML"))
+		title1 = (headline.get_attribute("summarytext"))
 		title2 = strip_tags (title1).encode("utf8")
-		title3 = title2.strip() 
+		title3 = title2.strip()
             	agency = "NYTimes"
             	heading = "Recommended"
             	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
