@@ -1,0 +1,125 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.081586
+0.96
+Title: |Trump Meets Petraeus as Secretary of State Sweepstakes Heat Up
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |‘Trump Effect’ Is Already Shaping Events Around the World
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Trump Claims, With No Evidence, That ‘Millions of People’ Voted Illegally
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Suspect Is Killed in Attack at Ohio State University That Injured 11
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Potential Conflicts Around the Globe for Trump, the Businessman President
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+0.92
+Title: |An Uncertain Future for East Village Rowhouses
+Agency: |NYTimes
+Body: |Body
+
+0.92
+Title: |France Returns 16th-Century Portrait to Descendants of Jewish Couple
+Agency: |NYTimes
+Body: |Body
+
+0.92
+Title: |8 Lines Written by Anne Frank Fetch $148,000 at Auction
+Agency: |NYTimes
+Body: |Body
+
+0.92
+Title: |Fate of U.S.-Cuba Thaw Is Less Certain Under Donald Trump
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |Raúl Castro’s Inner Circle
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |Trump Meets Petraeus as Secretary of State Sweepstakes Heat Up
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |‘Trump Effect’ Is Already Shaping Events Around the World
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |Trump Claims, With No Evidence, That ‘Millions of People’ Voted Illegally
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |Suspect Is Killed in Attack at Ohio State University That Injured 11
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |Potential Conflicts Around the Globe for Trump, the Businessman President
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |An Uncertain Future for East Village Rowhouses
+Agency: |NYTimes
+Body: |Body
+
+[  0.  46.]
+----------------------------------
+Title: |France Returns 16th-Century Portrait to Descendants of Jewish Couple
+Agency: |NYTimes
+Body: |Body
+
+[  0.  46.]
+----------------------------------
+Title: |8 Lines Written by Anne Frank Fetch $148,000 at Auction
+Agency: |NYTimes
+Body: |Body
+
+[  0.  46.]
+----------------------------------
+Title: |Fate of U.S.-Cuba Thaw Is Less Certain Under Donald Trump
+Agency: |NYTimes
+Body: |Body
+
+[  0.  46.]
+----------------------------------
+Title: |Raúl Castro’s Inner Circle
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.02  0.02
+  0.02  0.02  0.02  0.04  0.04  0.04  0.1   0.1   0.1   0.76  0.76  0.78
+  0.9   0.9   0.9   0.92  0.92  0.92  0.92]
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+  0.    0.    0.    0.    0.    0.    0.    0.    0.96  0.96  0.96  0.96
+  0.96  0.96  0.96  0.96  0.96  0.96]

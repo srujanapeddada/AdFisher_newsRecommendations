@@ -1,0 +1,123 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.058380
+0.96
+Title: |Seduced and Betrayed by Donald Trump
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |How Trump’s Calls to World Leaders Are Upsetting Decades of Diplomacy
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |The 10 Best Books of 2016
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Trump Backers Go to Court to Block Vote Recounts in 3 States
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+0.9
+Title: |Should a Simple Fitness Check Be Part of Your Checkup?
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |Summer Project Turns Into Leukemia Testing Breakthrough
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |$6.3 Billion Measure Aims to Cure Ailing Health Care Policies
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |Seduced and Betrayed by Donald Trump
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |How Trump’s Calls to World Leaders Are Upsetting Decades of Diplomacy
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |The 10 Best Books of 2016
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+Title: |Trump Backers Go to Court to Block Vote Recounts in 3 States
+Agency: |NYTimes
+Body: |Body
+
+[ 48.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |Should a Simple Fitness Check Be Part of Your Checkup?
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |Summer Project Turns Into Leukemia Testing Breakthrough
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |$6.3 Billion Measure Aims to Cure Ailing Health Care Policies
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.02
+  0.4   0.5   0.88  0.9   0.9   0.9   0.9   0.9   0.9   0.9   0.9 ]
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.2
+  0.76  0.96  0.96  0.96  0.96  0.96  0.96  0.96  0.96  0.96]

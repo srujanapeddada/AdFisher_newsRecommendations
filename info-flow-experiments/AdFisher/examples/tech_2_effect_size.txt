@@ -1,0 +1,126 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.068862
+1.0
+Title: |The Array of Conflicts of Interest Facing the Trump Presidency
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |How to Hide $400 Million
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |The 10 Best Books of 2016
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+0.96
+Title: |ATT Appeals to Cord-Cutters With DirecTV Now, a New Streaming Service
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |The Far Right Has a New Digital Safe Space
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |Charlie Hebdo, a Lightning Rod in France, Hits German Newsstands
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |Sheryl Sandberg Said to Plan $100 Million in Charitable Giving
+Agency: |NYTimes
+Body: |Body
+
+0.9
+Title: |How Much Disclosure About an Op-Ed Author Is Required?
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |The Array of Conflicts of Interest Facing the Trump Presidency
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |How to Hide $400 Million
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |The 10 Best Books of 2016
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |ATT Appeals to Cord-Cutters With DirecTV Now, a New Streaming Service
+Agency: |NYTimes
+Body: |Body
+
+[  0.  48.]
+----------------------------------
+Title: |The Far Right Has a New Digital Safe Space
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |Charlie Hebdo, a Lightning Rod in France, Hits German Newsstands
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |Sheryl Sandberg Said to Plan $100 Million in Charitable Giving
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+Title: |How Much Disclosure About an Op-Ed Author Is Required?
+Agency: |NYTimes
+Body: |Body
+
+[  0.  45.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.02
+  0.02  0.02  0.02  0.02  0.02  0.04  0.04  0.04  0.04  0.04  0.04  0.04
+  0.06  0.16  0.16  0.2   0.2   0.7   0.76  0.9   0.9   0.9   0.9   0.9
+  0.9   0.96]
+[ 0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.
+  0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.4  0.4  0.6
+  1.   1.   1.   1.   1.   1.   1.   1. ]
