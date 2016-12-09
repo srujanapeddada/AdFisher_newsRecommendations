@@ -34,136 +34,131 @@ class NYTNewsUnit (google_ads.GoogleAdsUnit):
 	google_ads.GoogleAdsUnit.__init__(self,browser,log_file,unit_id, treatment_id, headless, proxy=proxy)
 
 
-
+    # Some categories are structured differently and are handled here
+    # Currently handles Food, Health, Sports
     def search_and_click_special (self, count=5, keyword=None, category=None, time_on_site=20):
         self.driver.set_page_load_timeout (160)
-	if (category == "Food"):
-		category = "dining"
-	self.driver.get('http://nytimes.com/'+category.lower())
-	#categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
-	#print ("Element found")
 
-        # Go to the page that serves the category
-        #categoryLink = categoryTab.find_element_by_partial_link_text(category)
-        #print ("Clicking on the link")
-        #print (categoryLink.get_attribute("innerHTML"))
+        # The food section is under dining
+	    if (category == "Food"):
+		    category = "dining"
+	    self.driver.get('http://nytimes.com/'+category.lower())
 
-        #categoryLink.click()
-	#time.sleep (5)
-	visitedLinks = []
-	index = 0
+	    visitedLinks = []
+
+        # Using index to keep track of the links visited. Since links
+        # are refreshed each time a page is refreshed.
+	    index = 0
+
         # makes sure we visit at most count number of pages
         for visited in range (0, count):
-	    try:
+	        try:
 	            time.sleep(3)
-	        # searches for links on the page
-		    if (category == 'Sports'):
-			page = self.driver.find_element_by_class_name('rank')
-		    else:
-		        page = self.driver.find_element_by_id ('main')
 
-		    searchLinks = page.find_elements_by_partial_link_text(keyword.title())
-		    print ("links in unit: ", len(searchLinks))
-		    # if no links found then break out of the loop
-		    if (len(searchLinks) == 0):
-		    	print ("No Links found on: ", keyword)
+                # Use the rank section for the sports page
+		        if (category == 'Sports'):
+			        page = self.driver.find_element_by_class_name('rank')
+                # use the main section for food and health
+		        else:
+		            page = self.driver.find_element_by_id ('main')
+
+                # Find links that have a keyword
+		        searchLinks = page.find_elements_by_partial_link_text(keyword.title())
+		        print ("links in unit: ", len(searchLinks))
+		        # if no links found then break out of the loop
+		        if (len(searchLinks) == 0):
+		    	    print ("No Links found on: ", keyword)
 	                break
-			# for each of the links found
 
+                # for each link in the loop
 	            if (index < len(searchLinks)):
-			self.driver.get (searchLinks[index].get_attribute ('href'))
-			#self.driver.execute_script("return arguments[0].scrollIntoView();", searchLinks[index])
-			#time.sleep(3)
-			#searchLinks[index].click()
-			index += 1
-			time.sleep(time_on_site)
-			site = self.driver.current_url
-			print ("Site: ", site)
-			self.log('treatment', 'read_news', site)
-			# Go back to the previous page
-			self.driver.back()
-	    except Exception, e:
-		print (e)
-	        print("finding links on page failed")
-	        pass
-
-
+			        self.driver.get (searchLinks[index].get_attribute ('href'))
+		        	index += 1
+			        time.sleep(time_on_site)
+			        site = self.driver.current_url
+			        self.log('treatment', 'read_news', site)
+			        # Go back to the previous page
+			        self.driver.back()
+	        except Exception, e:
+		        print (e)
+	            print("finding links on page failed")
 
 
 
     # Search for articles by category and keyword and click
     def read_NYT_articles (self, count=5, keyword=None, category=None, time_on_site=20):
         self.driver.set_page_load_timeout (60)
-	self.driver.get('http://nytimes.com/')
-	valid_categories = ['World', 'U.S.', 'Politics', 'Business',
-			    'Opinion', 'Tech', 'Science',
-			    'Arts', 'Style', 'Travel']
+	    self.driver.get('http://nytimes.com/')
+	    valid_categories = ['World', 'U.S.', 'Politics', 'Business',
+			                'Opinion', 'Tech', 'Science',
+			                'Arts', 'Style', 'Travel']
 
-	special_categories = ['Sports', 'Food', 'Health']
+        # These categories have a different page layout
+	    special_categories = ['Sports', 'Food', 'Health']
 
-	categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
-	print ("Element found")
+	    categoryTab = self.driver.find_element_by_css_selector('ul.mini-navigation-menu')
 
 
-	# check to make sure the category is valid
-	if (category in valid_categories):
-	    # Go to the page that serves the category
-	    categoryLink = categoryTab.find_element_by_partial_link_text(category)
-	    print ("Clicking on the link")
-	    print (categoryLink.get_attribute("innerHTML"))
+	    # check to make sure the category is valid
+	    if (category in valid_categories):
+	        # Go to the page that serves the category
+	        categoryLink = categoryTab.find_element_by_partial_link_text(category)
 
-	    categoryLink.click()
-	    time.sleep (5)
+    	    categoryLink.click()
+	        time.sleep (5)
 
-	    visitedLinks = []
-	    index = 0
+	        visitedLinks = []
+	        index = 0
 
-	    # makes sure we visit at most count number of pages
-	    for visited in range (0, count):
-		try:
-		    self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
-		    time.sleep(3)
-		    # searches for links on the page
+	        # makes sure we visit at most count number of pages
+	        for visited in range (0, count):
+		    try:
+		        self.driver.execute_script ("window.scrollTo(0, document.body.scrollHeight);")
+		        time.sleep(3)
+		        # searches for links on the page
 	            searchLinks = self.driver.find_elements_by_partial_link_text(keyword.title())
-		    print ("links in unit: ", len(searchLinks))
-		    # if no links found then break out of the loop
-		    if (len(searchLinks) == 0):
-		        print ("No Links found on: ", keyword)
-		        break
-		    # for each of the links found
+		        print ("links in unit: ", len(searchLinks))
+		        # if no links found then break out of the loop
+		        if (len(searchLinks) == 0):
+		            print ("No Links found on: ", keyword)
+		            break
 
-		    if (index < len(searchLinks)):
-		        searchLinks[index].click()
-		        index += 1
-		        time.sleep(time_on_site)
-		        site = self.driver.current_url
-		        print ("Site: ", site)
-		        self.log('treatment', 'read_news', site)
-		        # Go back to the previous page
-		        self.driver.back()
-		except:
-		    print("finding links on page failed")
-		    pass
+                # for each link in the page
+		        if (index < len(searchLinks)):
+		            searchLinks[index].click()
+		            index += 1
+		            time.sleep(time_on_site)
+		            site = self.driver.current_url
+		            self.log('treatment', 'read_news', site)
+		            # Go back to the previous page
+		            self.driver.back()
+		    except:
+		        print("finding links on page failed")
 
-	if (category in special_categories):
-		self.search_and_click_special (count, keyword, category, time_on_site)
+	    if (category in special_categories):
+		    self.search_and_click_special (count, keyword, category, time_on_site)
 
+
+    # Get the recommended stories
     def get_recommendedStories (self):
         self.driver.set_page_load_timeout (60)
         self.driver.get ('http://www.nytimes.com/')
-	tim = str(datetime.now())
+    	tim = str(datetime.now())
 
-	self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-	time.sleep(3)
+        # Scroll to the bottom of the page to load the recommended articles
+	    self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+	    time.sleep(3)
 
-	recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
+        # Find the recommended section
+	    recomms = self.driver.find_element_by_xpath ("//*[@id='recommendations']/div[5]")
 
-	headlines = recomms.find_elements_by_class_name('headline')
-	for headline in headlines:
-		title1 = (headline.get_attribute("innerHTML"))
-		title2 = strip_tags (title1).encode("utf8")
-		title3 = title2.strip()
-            	agency = "NYTimes"
-            	heading = "Recommended"
-            	news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
-            	self.log('measurement', 'news', news)
+	    headlines = recomms.find_elements_by_class_name('headline')
+        # Log each headline
+	    for headline in headlines:
+		    title1 = (headline.get_attribute("innerHTML"))
+		    title2 = strip_tags (title1).encode("utf8")
+		    title3 = title2.strip()
+            agency = "NYTimes"
+            heading = "Recommended"
+            news = tim+"@|"+heading+"@|"+title3+"@|"+agency+"@|"+"ago"+"@|"+"Body"
+            self.log('measurement', 'news', news)
