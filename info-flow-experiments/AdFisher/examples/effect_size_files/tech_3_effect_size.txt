@@ -1,0 +1,125 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.045084
+0.86
+Title: |Trump to Announce Carrier Plant Will Keep Jobs in U.S.
+Agency: |NYTimes
+Body: |Body
+
+0.86
+Title: |Trump Taps Hollywood’s Mnuchin for Treasury and Dines With Romney
+Agency: |NYTimes
+Body: |Body
+
+0.86
+Title: |Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated
+Agency: |NYTimes
+Body: |Body
+
+0.86
+Title: |How to Hide $400 Million
+Agency: |NYTimes
+Body: |Body
+
+0.86
+Title: |Rare Photos Show World War II From the Soviet Side
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+0.88
+Title: |Facebook Shouldn’t Fact-Check
+Agency: |NYTimes
+Body: |Body
+
+0.88
+Title: |ATT Appeals to Cord-Cutters With DirecTV Now, a New Streaming Service
+Agency: |NYTimes
+Body: |Body
+
+0.88
+Title: |The Far Right Has a New Digital Safe Space
+Agency: |NYTimes
+Body: |Body
+
+0.84
+Title: |Sheryl Sandberg Said to Plan $100 Million in Charitable Giving
+Agency: |NYTimes
+Body: |Body
+
+0.84
+Title: |How Much Disclosure About an Op-Ed Author Is Required?
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |Trump to Announce Carrier Plant Will Keep Jobs in U.S.
+Agency: |NYTimes
+Body: |Body
+
+[ 43.   0.]
+----------------------------------
+Title: |Trump Taps Hollywood’s Mnuchin for Treasury and Dines With Romney
+Agency: |NYTimes
+Body: |Body
+
+[ 43.   0.]
+----------------------------------
+Title: |Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated
+Agency: |NYTimes
+Body: |Body
+
+[ 43.   0.]
+----------------------------------
+Title: |How to Hide $400 Million
+Agency: |NYTimes
+Body: |Body
+
+[ 43.   0.]
+----------------------------------
+Title: |Rare Photos Show World War II From the Soviet Side
+Agency: |NYTimes
+Body: |Body
+
+[ 43.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |Facebook Shouldn’t Fact-Check
+Agency: |NYTimes
+Body: |Body
+
+[  0.  44.]
+----------------------------------
+Title: |ATT Appeals to Cord-Cutters With DirecTV Now, a New Streaming Service
+Agency: |NYTimes
+Body: |Body
+
+[  0.  44.]
+----------------------------------
+Title: |The Far Right Has a New Digital Safe Space
+Agency: |NYTimes
+Body: |Body
+
+[  0.  44.]
+----------------------------------
+Title: |Sheryl Sandberg Said to Plan $100 Million in Charitable Giving
+Agency: |NYTimes
+Body: |Body
+
+[  0.  42.]
+----------------------------------
+Title: |How Much Disclosure About an Op-Ed Author Is Required?
+Agency: |NYTimes
+Body: |Body
+
+[  0.  42.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.04  0.04  0.04
+  0.04  0.07  0.12  0.12  0.14  0.18  0.24  0.24  0.64  0.66  0.84  0.84
+  0.84  0.88  0.88  0.88]
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+  0.    0.    0.    0.    0.04  0.24  0.37  0.86  0.86  0.86  0.86  0.86
+  0.86  0.86  0.86]

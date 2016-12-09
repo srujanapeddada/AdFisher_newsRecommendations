@@ -1,0 +1,124 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.067107
+1.0
+Title: |Potential Conflicts Around the Globe for Trump, the Businessman President
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Why I Left White Nationalism
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Trump Claims, With No Evidence, That ‘Millions of People’ Voted Illegally
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Hillary Clinton’s Team to Join Wisconsin Recount Pushed by Jill Stein
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+1.0
+Title: |15,000 More Public Workers Are Fired in Turkey Crackdown
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |In Havana, Castro’s Death Lays Bare a Generation Gap
+Agency: |NYTimes
+Body: |Body
+
+0.94
+Title: |Pope Francis Extends Priests’ Ability to Forgive Abortion
+Agency: |NYTimes
+Body: |Body
+
+0.94
+Title: |In the History of U.S.-China Relations, a Pattern of Enchantment and Despair
+Agency: |NYTimes
+Body: |Body
+
+0.94
+Title: |The Passion of Martin Scorsese
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |Potential Conflicts Around the Globe for Trump, the Businessman President
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Why I Left White Nationalism
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Trump Claims, With No Evidence, That ‘Millions of People’ Voted Illegally
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Hillary Clinton’s Team to Join Wisconsin Recount Pushed by Jill Stein
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |15,000 More Public Workers Are Fired in Turkey Crackdown
+Agency: |NYTimes
+Body: |Body
+
+[  0.  50.]
+----------------------------------
+Title: |In Havana, Castro’s Death Lays Bare a Generation Gap
+Agency: |NYTimes
+Body: |Body
+
+[  0.  48.]
+----------------------------------
+Title: |Pope Francis Extends Priests’ Ability to Forgive Abortion
+Agency: |NYTimes
+Body: |Body
+
+[  0.  47.]
+----------------------------------
+Title: |In the History of U.S.-China Relations, a Pattern of Enchantment and Despair
+Agency: |NYTimes
+Body: |Body
+
+[  0.  47.]
+----------------------------------
+Title: |The Passion of Martin Scorsese
+Agency: |NYTimes
+Body: |Body
+
+[  0.  47.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.06  0.06
+  0.06  0.06  0.06  0.06  0.08  0.08  0.94  0.94  0.94  0.94  0.94  0.94
+  0.94  0.94  0.96  1.  ]
+[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]

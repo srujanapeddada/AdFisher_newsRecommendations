@@ -1,0 +1,125 @@
+Reading log..........................Reading complete
+Treatments:  ['control', 'experimental']
+Creating feature vectors-->>Complete
+---Time for getting feature vectors:  0:00:00.049492
+1.0
+Title: |Army Blocks Drilling of Dakota Access Oil Pipeline
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Donald Trump Thrusts Taiwan Back on the Table, Rattling a Region
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Death Toll in Oakland Warehouse Fire Rises Past 30 as Search Continues
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Deadly Fire Tears Through Oakland Warehouse
+Agency: |NYTimes
+Body: |Body
+
+1.0
+Title: |Jill Stein’s Pennsylvania Recount Effort Is Dealt a Major Setback
+Agency: |NYTimes
+Body: |Body
+
+--------------------------------
+0.98
+Title: |Russell Westbrook’s Remarkable Streak Reaches Five
+Agency: |NYTimes
+Body: |Body
+
+0.98
+Title: |Mind Over Body: Playing in the N.F.L. at 38
+Agency: |NYTimes
+Body: |Body
+
+0.98
+Title: |Despite Flash of Rose’s Prime, Knicks Are Dazed by Westbrook and Thunder
+Agency: |NYTimes
+Body: |Body
+
+0.98
+Title: |College Football’s Chosen 4: Alabama, Clemson, Ohio State and Washington
+Agency: |NYTimes
+Body: |Body
+
+0.96
+Title: |Steelers End Giants’ Six-Game Winning Streak
+Agency: |NYTimes
+Body: |Body
+
+Frequency of top ads:
+
+Title: |Army Blocks Drilling of Dakota Access Oil Pipeline
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Donald Trump Thrusts Taiwan Back on the Table, Rattling a Region
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Death Toll in Oakland Warehouse Fire Rises Past 30 as Search Continues
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Deadly Fire Tears Through Oakland Warehouse
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+Title: |Jill Stein’s Pennsylvania Recount Effort Is Dealt a Major Setback
+Agency: |NYTimes
+Body: |Body
+
+[ 50.   0.]
+----------------------------------
+%%%%----------------------------------%%%%
+Title: |Russell Westbrook’s Remarkable Streak Reaches Five
+Agency: |NYTimes
+Body: |Body
+
+[  0.  49.]
+----------------------------------
+Title: |Mind Over Body: Playing in the N.F.L. at 38
+Agency: |NYTimes
+Body: |Body
+
+[  0.  49.]
+----------------------------------
+Title: |Despite Flash of Rose’s Prime, Knicks Are Dazed by Westbrook and Thunder
+Agency: |NYTimes
+Body: |Body
+
+[  0.  49.]
+----------------------------------
+Title: |College Football’s Chosen 4: Alabama, Clemson, Ohio State and Washington
+Agency: |NYTimes
+Body: |Body
+
+[  0.  49.]
+----------------------------------
+Title: |Steelers End Giants’ Six-Game Winning Streak
+Agency: |NYTimes
+Body: |Body
+
+[  0.  48.]
+----------------------------------
+%%%%----------------------------------%%%%
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.02
+  0.02  0.06  0.06  0.06  0.14  0.4   0.4   0.5   0.62  0.76  0.92  0.96
+  0.96  0.98  0.98  0.98  0.98]
+[ 0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+  0.    0.    0.    0.    0.    0.28  0.72  1.    1.    1.    1.    1.    1.
+  1.    1.    1.  ]

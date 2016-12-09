@@ -1,0 +1,772 @@
+2016-10-29 09:05:15.235755||meta||agents||8
+2016-10-29 09:05:15.235794||meta||treatnames||control@|experimental
+2016-10-29 09:05:15.235881||meta||block_id start||0
+2016-10-29 09:05:15.235890||meta||assignment||6@|0@|3@|4@|5@|1@|7@|2
+2016-10-29 09:05:36.668374||event||progress-marker||training-start||6||0
+2016-10-29 09:05:36.669217||event||progress-marker||training-end||6||0
+2016-10-29 09:05:36.932844||event||progress-marker||training-start||0||0
+2016-10-29 09:05:36.933523||event||progress-marker||training-end||0||0
+2016-10-29 09:05:36.980319||event||progress-marker||training-start||7||1
+2016-10-29 09:05:37.134318||event||progress-marker||training-start||2||1
+2016-10-29 09:05:37.228953||event||progress-marker||training-start||3||0
+2016-10-29 09:05:37.229849||event||progress-marker||training-end||3||0
+2016-10-29 09:05:37.433516||event||progress-marker||training-start||4||0
+2016-10-29 09:05:37.434623||event||progress-marker||training-end||4||0
+2016-10-29 09:05:37.517396||event||progress-marker||training-start||1||1
+2016-10-29 09:05:37.533107||event||progress-marker||training-start||5||1
+2016-10-29 09:06:06.980641||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 09:06:07.692629||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 09:06:07.988203||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:06:10.716234||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 09:06:48.769843||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 09:06:49.550188||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 09:06:50.908232||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:06:53.076517||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 09:07:13.592208||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 09:07:22.648937||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 09:07:25.468727||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:07:28.972429||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 09:08:32.908803||treatment||visit website||http://ford.com||5||1
+2016-10-29 09:09:05.909427||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 09:09:05.916404||event||progress-marker||training-end||5||1
+2016-10-29 09:09:11.267387||error||website timeout||http://ford.com||7||1
+2016-10-29 09:09:32.796081||treatment||visit website||http://ford.com||1||1
+2016-10-29 09:09:36.804204||treatment||visit website||http://ford.com||2||1
+2016-10-29 09:10:07.883693||error||website timeout||http://autoblog.com||7||1
+2016-10-29 09:10:07.885381||event||progress-marker||training-end||7||1
+2016-10-29 09:10:23.349923||error||website timeout||http://autoblog.com||1||1
+2016-10-29 09:10:23.351158||event||progress-marker||training-end||1||1
+2016-10-29 09:10:27.333338||error||website timeout||http://autoblog.com||2||1
+2016-10-29 09:10:27.334199||event||progress-marker||training-end||2||1
+2016-10-29 09:10:27.582512||event||progress-marker||measurement-start||3||0
+2016-10-29 09:10:27.763976||event||progress-marker||measurement-start||4||0
+2016-10-29 09:10:27.909122||event||progress-marker||measurement-start||7||1
+2016-10-29 09:10:28.357268||event||progress-marker||measurement-start||1||1
+2016-10-29 09:10:31.001191||event||progress-marker||measurement-start||5||1
+2016-10-29 09:10:31.983273||event||progress-marker||measurement-start||6||0
+2016-10-29 09:10:32.284798||event||progress-marker||measurement-start||0||0
+2016-10-29 09:10:32.336496||event||progress-marker||measurement-start||2||1
+2016-10-29 09:12:25.269514||measurement||news||2016-10-29 09:10:59.482309@|Recommended@|Senator mocks opponent's family@|CNN@|0 minutes ago@|(CNN Politics - Videos)||7||1
+2016-10-29 09:12:25.277580||event||progress-marker||measurement-end||7||1
+2016-10-29 09:12:30.704539||measurement||news||2016-10-29 09:10:59.237636@|Recommended@|Senator mocks opponent's family@|CNN@|0 minutes ago@|(CNN Politics - Videos)||1||1
+2016-10-29 09:12:30.704771||event||progress-marker||measurement-end||1||1
+2016-10-29 09:12:30.926665||measurement||news||2016-10-29 09:11:11.187175@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||2||1
+2016-10-29 09:12:30.931700||event||progress-marker||measurement-end||2||1
+2016-10-29 09:12:33.291798||measurement||news||2016-10-29 09:11:21.140569@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||5||1
+2016-10-29 09:12:33.292549||event||progress-marker||measurement-end||5||1
+2016-10-29 09:12:33.534263||meta||block_id end||0
+2016-10-29 09:12:33.568554||meta||block_id start||1
+2016-10-29 09:12:33.568599||meta||assignment||2@|3@|6@|7@|4@|5@|1@|0
+2016-10-29 09:13:05.065730||event||progress-marker||training-start||6||0
+2016-10-29 09:13:05.066604||event||progress-marker||training-end||6||0
+2016-10-29 09:13:05.817791||event||progress-marker||training-start||4||1
+2016-10-29 09:13:05.824593||event||progress-marker||training-start||3||0
+2016-10-29 09:13:05.824817||event||progress-marker||training-end||3||0
+2016-10-29 09:13:05.961608||event||progress-marker||training-start||2||0
+2016-10-29 09:13:05.962029||event||progress-marker||training-end||2||0
+2016-10-29 09:13:06.280439||event||progress-marker||training-start||1||1
+2016-10-29 09:13:06.297243||event||progress-marker||training-start||7||0
+2016-10-29 09:13:06.297539||event||progress-marker||training-end||7||0
+2016-10-29 09:13:06.643283||event||progress-marker||training-start||0||1
+2016-10-29 09:13:06.713022||event||progress-marker||training-start||5||1
+2016-10-29 09:13:42.735263||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:13:42.843581||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 09:13:43.732626||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 09:13:43.948639||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 09:14:21.811931||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:14:21.865243||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 09:14:22.596363||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 09:14:25.044795||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 09:15:04.236000||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:15:09.526302||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 09:15:11.951678||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 09:15:18.708807||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 09:17:26.629030||error||website timeout||http://ford.com||5||1
+2016-10-29 09:17:35.702262||error||website timeout||http://ford.com||4||1
+2016-10-29 09:17:38.298014||error||website timeout||http://ford.com||1||1
+2016-10-29 09:17:48.976590||treatment||visit website||http://autoblog.com||5||1
+2016-10-29 09:17:48.981891||event||progress-marker||training-end||5||1
+2016-10-29 09:17:53.513891||error||website timeout||http://ford.com||0||1
+2016-10-29 09:17:54.669422||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 09:17:54.670424||event||progress-marker||training-end||4||1
+2016-10-29 09:18:02.364210||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 09:18:02.364616||event||progress-marker||training-end||0||1
+2016-10-29 09:18:04.037149||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 09:18:04.038373||event||progress-marker||training-end||1||1
+2016-10-29 09:18:04.683551||event||progress-marker||measurement-start||4||1
+2016-10-29 09:18:05.441107||event||progress-marker||measurement-start||6||0
+2016-10-29 09:18:06.225712||event||progress-marker||measurement-start||3||0
+2016-10-29 09:18:06.332231||event||progress-marker||measurement-start||2||0
+2016-10-29 09:18:06.785851||event||progress-marker||measurement-start||7||0
+2016-10-29 09:18:07.370103||event||progress-marker||measurement-start||0||1
+2016-10-29 09:18:09.005600||event||progress-marker||measurement-start||5||1
+2016-10-29 09:18:09.045069||event||progress-marker||measurement-start||1||1
+2016-10-29 09:20:31.828403||measurement||news||2016-10-29 09:19:29.480047@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||4||1
+2016-10-29 09:20:31.840909||event||progress-marker||measurement-end||4||1
+2016-10-29 09:20:35.941385||measurement||news||2016-10-29 09:19:33.194267@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 09:20:35.941907||event||progress-marker||measurement-end||1||1
+2016-10-29 09:20:55.605838||measurement||news||2016-10-29 09:20:28.974515@|Recommended@|Senator mocks opponent's family@|CNN@|0 minutes ago@|(CNN Politics - Videos)||5||1
+2016-10-29 09:20:55.606588||event||progress-marker||measurement-end||5||1
+2016-10-29 09:21:01.687359||measurement||news||2016-10-29 09:20:43.605266@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||0||1
+2016-10-29 09:21:01.688372||event||progress-marker||measurement-end||0||1
+2016-10-29 09:21:01.964500||meta||block_id end||1
+2016-10-29 09:21:01.975390||meta||block_id start||2
+2016-10-29 09:21:01.978929||meta||assignment||3@|6@|5@|4@|2@|1@|7@|0
+2016-10-29 09:21:26.642249||event||progress-marker||training-start||1||1
+2016-10-29 09:21:26.981152||event||progress-marker||training-start||5||0
+2016-10-29 09:21:26.981530||event||progress-marker||training-end||5||0
+2016-10-29 09:21:27.139089||event||progress-marker||training-start||0||1
+2016-10-29 09:21:27.151158||event||progress-marker||training-start||7||1
+2016-10-29 09:21:27.172477||event||progress-marker||training-start||6||0
+2016-10-29 09:21:27.172705||event||progress-marker||training-end||6||0
+2016-10-29 09:21:27.180312||event||progress-marker||training-start||3||0
+2016-10-29 09:21:27.180737||event||progress-marker||training-end||3||0
+2016-10-29 09:21:27.279802||event||progress-marker||training-start||4||0
+2016-10-29 09:21:27.280340||event||progress-marker||training-end||4||0
+2016-10-29 09:21:27.307016||event||progress-marker||training-start||2||1
+2016-10-29 09:21:58.802676||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 09:21:59.022975||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 09:21:59.420507||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:21:59.541182||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 09:22:28.230499||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:22:29.715116||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 09:22:30.118455||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 09:22:30.453039||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 09:22:59.307137||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 09:22:59.874743||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:23:02.467679||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 09:23:08.348598||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 09:23:51.614651||treatment||visit website||http://ford.com||2||1
+2016-10-29 09:24:15.170118||error||website timeout||http://ford.com||1||1
+2016-10-29 09:24:21.837595||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 09:24:21.837970||event||progress-marker||training-end||1||1
+2016-10-29 09:24:26.280289||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 09:24:26.280687||event||progress-marker||training-end||2||1
+2016-10-29 09:24:44.101657||treatment||visit website||http://ford.com||7||1
+2016-10-29 09:24:56.060395||treatment||visit website||http://ford.com||0||1
+2016-10-29 09:25:32.752918||error||website timeout||http://autoblog.com||7||1
+2016-10-29 09:25:32.753417||event||progress-marker||training-end||7||1
+2016-10-29 09:25:43.112159||error||website timeout||http://autoblog.com||0||1
+2016-10-29 09:25:43.112986||event||progress-marker||training-end||0||1
+2016-10-29 09:25:46.373489||event||progress-marker||measurement-start||2||1
+2016-10-29 09:25:46.952766||event||progress-marker||measurement-start||1||1
+2016-10-29 09:25:47.317733||event||progress-marker||measurement-start||5||0
+2016-10-29 09:25:47.489592||event||progress-marker||measurement-start||6||0
+2016-10-29 09:25:47.509950||event||progress-marker||measurement-start||3||0
+2016-10-29 09:25:47.574298||event||progress-marker||measurement-start||4||0
+2016-10-29 09:25:47.767098||event||progress-marker||measurement-start||7||1
+2016-10-29 09:25:48.117894||event||progress-marker||measurement-start||0||1
+2016-10-29 09:27:25.573033||measurement||news||2016-10-29 09:26:18.473409@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||7||1
+2016-10-29 09:27:25.573601||event||progress-marker||measurement-end||7||1
+2016-10-29 09:27:29.288755||measurement||news||2016-10-29 09:26:18.548062@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||0||1
+2016-10-29 09:27:29.289308||event||progress-marker||measurement-end||0||1
+2016-10-29 09:27:36.714533||measurement||news||2016-10-29 09:27:35.888253@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||2||1
+2016-10-29 09:27:36.715019||event||progress-marker||measurement-end||2||1
+2016-10-29 09:27:40.534139||measurement||news||2016-10-29 09:27:40.194025@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||1||1
+2016-10-29 09:27:40.534926||event||progress-marker||measurement-end||1||1
+2016-10-29 09:27:40.790132||meta||block_id end||2
+2016-10-29 09:27:40.797128||meta||block_id start||3
+2016-10-29 09:27:40.797166||meta||assignment||4@|3@|5@|2@|0@|7@|6@|1
+2016-10-29 09:28:05.114037||event||progress-marker||training-start||5||0
+2016-10-29 09:28:05.119171||event||progress-marker||training-end||5||0
+2016-10-29 09:28:05.281203||event||progress-marker||training-start||1||1
+2016-10-29 09:28:05.449254||event||progress-marker||training-start||0||1
+2016-10-29 09:28:05.461104||event||progress-marker||training-start||3||0
+2016-10-29 09:28:05.461484||event||progress-marker||training-end||3||0
+2016-10-29 09:28:05.482700||event||progress-marker||training-start||7||1
+2016-10-29 09:28:05.622377||event||progress-marker||training-start||2||0
+2016-10-29 09:28:05.622724||event||progress-marker||training-end||2||0
+2016-10-29 09:28:05.685017||event||progress-marker||training-start||6||1
+2016-10-29 09:28:05.702692||event||progress-marker||training-start||4||0
+2016-10-29 09:28:05.704668||event||progress-marker||training-end||4||0
+2016-10-29 09:28:37.451860||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 09:28:38.008853||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:28:38.560165||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 09:28:40.560479||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 09:29:07.087257||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 09:29:11.540093||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:29:15.138911||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 09:29:17.505100||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 09:29:43.498875||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 09:29:43.840870||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:29:52.584649||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 09:29:55.779387||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 09:30:47.115310||treatment||visit website||http://ford.com||0||1
+2016-10-29 09:30:55.140311||treatment||visit website||http://ford.com||1||1
+2016-10-29 09:31:13.446061||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 09:31:13.453069||event||progress-marker||training-end||1||1
+2016-10-29 09:31:28.121141||treatment||visit website||http://ford.com||7||1
+2016-10-29 09:31:32.041084||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 09:31:32.041336||event||progress-marker||training-end||0||1
+2016-10-29 09:31:33.789644||treatment||visit website||http://ford.com||6||1
+2016-10-29 09:32:16.027379||error||website timeout||http://autoblog.com||7||1
+2016-10-29 09:32:16.031654||event||progress-marker||training-end||7||1
+2016-10-29 09:32:23.318592||error||website timeout||http://autoblog.com||6||1
+2016-10-29 09:32:23.319337||event||progress-marker||training-end||6||1
+2016-10-29 09:32:23.536989||event||progress-marker||measurement-start||1||1
+2016-10-29 09:32:25.423182||event||progress-marker||measurement-start||5||0
+2016-10-29 09:32:25.802149||event||progress-marker||measurement-start||3||0
+2016-10-29 09:32:25.923019||event||progress-marker||measurement-start||2||0
+2016-10-29 09:32:26.046202||event||progress-marker||measurement-start||7||1
+2016-10-29 09:32:26.054828||event||progress-marker||measurement-start||4||0
+2016-10-29 09:32:27.115299||event||progress-marker||measurement-start||0||1
+2016-10-29 09:32:28.325096||event||progress-marker||measurement-start||6||1
+2016-10-29 09:34:13.097963||measurement||news||2016-10-29 09:33:00.325093@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||6||1
+2016-10-29 09:34:13.102982||event||progress-marker||measurement-end||6||1
+2016-10-29 09:34:14.765190||measurement||news||2016-10-29 09:32:57.245320@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||7||1
+2016-10-29 09:34:14.765869||event||progress-marker||measurement-end||7||1
+2016-10-29 09:34:26.317490||measurement||news||2016-10-29 09:33:54.019549@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||0||1
+2016-10-29 09:34:26.317696||event||progress-marker||measurement-end||0||1
+2016-10-29 09:34:27.051200||measurement||news||2016-10-29 09:33:54.176145@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 09:34:27.051963||event||progress-marker||measurement-end||1||1
+2016-10-29 09:34:27.353628||meta||block_id end||3
+2016-10-29 09:34:27.357470||meta||block_id start||4
+2016-10-29 09:34:27.357517||meta||assignment||5@|3@|6@|2@|0@|1@|7@|4
+2016-10-29 09:34:52.561646||event||progress-marker||training-start||0||1
+2016-10-29 09:34:52.589004||event||progress-marker||training-start||1||1
+2016-10-29 09:34:52.704698||event||progress-marker||training-start||2||0
+2016-10-29 09:34:52.704993||event||progress-marker||training-end||2||0
+2016-10-29 09:34:52.787303||event||progress-marker||training-start||3||0
+2016-10-29 09:34:52.787655||event||progress-marker||training-end||3||0
+2016-10-29 09:34:52.819155||event||progress-marker||training-start||5||0
+2016-10-29 09:34:52.819826||event||progress-marker||training-end||5||0
+2016-10-29 09:34:52.825684||event||progress-marker||training-start||7||1
+2016-10-29 09:34:52.889926||event||progress-marker||training-start||6||0
+2016-10-29 09:34:52.891067||event||progress-marker||training-end||6||0
+2016-10-29 09:34:52.981797||event||progress-marker||training-start||4||1
+2016-10-29 09:35:25.602667||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 09:35:25.676590||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 09:35:26.697118||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 09:35:26.865149||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:36:00.330608||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 09:36:00.568848||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 09:36:03.096768||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:36:04.240851||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 09:36:27.308211||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 09:36:28.715799||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 09:36:33.331300||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 09:36:34.228616||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:38:08.054423||treatment||visit website||http://ford.com||4||1
+2016-10-29 09:38:11.853359||treatment||visit website||http://ford.com||0||1
+2016-10-29 09:38:17.703309||treatment||visit website||http://ford.com||1||1
+2016-10-29 09:38:19.365353||treatment||visit website||http://ford.com||7||1
+2016-10-29 09:38:57.323913||error||website timeout||http://autoblog.com||4||1
+2016-10-29 09:38:57.324648||event||progress-marker||training-end||4||1
+2016-10-29 09:38:58.818165||error||website timeout||http://autoblog.com||0||1
+2016-10-29 09:38:58.819090||event||progress-marker||training-end||0||1
+2016-10-29 09:39:04.419629||error||website timeout||http://autoblog.com||1||1
+2016-10-29 09:39:04.420401||event||progress-marker||training-end||1||1
+2016-10-29 09:39:06.014320||error||website timeout||http://autoblog.com||7||1
+2016-10-29 09:39:06.014830||event||progress-marker||training-end||7||1
+2016-10-29 09:39:07.337228||event||progress-marker||measurement-start||4||1
+2016-10-29 09:39:08.032977||event||progress-marker||measurement-start||2||0
+2016-10-29 09:39:08.102910||event||progress-marker||measurement-start||3||0
+2016-10-29 09:39:08.140151||event||progress-marker||measurement-start||5||0
+2016-10-29 09:39:08.201424||event||progress-marker||measurement-start||6||0
+2016-10-29 09:39:08.833115||event||progress-marker||measurement-start||0||1
+2016-10-29 09:39:09.426687||event||progress-marker||measurement-start||1||1
+2016-10-29 09:39:11.021737||event||progress-marker||measurement-start||7||1
+2016-10-29 09:40:53.381586||measurement||news||2016-10-29 09:39:47.089538@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||0||1
+2016-10-29 09:40:53.384862||event||progress-marker||measurement-end||0||1
+2016-10-29 09:40:55.591873||measurement||news||2016-10-29 09:39:42.303544@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||7||1
+2016-10-29 09:40:55.592898||event||progress-marker||measurement-end||7||1
+2016-10-29 09:40:56.369366||measurement||news||2016-10-29 09:39:43.936519@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 09:40:56.370136||event||progress-marker||measurement-end||1||1
+2016-10-29 09:40:57.386763||measurement||news||2016-10-29 09:39:34.057884@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||4||1
+2016-10-29 09:40:57.387080||event||progress-marker||measurement-end||4||1
+2016-10-29 09:40:57.714283||meta||block_id end||4
+2016-10-29 09:40:57.717707||meta||block_id start||5
+2016-10-29 09:40:57.717759||meta||assignment||1@|7@|0@|2@|5@|4@|3@|6
+2016-10-29 09:41:24.011523||event||progress-marker||training-start||3||1
+2016-10-29 09:41:24.019086||event||progress-marker||training-start||7||0
+2016-10-29 09:41:24.020125||event||progress-marker||training-end||7||0
+2016-10-29 09:41:24.043837||event||progress-marker||training-start||6||1
+2016-10-29 09:41:24.177396||event||progress-marker||training-start||0||0
+2016-10-29 09:41:24.177691||event||progress-marker||training-end||0||0
+2016-10-29 09:41:24.182040||event||progress-marker||training-start||5||1
+2016-10-29 09:41:24.284777||event||progress-marker||training-start||4||1
+2016-10-29 09:41:24.304967||event||progress-marker||training-start||1||0
+2016-10-29 09:41:24.305347||event||progress-marker||training-end||1||0
+2016-10-29 09:41:24.376476||event||progress-marker||training-start||2||0
+2016-10-29 09:41:24.377023||event||progress-marker||training-end||2||0
+2016-10-29 09:41:58.112596||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 09:41:58.388527||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 09:41:58.702658||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 09:41:59.252901||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 09:42:32.468750||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 09:42:32.780423||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 09:42:35.118001||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 09:42:35.476544||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 09:42:59.656384||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 09:43:02.878684||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 09:43:05.340545||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 09:43:10.861272||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 09:44:44.444192||treatment||visit website||http://ford.com||5||1
+2016-10-29 09:44:51.935919||error||website timeout||http://ford.com||4||1
+2016-10-29 09:44:52.075671||error||website timeout||http://ford.com||6||1
+2016-10-29 09:44:56.642499||treatment||visit website||http://ford.com||3||1
+2016-10-29 09:44:59.927350||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 09:44:59.927696||event||progress-marker||training-end||4||1
+2016-10-29 09:45:05.215550||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 09:45:05.215987||event||progress-marker||training-end||6||1
+2016-10-29 09:45:39.058056||error||website timeout||http://autoblog.com||5||1
+2016-10-29 09:45:39.058936||event||progress-marker||training-end||5||1
+2016-10-29 09:45:47.749422||error||website timeout||http://autoblog.com||3||1
+2016-10-29 09:45:47.750137||event||progress-marker||training-end||3||1
+2016-10-29 09:45:49.084444||event||progress-marker||measurement-start||5||1
+2016-10-29 09:45:49.406975||event||progress-marker||measurement-start||7||0
+2016-10-29 09:45:49.572132||event||progress-marker||measurement-start||0||0
+2016-10-29 09:45:49.665464||event||progress-marker||measurement-start||1||0
+2016-10-29 09:45:49.809920||event||progress-marker||measurement-start||2||0
+2016-10-29 09:45:50.018325||event||progress-marker||measurement-start||4||1
+2016-10-29 09:45:50.286499||event||progress-marker||measurement-start||6||1
+2016-10-29 09:45:52.758085||event||progress-marker||measurement-start||3||1
+2016-10-29 09:47:39.147311||measurement||news||2016-10-29 09:46:26.790949@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||5||1
+2016-10-29 09:47:39.147663||event||progress-marker||measurement-end||5||1
+2016-10-29 09:47:40.462083||measurement||news||2016-10-29 09:47:11.013951@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||6||1
+2016-10-29 09:47:40.468868||event||progress-marker||measurement-end||6||1
+2016-10-29 09:47:44.461883||measurement||news||2016-10-29 09:46:47.269775@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||3||1
+2016-10-29 09:47:44.462395||event||progress-marker||measurement-end||3||1
+2016-10-29 09:47:53.310089||measurement||news||2016-10-29 09:47:52.675580@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||4||1
+2016-10-29 09:47:53.310892||event||progress-marker||measurement-end||4||1
+2016-10-29 09:47:53.576181||meta||block_id end||5
+2016-10-29 09:47:53.583810||meta||block_id start||6
+2016-10-29 09:47:53.583878||meta||assignment||3@|6@|4@|2@|5@|7@|0@|1
+2016-10-29 09:48:17.484524||event||progress-marker||training-start||3||0
+2016-10-29 09:48:17.484800||event||progress-marker||training-end||3||0
+2016-10-29 09:48:18.384245||event||progress-marker||training-start||5||1
+2016-10-29 09:48:18.418088||event||progress-marker||training-start||6||0
+2016-10-29 09:48:18.419390||event||progress-marker||training-end||6||0
+2016-10-29 09:48:18.457443||event||progress-marker||training-start||7||1
+2016-10-29 09:48:18.563583||event||progress-marker||training-start||1||1
+2016-10-29 09:48:18.565460||event||progress-marker||training-start||2||0
+2016-10-29 09:48:18.565890||event||progress-marker||training-end||2||0
+2016-10-29 09:48:18.638587||event||progress-marker||training-start||4||0
+2016-10-29 09:48:18.639043||event||progress-marker||training-end||4||0
+2016-10-29 09:48:18.783561||event||progress-marker||training-start||0||1
+2016-10-29 09:48:50.244130||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 09:48:50.938044||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:48:51.294083||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 09:48:51.360653||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 09:49:19.402243||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:49:20.468909||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 09:49:20.771191||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 09:49:23.249735||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 09:49:54.478882||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:49:55.196243||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 09:49:55.740581||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 09:50:04.783587||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 09:51:30.082916||error||website timeout||http://ford.com||5||1
+2016-10-29 09:51:31.408222||treatment||visit website||http://ford.com||1||1
+2016-10-29 09:51:34.992314||treatment||visit website||http://ford.com||7||1
+2016-10-29 09:51:35.698765||error||website timeout||http://ford.com||0||1
+2016-10-29 09:52:20.617427||error||website timeout||http://autoblog.com||5||1
+2016-10-29 09:52:20.618086||event||progress-marker||training-end||5||1
+2016-10-29 09:52:21.888551||error||website timeout||http://autoblog.com||1||1
+2016-10-29 09:52:21.888795||event||progress-marker||training-end||1||1
+2016-10-29 09:52:23.888870||error||website timeout||http://autoblog.com||7||1
+2016-10-29 09:52:23.889577||event||progress-marker||training-end||7||1
+2016-10-29 09:52:25.814779||error||website timeout||http://autoblog.com||0||1
+2016-10-29 09:52:25.815715||event||progress-marker||training-end||0||1
+2016-10-29 09:52:26.893852||event||progress-marker||measurement-start||1||1
+2016-10-29 09:52:27.838969||event||progress-marker||measurement-start||3||0
+2016-10-29 09:52:28.780864||event||progress-marker||measurement-start||6||0
+2016-10-29 09:52:28.897666||event||progress-marker||measurement-start||7||1
+2016-10-29 09:52:28.910247||event||progress-marker||measurement-start||2||0
+2016-10-29 09:52:29.012248||event||progress-marker||measurement-start||4||0
+2016-10-29 09:52:30.631402||event||progress-marker||measurement-start||5||1
+2016-10-29 09:52:30.830902||event||progress-marker||measurement-start||0||1
+2016-10-29 09:54:14.683622||measurement||news||2016-10-29 09:53:04.259012@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 09:54:14.690001||event||progress-marker||measurement-end||1||1
+2016-10-29 09:54:15.951858||measurement||news||2016-10-29 09:53:08.605019@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||7||1
+2016-10-29 09:54:15.952350||event||progress-marker||measurement-end||7||1
+2016-10-29 09:54:16.374721||measurement||news||2016-10-29 09:53:10.635481@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||5||1
+2016-10-29 09:54:16.375389||event||progress-marker||measurement-end||5||1
+2016-10-29 09:54:16.810427||measurement||news||2016-10-29 09:53:06.239765@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||0||1
+2016-10-29 09:54:16.810971||event||progress-marker||measurement-end||0||1
+2016-10-29 09:54:17.290364||meta||block_id end||6
+2016-10-29 09:54:17.297627||meta||block_id start||7
+2016-10-29 09:54:17.301527||meta||assignment||7@|2@|0@|6@|4@|3@|1@|5
+2016-10-29 09:54:42.617491||event||progress-marker||training-start||4||1
+2016-10-29 09:54:42.726334||event||progress-marker||training-start||5||1
+2016-10-29 09:54:43.029174||event||progress-marker||training-start||6||0
+2016-10-29 09:54:43.029695||event||progress-marker||training-end||6||0
+2016-10-29 09:54:43.031392||event||progress-marker||training-start||2||0
+2016-10-29 09:54:43.031752||event||progress-marker||training-end||2||0
+2016-10-29 09:54:43.057929||event||progress-marker||training-start||1||1
+2016-10-29 09:54:43.137282||event||progress-marker||training-start||3||1
+2016-10-29 09:54:43.209913||event||progress-marker||training-start||0||0
+2016-10-29 09:54:43.211389||event||progress-marker||training-end||0||0
+2016-10-29 09:54:43.319289||event||progress-marker||training-start||7||0
+2016-10-29 09:54:43.325946||event||progress-marker||training-end||7||0
+2016-10-29 09:55:14.765038||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 09:55:15.148548||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 09:55:15.872217||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 09:55:16.144933||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 09:55:44.296386||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 09:55:44.564980||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 09:55:47.260311||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 09:55:49.306486||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 09:56:18.752345||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 09:56:21.505248||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 09:56:22.864777||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 09:56:22.868538||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 09:56:41.784681||treatment||visit website||http://ford.com||3||1
+2016-10-29 09:56:59.824412||treatment||visit website||http://ford.com||4||1
+2016-10-29 09:57:09.888407||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 09:57:09.888627||event||progress-marker||training-end||3||1
+2016-10-29 09:57:21.900604||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 09:57:21.900910||event||progress-marker||training-end||4||1
+2016-10-29 09:57:44.536240||treatment||visit website||http://ford.com||1||1
+2016-10-29 09:57:59.382262||treatment||visit website||http://ford.com||5||1
+2016-10-29 09:58:34.301519||error||website timeout||http://autoblog.com||1||1
+2016-10-29 09:58:34.302103||event||progress-marker||training-end||1||1
+2016-10-29 09:58:48.399708||error||website timeout||http://autoblog.com||5||1
+2016-10-29 09:58:48.400881||event||progress-marker||training-end||5||1
+2016-10-29 09:58:48.438238||event||progress-marker||measurement-start||2||0
+2016-10-29 09:58:48.574661||event||progress-marker||measurement-start||0||0
+2016-10-29 09:58:48.707745||event||progress-marker||measurement-start||7||0
+2016-10-29 09:58:49.323902||event||progress-marker||measurement-start||1||1
+2016-10-29 09:58:50.038895||event||progress-marker||measurement-start||3||1
+2016-10-29 09:58:52.033813||event||progress-marker||measurement-start||4||1
+2016-10-29 09:58:53.395153||event||progress-marker||measurement-start||6||0
+2016-10-29 09:58:53.408148||event||progress-marker||measurement-start||5||1
+2016-10-29 10:00:32.527053||measurement||news||2016-10-29 09:59:22.808369@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 10:00:32.527325||event||progress-marker||measurement-end||1||1
+2016-10-29 10:00:32.642341||measurement||news||2016-10-29 09:59:28.750326@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||5||1
+2016-10-29 10:00:32.642813||event||progress-marker||measurement-end||5||1
+2016-10-29 10:00:32.722069||measurement||news||2016-10-29 09:59:34.447745@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||4||1
+2016-10-29 10:00:32.722544||event||progress-marker||measurement-end||4||1
+2016-10-29 10:00:37.465182||measurement||news||2016-10-29 10:00:37.011875@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||3||1
+2016-10-29 10:00:37.465815||event||progress-marker||measurement-end||3||1
+2016-10-29 10:00:37.734520||meta||block_id end||7
+2016-10-29 10:00:37.737006||meta||block_id start||8
+2016-10-29 10:00:37.737053||meta||assignment||5@|0@|1@|6@|7@|3@|4@|2
+2016-10-29 10:01:03.524749||event||progress-marker||training-start||2||1
+2016-10-29 10:01:03.660103||event||progress-marker||training-start||0||0
+2016-10-29 10:01:03.660418||event||progress-marker||training-end||0||0
+2016-10-29 10:01:03.778775||event||progress-marker||training-start||3||1
+2016-10-29 10:01:03.876966||event||progress-marker||training-start||7||1
+2016-10-29 10:01:03.931180||event||progress-marker||training-start||5||0
+2016-10-29 10:01:03.931491||event||progress-marker||training-end||5||0
+2016-10-29 10:01:04.044179||event||progress-marker||training-start||6||0
+2016-10-29 10:01:04.044741||event||progress-marker||training-end||6||0
+2016-10-29 10:01:04.379534||event||progress-marker||training-start||1||0
+2016-10-29 10:01:04.379942||event||progress-marker||training-end||1||0
+2016-10-29 10:01:04.584819||event||progress-marker||training-start||4||1
+2016-10-29 10:01:36.580336||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 10:01:36.719149||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 10:01:37.784573||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 10:01:39.466880||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 10:02:11.869489||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 10:02:13.591084||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 10:02:14.136968||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 10:02:15.528015||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 10:02:41.265484||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 10:02:44.688615||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 10:02:53.429589||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 10:03:02.351652||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 10:03:02.916421||treatment||visit website||http://ford.com||2||1
+2016-10-29 10:03:53.642926||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 10:03:53.643264||event||progress-marker||training-end||2||1
+2016-10-29 10:04:18.232230||treatment||visit website||http://ford.com||4||1
+2016-10-29 10:04:24.093344||error||website timeout||http://ford.com||3||1
+2016-10-29 10:04:30.160792||treatment||visit website||http://ford.com||7||1
+2016-10-29 10:05:07.114474||error||website timeout||http://autoblog.com||4||1
+2016-10-29 10:05:07.116851||event||progress-marker||training-end||4||1
+2016-10-29 10:05:12.274768||error||website timeout||http://autoblog.com||3||1
+2016-10-29 10:05:12.275434||event||progress-marker||training-end||3||1
+2016-10-29 10:05:17.366833||error||website timeout||http://autoblog.com||7||1
+2016-10-29 10:05:17.367753||event||progress-marker||training-end||7||1
+2016-10-29 10:05:18.828928||event||progress-marker||measurement-start||2||1
+2016-10-29 10:05:19.105601||event||progress-marker||measurement-start||0||0
+2016-10-29 10:05:19.417171||event||progress-marker||measurement-start||5||0
+2016-10-29 10:05:19.427404||event||progress-marker||measurement-start||6||0
+2016-10-29 10:05:19.799738||event||progress-marker||measurement-start||1||0
+2016-10-29 10:05:22.139243||event||progress-marker||measurement-start||4||1
+2016-10-29 10:05:22.291258||event||progress-marker||measurement-start||3||1
+2016-10-29 10:05:22.375388||event||progress-marker||measurement-start||7||1
+2016-10-29 10:07:02.471809||measurement||news||2016-10-29 10:05:57.389874@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||3||1
+2016-10-29 10:07:02.476830||event||progress-marker||measurement-end||3||1
+2016-10-29 10:07:03.865450||measurement||news||2016-10-29 10:06:00.508302@|Recommended@|Coast Guard's record cocaine haul@|CNN@|0 minutes ago@|(CNN U.S. - Videos)||2||1
+2016-10-29 10:07:03.865723||event||progress-marker||measurement-end||2||1
+2016-10-29 10:07:04.832640||measurement||news||2016-10-29 10:05:55.992696@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||7||1
+2016-10-29 10:07:04.833111||event||progress-marker||measurement-end||7||1
+2016-10-29 10:07:05.446052||measurement||news||2016-10-29 10:05:51.622188@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||4||1
+2016-10-29 10:07:05.446675||event||progress-marker||measurement-end||4||1
+2016-10-29 10:07:05.815013||meta||block_id end||8
+2016-10-29 10:07:05.831643||meta||block_id start||9
+2016-10-29 10:07:05.831713||meta||assignment||0@|4@|6@|5@|3@|1@|2@|7
+2016-10-29 10:07:31.128674||event||progress-marker||training-start||1||1
+2016-10-29 10:07:31.745139||event||progress-marker||training-start||4||0
+2016-10-29 10:07:31.745658||event||progress-marker||training-end||4||0
+2016-10-29 10:07:32.191786||event||progress-marker||training-start||5||0
+2016-10-29 10:07:32.192283||event||progress-marker||training-end||5||0
+2016-10-29 10:07:32.228461||event||progress-marker||training-start||0||0
+2016-10-29 10:07:32.231949||event||progress-marker||training-end||0||0
+2016-10-29 10:07:32.251740||event||progress-marker||training-start||6||0
+2016-10-29 10:07:32.252213||event||progress-marker||training-end||6||0
+2016-10-29 10:07:32.411438||event||progress-marker||training-start||7||1
+2016-10-29 10:07:32.437561||event||progress-marker||training-start||2||1
+2016-10-29 10:07:32.732975||event||progress-marker||training-start||3||1
+2016-10-29 10:08:02.816840||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 10:08:03.801514||treatment||visit website||http://jalopnik.com||7||1
+2016-10-29 10:08:04.356356||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 10:08:06.221769||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 10:08:32.740351||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 10:08:33.090377||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 10:08:33.360347||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 10:08:33.505077||treatment||visit website||http://caranddriver.com||7||1
+2016-10-29 10:09:03.479251||treatment||visit website||http://popularmechanics.com||7||1
+2016-10-29 10:09:08.271888||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 10:09:14.880333||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 10:09:16.310346||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 10:10:31.991196||error||website timeout||http://ford.com||3||1
+2016-10-29 10:10:34.278476||treatment||visit website||http://ford.com||7||1
+2016-10-29 10:10:35.053603||error||website timeout||http://ford.com||2||1
+2016-10-29 10:10:37.496846||treatment||visit website||http://ford.com||1||1
+2016-10-29 10:10:40.844933||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 10:10:40.845176||event||progress-marker||training-end||3||1
+2016-10-29 10:11:23.536447||error||website timeout||http://autoblog.com||7||1
+2016-10-29 10:11:23.537260||event||progress-marker||training-end||7||1
+2016-10-29 10:11:23.870076||error||website timeout||http://autoblog.com||2||1
+2016-10-29 10:11:23.870885||event||progress-marker||training-end||2||1
+2016-10-29 10:11:24.391288||error||website timeout||http://autoblog.com||1||1
+2016-10-29 10:11:24.392099||event||progress-marker||training-end||1||1
+2016-10-29 10:11:25.934561||event||progress-marker||measurement-start||3||1
+2016-10-29 10:11:27.133677||event||progress-marker||measurement-start||4||0
+2016-10-29 10:11:27.617976||event||progress-marker||measurement-start||5||0
+2016-10-29 10:11:27.623076||event||progress-marker||measurement-start||0||0
+2016-10-29 10:11:27.698030||event||progress-marker||measurement-start||6||0
+2016-10-29 10:11:28.546347||event||progress-marker||measurement-start||7||1
+2016-10-29 10:11:28.877924||event||progress-marker||measurement-start||2||1
+2016-10-29 10:11:29.401549||event||progress-marker||measurement-start||1||1
+2016-10-29 10:13:11.961476||measurement||news||2016-10-29 10:12:09.180769@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||7||1
+2016-10-29 10:13:11.966292||event||progress-marker||measurement-end||7||1
+2016-10-29 10:13:13.550577||measurement||news||2016-10-29 10:12:04.892025@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||2||1
+2016-10-29 10:13:13.550862||event||progress-marker||measurement-end||2||1
+2016-10-29 10:13:14.451463||measurement||news||2016-10-29 10:12:09.160932@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 10:13:14.451972||event||progress-marker||measurement-end||1||1
+2016-10-29 10:13:18.351336||measurement||news||2016-10-29 10:12:43.424168@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||3||1
+2016-10-29 10:13:18.351947||event||progress-marker||measurement-end||3||1
+2016-10-29 10:13:18.664009||meta||block_id end||9
+2016-10-29 10:13:18.667992||meta||block_id start||10
+2016-10-29 10:13:18.668500||meta||assignment||3@|7@|5@|6@|0@|2@|1@|4
+2016-10-29 10:13:44.080751||event||progress-marker||training-start||2||1
+2016-10-29 10:13:44.221818||event||progress-marker||training-start||7||0
+2016-10-29 10:13:44.222248||event||progress-marker||training-end||7||0
+2016-10-29 10:13:44.253516||event||progress-marker||training-start||1||1
+2016-10-29 10:13:44.319516||event||progress-marker||training-start||4||1
+2016-10-29 10:13:44.345447||event||progress-marker||training-start||3||0
+2016-10-29 10:13:44.345726||event||progress-marker||training-end||3||0
+2016-10-29 10:13:44.414938||event||progress-marker||training-start||5||0
+2016-10-29 10:13:44.415319||event||progress-marker||training-end||5||0
+2016-10-29 10:13:44.446171||event||progress-marker||training-start||0||1
+2016-10-29 10:13:44.532633||event||progress-marker||training-start||6||0
+2016-10-29 10:13:44.532911||event||progress-marker||training-end||6||0
+2016-10-29 10:14:16.870583||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 10:14:17.009159||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 10:14:17.304941||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 10:14:18.012282||treatment||visit website||http://jalopnik.com||2||1
+2016-10-29 10:14:46.337005||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 10:14:49.322862||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 10:14:49.841111||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 10:14:50.949158||treatment||visit website||http://caranddriver.com||2||1
+2016-10-29 10:15:21.344482||treatment||visit website||http://popularmechanics.com||2||1
+2016-10-29 10:15:26.164119||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 10:15:27.924499||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 10:15:28.244001||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 10:16:03.237742||treatment||visit website||http://ford.com||2||1
+2016-10-29 10:16:50.769841||error||website timeout||http://ford.com||4||1
+2016-10-29 10:16:55.151373||error||website timeout||http://ford.com||1||1
+2016-10-29 10:16:57.329303||treatment||visit website||http://autoblog.com||2||1
+2016-10-29 10:16:57.329909||event||progress-marker||training-end||2||1
+2016-10-29 10:16:59.339562||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 10:16:59.339944||event||progress-marker||training-end||4||1
+2016-10-29 10:17:03.657241||error||website timeout||http://ford.com||0||1
+2016-10-29 10:17:06.640204||treatment||visit website||http://autoblog.com||1||1
+2016-10-29 10:17:06.640507||event||progress-marker||training-end||1||1
+2016-10-29 10:17:12.276534||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 10:17:12.276811||event||progress-marker||training-end||0||1
+2016-10-29 10:17:12.367159||event||progress-marker||measurement-start||2||1
+2016-10-29 10:17:14.376719||event||progress-marker||measurement-start||4||1
+2016-10-29 10:17:14.577400||event||progress-marker||measurement-start||7||0
+2016-10-29 10:17:14.731583||event||progress-marker||measurement-start||3||0
+2016-10-29 10:17:14.763499||event||progress-marker||measurement-start||5||0
+2016-10-29 10:17:14.927129||event||progress-marker||measurement-start||6||0
+2016-10-29 10:17:16.658237||event||progress-marker||measurement-start||1||1
+2016-10-29 10:17:17.285403||event||progress-marker||measurement-start||0||1
+2016-10-29 10:19:44.015340||measurement||news||2016-10-29 10:18:57.601919@|Recommended@|Senator mocks opponent's family@|CNN@|0 minutes ago@|(CNN Politics - Videos)||0||1
+2016-10-29 10:19:44.015641||event||progress-marker||measurement-end||0||1
+2016-10-29 10:19:45.268122||measurement||news||2016-10-29 10:18:58.158541@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||1||1
+2016-10-29 10:19:45.268643||event||progress-marker||measurement-end||1||1
+2016-10-29 10:19:46.823558||measurement||news||2016-10-29 10:19:01.280519@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||2||1
+2016-10-29 10:19:46.824181||event||progress-marker||measurement-end||2||1
+2016-10-29 10:19:48.406560||measurement||news||2016-10-29 10:19:08.922362@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||4||1
+2016-10-29 10:19:48.407354||event||progress-marker||measurement-end||4||1
+2016-10-29 10:19:48.694060||meta||block_id end||10
+2016-10-29 10:19:48.705725||meta||block_id start||11
+2016-10-29 10:19:48.708879||meta||assignment||7@|2@|3@|1@|0@|4@|5@|6
+2016-10-29 10:20:20.616167||event||progress-marker||training-start||2||0
+2016-10-29 10:20:20.622041||event||progress-marker||training-end||2||0
+2016-10-29 10:20:20.981371||event||progress-marker||training-start||3||0
+2016-10-29 10:20:20.983008||event||progress-marker||training-end||3||0
+2016-10-29 10:20:21.236931||event||progress-marker||training-start||5||1
+2016-10-29 10:20:21.258634||event||progress-marker||training-start||0||1
+2016-10-29 10:20:21.460281||event||progress-marker||training-start||1||0
+2016-10-29 10:20:21.460543||event||progress-marker||training-end||1||0
+2016-10-29 10:20:21.700342||event||progress-marker||training-start||4||1
+2016-10-29 10:20:22.109359||event||progress-marker||training-start||6||1
+2016-10-29 10:20:22.289115||event||progress-marker||training-start||7||0
+2016-10-29 10:20:22.289998||event||progress-marker||training-end||7||0
+2016-10-29 10:20:55.534372||treatment||visit website||http://jalopnik.com||5||1
+2016-10-29 10:20:55.801596||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 10:20:56.018617||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 10:20:57.323284||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 10:21:27.918490||treatment||visit website||http://caranddriver.com||5||1
+2016-10-29 10:21:28.096243||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 10:21:28.322347||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 10:21:29.643244||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 10:21:55.543566||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 10:21:57.029633||treatment||visit website||http://popularmechanics.com||5||1
+2016-10-29 10:22:00.615760||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 10:22:04.472384||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 10:22:35.371384||treatment||visit website||http://ford.com||6||1
+2016-10-29 10:23:02.696827||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 10:23:02.697150||event||progress-marker||training-end||6||1
+2016-10-29 10:23:27.530271||error||website timeout||http://ford.com||4||1
+2016-10-29 10:23:33.591930||treatment||visit website||http://ford.com||5||1
+2016-10-29 10:23:34.750472||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 10:23:34.750701||event||progress-marker||training-end||4||1
+2016-10-29 10:23:36.547066||treatment||visit website||http://ford.com||0||1
+2016-10-29 10:24:27.191602||error||website timeout||http://autoblog.com||5||1
+2016-10-29 10:24:27.192441||event||progress-marker||training-end||5||1
+2016-10-29 10:24:31.216093||error||website timeout||http://autoblog.com||0||1
+2016-10-29 10:24:31.216367||event||progress-marker||training-end||0||1
+2016-10-29 10:24:31.340864||event||progress-marker||measurement-start||2||0
+2016-10-29 10:24:31.514805||event||progress-marker||measurement-start||3||0
+2016-10-29 10:24:31.978530||event||progress-marker||measurement-start||1||0
+2016-10-29 10:24:32.216068||event||progress-marker||measurement-start||5||1
+2016-10-29 10:24:32.868963||event||progress-marker||measurement-start||7||0
+2016-10-29 10:24:32.988195||event||progress-marker||measurement-start||6||1
+2016-10-29 10:24:34.942842||event||progress-marker||measurement-start||4||1
+2016-10-29 10:24:36.224840||event||progress-marker||measurement-start||0||1
+2016-10-29 10:26:30.698076||measurement||news||2016-10-29 10:25:28.549521@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||5||1
+2016-10-29 10:26:30.698708||event||progress-marker||measurement-end||5||1
+2016-10-29 10:26:48.978670||measurement||news||2016-10-29 10:25:33.191058@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||0||1
+2016-10-29 10:26:48.980570||event||progress-marker||measurement-end||0||1
+2016-10-29 10:26:53.709503||measurement||news||2016-10-29 10:26:20.611499@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||4||1
+2016-10-29 10:26:53.709804||event||progress-marker||measurement-end||4||1
+2016-10-29 10:26:56.449442||measurement||news||2016-10-29 10:26:56.037235@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||6||1
+2016-10-29 10:26:56.451815||event||progress-marker||measurement-end||6||1
+2016-10-29 10:26:56.770620||meta||block_id end||11
+2016-10-29 10:26:56.770877||meta||block_id start||12
+2016-10-29 10:26:56.770898||meta||assignment||7@|6@|2@|5@|0@|4@|3@|1
+2016-10-29 10:27:26.638802||event||progress-marker||training-start||5||0
+2016-10-29 10:27:26.639182||event||progress-marker||training-end||5||0
+2016-10-29 10:27:26.826253||event||progress-marker||training-start||1||1
+2016-10-29 10:27:26.828812||event||progress-marker||training-start||0||1
+2016-10-29 10:27:26.956857||event||progress-marker||training-start||4||1
+2016-10-29 10:27:27.041546||event||progress-marker||training-start||2||0
+2016-10-29 10:27:27.042206||event||progress-marker||training-end||2||0
+2016-10-29 10:27:27.046911||event||progress-marker||training-start||6||0
+2016-10-29 10:27:27.047526||event||progress-marker||training-end||6||0
+2016-10-29 10:27:27.082205||event||progress-marker||training-start||3||1
+2016-10-29 10:27:27.245877||event||progress-marker||training-start||7||0
+2016-10-29 10:27:27.246161||event||progress-marker||training-end||7||0
+2016-10-29 10:28:00.518101||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 10:28:00.705374||treatment||visit website||http://jalopnik.com||1||1
+2016-10-29 10:28:00.890081||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 10:28:01.656847||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 10:28:41.783617||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 10:28:42.666181||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 10:28:43.153386||treatment||visit website||http://caranddriver.com||1||1
+2016-10-29 10:28:44.636862||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 10:29:16.996715||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 10:29:17.780363||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 10:29:27.916507||treatment||visit website||http://popularmechanics.com||1||1
+2016-10-29 10:29:32.012452||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 10:29:37.732584||treatment||visit website||http://ford.com||0||1
+2016-10-29 10:30:12.712227||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 10:30:12.712440||event||progress-marker||training-end||0||1
+2016-10-29 10:30:16.368032||treatment||visit website||http://ford.com||3||1
+2016-10-29 10:30:52.641824||error||website timeout||http://ford.com||1||1
+2016-10-29 10:31:07.817568||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 10:31:07.817785||event||progress-marker||training-end||3||1
+2016-10-29 10:31:09.359161||error||website timeout||http://ford.com||4||1
+2016-10-29 10:31:19.052805||treatment||visit website||http://autoblog.com||4||1
+2016-10-29 10:31:19.053066||event||progress-marker||training-end||4||1
+2016-10-29 10:31:48.858528||error||website timeout||http://autoblog.com||1||1
+2016-10-29 10:31:48.858746||event||progress-marker||training-end||1||1
+2016-10-29 10:31:49.114601||event||progress-marker||measurement-start||4||1
+2016-10-29 10:31:52.627399||event||progress-marker||measurement-start||5||0
+2016-10-29 10:31:52.775512||event||progress-marker||measurement-start||2||0
+2016-10-29 10:31:52.957014||event||progress-marker||measurement-start||3||1
+2016-10-29 10:31:53.079035||event||progress-marker||measurement-start||6||0
+2016-10-29 10:31:53.135913||event||progress-marker||measurement-start||7||0
+2016-10-29 10:31:53.147602||event||progress-marker||measurement-start||0||1
+2016-10-29 10:31:53.868794||event||progress-marker||measurement-start||1||1
+2016-10-29 10:33:42.699128||measurement||news||2016-10-29 10:32:29.973419@|Recommended@|Coast Guard's record cocaine haul@|CNN@|0 minutes ago@|(CNN U.S. - Videos)||1||1
+2016-10-29 10:33:42.699712||event||progress-marker||measurement-end||1||1
+2016-10-29 10:33:45.595968||measurement||news||2016-10-29 10:32:43.910725@|Recommended@|Wife's hilarious election ad@|CNN@|0 minutes ago@|(CNN Politics - Videos)||0||1
+2016-10-29 10:33:45.596885||event||progress-marker||measurement-end||0||1
+2016-10-29 10:33:58.969574||measurement||news||2016-10-29 10:33:17.993840@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||3||1
+2016-10-29 10:33:58.970061||event||progress-marker||measurement-end||3||1
+2016-10-29 10:34:07.613473||measurement||news||2016-10-29 10:33:40.796585@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||4||1
+2016-10-29 10:34:07.614242||event||progress-marker||measurement-end||4||1
+2016-10-29 10:34:08.009692||meta||block_id end||12
+2016-10-29 10:34:08.009985||meta||block_id start||13
+2016-10-29 10:34:08.010008||meta||assignment||7@|5@|1@|2@|6@|4@|0@|3
+2016-10-29 10:34:38.480953||event||progress-marker||training-start||5||0
+2016-10-29 10:34:38.481473||event||progress-marker||training-end||5||0
+2016-10-29 10:34:38.503052||event||progress-marker||training-start||6||1
+2016-10-29 10:34:38.627581||event||progress-marker||training-start||4||1
+2016-10-29 10:34:38.802687||event||progress-marker||training-start||3||1
+2016-10-29 10:34:39.033611||event||progress-marker||training-start||2||0
+2016-10-29 10:34:39.033938||event||progress-marker||training-end||2||0
+2016-10-29 10:34:39.041332||event||progress-marker||training-start||0||1
+2016-10-29 10:34:39.063794||event||progress-marker||training-start||7||0
+2016-10-29 10:34:39.064020||event||progress-marker||training-end||7||0
+2016-10-29 10:34:39.125607||event||progress-marker||training-start||1||0
+2016-10-29 10:34:39.126140||event||progress-marker||training-end||1||0
+2016-10-29 10:35:13.353643||treatment||visit website||http://jalopnik.com||3||1
+2016-10-29 10:35:13.788441||treatment||visit website||http://jalopnik.com||0||1
+2016-10-29 10:35:13.794411||treatment||visit website||http://jalopnik.com||4||1
+2016-10-29 10:35:18.459332||treatment||visit website||http://jalopnik.com||6||1
+2016-10-29 10:35:42.741681||treatment||visit website||http://caranddriver.com||0||1
+2016-10-29 10:35:45.721815||treatment||visit website||http://caranddriver.com||3||1
+2016-10-29 10:35:46.399071||treatment||visit website||http://caranddriver.com||4||1
+2016-10-29 10:35:48.273710||treatment||visit website||http://caranddriver.com||6||1
+2016-10-29 10:36:11.035152||treatment||visit website||http://popularmechanics.com||3||1
+2016-10-29 10:36:14.006418||treatment||visit website||http://popularmechanics.com||0||1
+2016-10-29 10:36:20.112958||treatment||visit website||http://popularmechanics.com||6||1
+2016-10-29 10:36:25.565800||treatment||visit website||http://popularmechanics.com||4||1
+2016-10-29 10:37:06.258698||treatment||visit website||http://ford.com||0||1
+2016-10-29 10:37:35.921033||treatment||visit website||http://autoblog.com||0||1
+2016-10-29 10:37:35.921762||event||progress-marker||training-end||0||1
+2016-10-29 10:37:47.105205||error||website timeout||http://ford.com||6||1
+2016-10-29 10:37:53.470440||treatment||visit website||http://autoblog.com||6||1
+2016-10-29 10:37:53.477659||event||progress-marker||training-end||6||1
+2016-10-29 10:38:04.464260||treatment||visit website||http://ford.com||4||1
+2016-10-29 10:38:05.702199||error||website timeout||http://ford.com||3||1
+2016-10-29 10:38:12.685056||treatment||visit website||http://autoblog.com||3||1
+2016-10-29 10:38:12.685344||event||progress-marker||training-end||3||1
+2016-10-29 10:38:55.002939||error||website timeout||http://autoblog.com||4||1
+2016-10-29 10:38:55.003225||event||progress-marker||training-end||4||1
+2016-10-29 10:38:56.176387||event||progress-marker||measurement-start||0||1
+2016-10-29 10:38:57.762010||event||progress-marker||measurement-start||3||1
+2016-10-29 10:38:58.624915||event||progress-marker||measurement-start||6||1
+2016-10-29 10:38:59.208590||event||progress-marker||measurement-start||5||0
+2016-10-29 10:38:59.606727||event||progress-marker||measurement-start||2||0
+2016-10-29 10:38:59.650935||event||progress-marker||measurement-start||7||0
+2016-10-29 10:38:59.673060||event||progress-marker||measurement-start||1||0
+2016-10-29 10:39:00.031708||event||progress-marker||measurement-start||4||1
+2016-10-29 10:40:43.775852||measurement||news||2016-10-29 10:40:23.254928@|Recommended@|Senator mocks opponent's family@|CNN@|0 minutes ago@|(CNN Politics - Videos)||0||1
+2016-10-29 10:40:43.776316||event||progress-marker||measurement-end||0||1
+2016-10-29 10:40:45.453163||measurement||news||2016-10-29 10:39:31.992989@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||4||1
+2016-10-29 10:40:45.453704||event||progress-marker||measurement-end||4||1
+2016-10-29 10:40:55.040734||measurement||news||2016-10-29 10:40:25.673929@|Recommended@|ྙ yearbook prediction goes viral@|CNN@|0 minutes ago@|(CNN Video)||3||1
+2016-10-29 10:40:55.041606||event||progress-marker||measurement-end||3||1
+2016-10-29 10:41:01.776702||measurement||news||2016-10-29 10:41:01.136934@|Recommended@|First dinosaur brain fossil found@|CNN@|0 minutes ago@|(CNN World - Videos)||6||1
+2016-10-29 10:41:01.777492||event||progress-marker||measurement-end||6||1
+2016-10-29 10:41:01.989882||meta||block_id end||13
