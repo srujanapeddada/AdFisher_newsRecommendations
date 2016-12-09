@@ -1,5 +1,0 @@
-tripadvisor.com
-timeout.com
-lonelyplanet.com
-travelzoo.com
-wikitravel.org
