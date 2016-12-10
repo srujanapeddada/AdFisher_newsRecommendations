@@ -1,0 +1,1483 @@
+2016-12-02 01:16:33.480953||meta||agents||4
+2016-12-02 01:16:33.480997||meta||treatnames||control@|experimental
+2016-12-02 01:16:33.481089||meta||block_id start||0
+2016-12-02 01:16:33.481101||meta||assignment||2@|3@|0@|1
+2016-12-02 01:16:45.719742||event||progress-marker||training-start||2||0
+2016-12-02 01:16:45.720052||event||progress-marker||training-end||2||0
+2016-12-02 01:16:46.274675||event||progress-marker||training-start||1||1
+2016-12-02 01:16:46.387820||event||progress-marker||training-start||0||1
+2016-12-02 01:16:46.519281||event||progress-marker||training-start||3||0
+2016-12-02 01:16:46.519641||event||progress-marker||training-end||3||0
+2016-12-02 01:18:15.059101||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 01:18:31.606978||treatment||read_news||http://www.nytimes.com/health/guides/index.html||1||1
+2016-12-02 01:18:41.596896||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 01:19:20.345884||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||1||1
+2016-12-02 01:19:25.641070||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 01:20:10.247297||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 01:20:18.120247||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 01:20:54.118655||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||0||1
+2016-12-02 01:21:18.206959||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 01:23:26.336424||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||1||1
+2016-12-02 01:23:40.136460||treatment||read_news||http://www.nytimes.com/section/health||0||1
+2016-12-02 01:24:09.273855||treatment||read_news||http://www.nytimes.com/2016/12/01/upshot/a-trump-pick-and-why-indianas-strict-medicaid-rules-could-spread.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 01:24:27.760785||event||progress-marker||training-end||1||1
+2016-12-02 01:24:40.978682||treatment||read_news||http://www.nytimes.com/2016/12/01/business/economy/trump-carrier-pence-jobs.html||0||1
+2016-12-02 01:24:52.936679||event||progress-marker||training-end||0||1
+2016-12-02 01:24:56.264948||event||progress-marker||measurement-start||2||0
+2016-12-02 01:24:57.067066||event||progress-marker||measurement-start||3||0
+2016-12-02 01:24:57.788831||event||progress-marker||measurement-start||1||1
+2016-12-02 01:24:57.945256||event||progress-marker||measurement-start||0||1
+2016-12-02 01:26:16.445358||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:16.829119||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:17.970952||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:18.488564||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:19.690586||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:20.256552||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:21.727267||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:22.571276||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:23.238201||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:24.639932||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:24.739754||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:25.558256||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|Why Gunshot Victims Have Reason to Like the Affordable Care Act@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:26.651892||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:27.163063||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:28.840175||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:29.251627||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:29.260548||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:30.592138||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:31.294971||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:31.898367||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|Tom Price, a Radical Choice for Health Secretary@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:32.965304||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:33.396349||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Jewish Groups and Unions Grow Uneasy With Keith Ellison@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:33.530072||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:34.020132||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:35.088667||measurement||news||2016-12-02 01:25:55.033507@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:26:35.089203||event||progress-marker||measurement-end||2||0
+2016-12-02 01:26:35.432789||measurement||news||2016-12-02 01:25:55.500983@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:26:35.433177||event||progress-marker||measurement-end||3||0
+2016-12-02 01:26:36.180092||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:36.805971||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:38.112406||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:39.535121||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Why the Trump Team’s Economic Promises Will Be Hard to Execute@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:40.124022||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:40.247761||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Traders Bet on Big Stimulus Spending. Congress May Not Go Along.@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:40.795098||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:41.156962||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|Democrats See Medicare as Winning Wedge Issue@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:41.558863||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:41.829275||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|What Republicans Should Know About the A.C.A.@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:41.967023||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:42.222586||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|Trump’s Chaos Theory: A Single Tweet Causes Jobs To Return@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:42.258682||measurement||news||2016-12-02 01:25:55.808922@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:26:42.259020||event||progress-marker||measurement-end||0||1
+2016-12-02 01:26:42.626435||measurement||news||2016-12-02 01:25:52.257259@|Recommended@|When Having Insurance Still Leaves You Dangerously Uncovered@|NYTimes@|ago@|Body||1||1
+2016-12-02 01:26:42.626961||event||progress-marker||measurement-end||1||1
+2016-12-02 01:26:44.203568||meta||block_id end||0
+2016-12-02 01:26:44.203936||meta||block_id start||1
+2016-12-02 01:26:44.203957||meta||assignment||3@|1@|0@|2
+2016-12-02 01:26:56.539944||event||progress-marker||training-start||0||1
+2016-12-02 01:26:56.563797||event||progress-marker||training-start||2||1
+2016-12-02 01:26:56.771770||event||progress-marker||training-start||3||0
+2016-12-02 01:26:56.772061||event||progress-marker||training-end||3||0
+2016-12-02 01:26:56.846716||event||progress-marker||training-start||1||0
+2016-12-02 01:26:56.847016||event||progress-marker||training-end||1||0
+2016-12-02 01:29:09.811131||treatment||read_news||http://www.nytimes.com/health/guides/index.html||0||1
+2016-12-02 01:29:13.778903||treatment||read_news||http://www.nytimes.com/health/guides/index.html||2||1
+2016-12-02 01:30:04.662444||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?_r=0||2||1
+2016-12-02 01:30:09.602092||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||0||1
+2016-12-02 01:30:51.556333||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 01:31:01.278215||treatment||read_news||http://www.nytimes.com/2016/12/01/well/live/a-place-to-be-heard.html||0||1
+2016-12-02 01:31:36.829092||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 01:31:38.738893||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||0||1
+2016-12-02 01:32:14.707670||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||2||1
+2016-12-02 01:32:29.500206||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 01:33:32.779692||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 01:34:11.802688||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 01:34:26.169807||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 01:34:55.184182||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 01:35:06.795405||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 01:36:05.106963||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 01:36:18.991247||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 01:36:25.877947||event||progress-marker||training-end||2||1
+2016-12-02 01:37:55.183163||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 01:37:56.876563||event||progress-marker||training-end||0||1
+2016-12-02 01:37:57.617271||event||progress-marker||measurement-start||3||0
+2016-12-02 01:37:57.660095||event||progress-marker||measurement-start||1||0
+2016-12-02 01:38:01.003235||event||progress-marker||measurement-start||2||1
+2016-12-02 01:38:01.884844||event||progress-marker||measurement-start||0||1
+2016-12-02 01:39:26.113679||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:26.946264||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:29.374649||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:30.397151||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:32.063255||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:32.727284||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:33.576119||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:34.102279||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:35.929043||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:36.290132||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:36.749350||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:38.040772||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:39.001261||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:40.326331||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:40.793456||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|Summer Project Turns Into Leukemia Testing Breakthrough@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:41.259448||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:42.964983||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:43.169782||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:43.512652||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:45.632135||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:45.815914||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:46.712977||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:47.946667||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:48.077226||measurement||news||2016-12-02 01:39:00.578382@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||0
+2016-12-02 01:39:48.077791||event||progress-marker||measurement-end||3||0
+2016-12-02 01:39:49.353757||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|C.I.A. Doctors, Ethics and Torture@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:49.978209||measurement||news||2016-12-02 01:39:03.876331@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:39:49.978627||event||progress-marker||measurement-end||1||0
+2016-12-02 01:39:51.975335||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|Tennessee Woman Accused of Coat-Hanger Abortion Attempt Faces New Charges@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:54.091003||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:54.806875||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:54.840780||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:55.628153||measurement||news||2016-12-02 01:38:13.063659@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:39:55.628632||event||progress-marker||measurement-end||0||1
+2016-12-02 01:39:55.853518||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:56.905299||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:56.978274||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:56.998621||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.014106||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.028602||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.108503||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|In Scotland, Trump Built a Wall. Then He Sent Residents the Bill.@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.122464||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.130000||measurement||news||2016-12-02 01:38:59.597080@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||2||1
+2016-12-02 01:39:57.130654||event||progress-marker||measurement-end||2||1
+2016-12-02 01:39:57.484157||meta||block_id end||1
+2016-12-02 01:39:57.484465||meta||block_id start||2
+2016-12-02 01:39:57.484497||meta||assignment||1@|2@|0@|3
+2016-12-02 01:40:09.587529||event||progress-marker||training-start||3||1
+2016-12-02 01:40:10.050987||event||progress-marker||training-start||2||0
+2016-12-02 01:40:10.051683||event||progress-marker||training-end||2||0
+2016-12-02 01:40:10.101517||event||progress-marker||training-start||1||0
+2016-12-02 01:40:10.102106||event||progress-marker||training-end||1||0
+2016-12-02 01:40:10.664016||event||progress-marker||training-start||0||1
+2016-12-02 01:41:37.056474||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 01:41:44.040259||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 01:42:20.927858||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 01:42:30.660207||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 01:42:59.115451||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 01:43:23.119078||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 01:43:46.774442||treatment||read_news||http://www.nytimes.com/video/us/100000004406557/lsds-long-strange-trip.html||3||1
+2016-12-02 01:44:00.837521||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 01:44:29.523473||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 01:44:36.969008||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||0||1
+2016-12-02 01:46:21.616525||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 01:46:39.024520||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 01:47:02.053540||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 01:47:16.020652||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 01:47:44.022654||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 01:47:56.358415||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 01:48:03.747577||event||progress-marker||training-end||3||1
+2016-12-02 01:48:59.981683||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 01:49:00.983836||event||progress-marker||training-end||0||1
+2016-12-02 01:49:03.821216||event||progress-marker||measurement-start||3||1
+2016-12-02 01:49:05.688246||event||progress-marker||measurement-start||2||0
+2016-12-02 01:49:05.785066||event||progress-marker||measurement-start||1||0
+2016-12-02 01:49:05.988809||event||progress-marker||measurement-start||0||1
+2016-12-02 01:50:27.855321||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:28.757948||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:29.522773||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:31.390646||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:32.084049||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|‘My Soul Feels Taller’: A Whistle-Blower’s $20 Million Vindication@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:32.107853||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:33.901798||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:34.518915||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:35.283052||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:35.839975||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:35.859908||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:37.110357||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:37.745485||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:38.015331||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:38.469886||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:38.964423||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:39.893801||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:40.345030||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:40.400297||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:41.707680||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:41.723171||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:43.146406||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:43.589261||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:43.698644||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:44.242678||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:45.130690||measurement||news||2016-12-02 01:50:04.817052@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||2||0
+2016-12-02 01:50:45.131644||event||progress-marker||measurement-end||2||0
+2016-12-02 01:50:45.973803||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:46.000110||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:46.818853||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:47.650014||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:48.467502||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:49.362551||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:49.478904||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:50.267987||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:50.672219||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:50.738614||measurement||news||2016-12-02 01:50:09.324029@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 01:50:50.738998||event||progress-marker||measurement-end||1||0
+2016-12-02 01:50:51.508145||measurement||news||2016-12-02 01:50:06.003742@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 01:50:51.508550||event||progress-marker||measurement-end||3||1
+2016-12-02 01:50:52.144790||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:53.141719||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:54.482663||measurement||news||2016-12-02 01:49:12.474420@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||0||1
+2016-12-02 01:50:54.483900||event||progress-marker||measurement-end||0||1
+2016-12-02 01:50:54.871378||meta||block_id end||2
+2016-12-02 01:50:54.871616||meta||block_id start||3
+2016-12-02 01:50:54.871635||meta||assignment||2@|1@|0@|3
+2016-12-02 01:51:07.108106||event||progress-marker||training-start||0||1
+2016-12-02 01:51:07.336686||event||progress-marker||training-start||3||1
+2016-12-02 01:51:07.365407||event||progress-marker||training-start||2||0
+2016-12-02 01:51:07.365668||event||progress-marker||training-end||2||0
+2016-12-02 01:51:07.481763||event||progress-marker||training-start||1||0
+2016-12-02 01:51:07.485897||event||progress-marker||training-end||1||0
+2016-12-02 01:52:42.920085||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 01:52:52.191837||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 01:53:18.053593||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 01:53:26.102073||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 01:53:50.492875||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 01:54:07.503212||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 01:54:21.901256||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 01:54:46.052049||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 01:55:01.352609||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||3||1
+2016-12-02 01:55:26.091147||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||0||1
+2016-12-02 01:58:08.677677||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 01:58:54.923777||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 01:59:23.920505||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 01:59:37.269798||event||progress-marker||training-end||0||1
+2016-12-02 02:24:14.883017||error||block timeout||Error||1||0
+2016-12-02 02:24:14.920385||error||block timeout||Error||0||1
+2016-12-02 02:24:14.962801||error||block timeout||Error||0||2
+2016-12-02 02:24:15.438688||meta||block_id end||3
+2016-12-02 02:24:15.439019||meta||block_id start||4
+2016-12-02 02:24:15.439041||meta||assignment||2@|1@|0@|3
+2016-12-02 02:24:27.599686||event||progress-marker||training-start||1||0
+2016-12-02 02:24:27.599968||event||progress-marker||training-end||1||0
+2016-12-02 02:24:27.778809||event||progress-marker||training-start||0||1
+2016-12-02 02:24:27.820379||event||progress-marker||training-start||3||1
+2016-12-02 02:24:27.854179||event||progress-marker||training-start||2||0
+2016-12-02 02:24:27.854445||event||progress-marker||training-end||2||0
+2016-12-02 02:25:51.782704||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 02:26:04.845866||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 02:26:20.083935||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 02:26:47.431173||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 02:26:57.298127||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 02:27:27.304938||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 02:27:44.741301||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 02:28:04.688755||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 02:28:23.471086||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||0||1
+2016-12-02 02:28:37.239950||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||3||1
+2016-12-02 02:29:18.176252||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||3||1
+2016-12-02 02:29:53.797571||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 02:29:56.748899||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 02:30:30.031079||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 02:30:51.968984||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 02:31:14.467065||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 02:31:17.177742||event||progress-marker||training-end||3||1
+2016-12-02 02:31:52.877654||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 02:32:06.878716||event||progress-marker||training-end||0||1
+2016-12-02 02:32:07.245423||event||progress-marker||measurement-start||3||1
+2016-12-02 02:32:08.248588||event||progress-marker||measurement-start||1||0
+2016-12-02 02:32:08.491069||event||progress-marker||measurement-start||2||0
+2016-12-02 02:32:11.886884||event||progress-marker||measurement-start||0||1
+2016-12-02 02:33:31.218290||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:32.607640||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:34.108884||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:34.472774||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:35.926552||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:35.950671||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:36.985562||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:37.760675||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:38.242317||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:39.849048||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:40.144690||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:41.195156||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:42.307043||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:43.206277||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:43.732802||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:44.689309||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:45.420417||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:46.006575||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:47.438957||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:47.812865||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:48.463958||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:49.714528||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:49.868053||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:50.445780||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:51.806889||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:51.909141||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:52.582750||measurement||news||2016-12-02 02:33:09.447486@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:33:52.583020||event||progress-marker||measurement-end||1||0
+2016-12-02 02:33:53.834559||measurement||news||2016-12-02 02:33:11.779842@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:33:53.835427||event||progress-marker||measurement-end||3||1
+2016-12-02 02:33:54.373689||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:56.781934||measurement||news||2016-12-02 02:33:12.587105@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:33:56.782544||event||progress-marker||measurement-end||2||0
+2016-12-02 02:33:58.462691||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.709677||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.825446||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.859727||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.876412||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.890247||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.929881||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:33:59.975448||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:34:00.008203||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:34:00.019609||measurement||news||2016-12-02 02:33:15.815363@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:34:00.019988||event||progress-marker||measurement-end||0||1
+2016-12-02 02:34:00.324440||meta||block_id end||4
+2016-12-02 02:34:00.325813||meta||block_id start||5
+2016-12-02 02:34:00.325855||meta||assignment||3@|1@|0@|2
+2016-12-02 02:34:12.353268||event||progress-marker||training-start||2||1
+2016-12-02 02:34:12.386984||event||progress-marker||training-start||3||0
+2016-12-02 02:34:12.387263||event||progress-marker||training-end||3||0
+2016-12-02 02:34:12.389286||event||progress-marker||training-start||1||0
+2016-12-02 02:34:12.389576||event||progress-marker||training-end||1||0
+2016-12-02 02:34:12.391874||event||progress-marker||training-start||0||1
+2016-12-02 02:35:34.812069||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 02:35:40.324236||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 02:36:15.572749||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||0||1
+2016-12-02 02:36:21.577553||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||2||1
+2016-12-02 02:36:54.679118||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 02:37:04.454132||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 02:37:32.917192||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||2||1
+2016-12-02 02:37:48.566165||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 02:38:22.801371||treatment||read_news||http://www.nytimes.com/2016/12/01/business/economy/trump-carrier-pence-jobs.html||2||1
+2016-12-02 02:40:05.762661||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 02:40:25.500779||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 02:40:38.734924||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 02:40:56.285482||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 02:41:16.850062||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 02:41:42.830760||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 02:42:01.799031||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 02:42:15.869399||event||progress-marker||training-end||0||1
+2016-12-02 02:42:25.675372||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 02:42:33.454121||event||progress-marker||training-end||2||1
+2016-12-02 02:42:35.899007||event||progress-marker||measurement-start||0||1
+2016-12-02 02:42:38.161601||event||progress-marker||measurement-start||3||0
+2016-12-02 02:42:38.164794||event||progress-marker||measurement-start||1||0
+2016-12-02 02:42:38.472197||event||progress-marker||measurement-start||2||1
+2016-12-02 02:44:03.768714||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:05.360649||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:06.398304||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:07.521055||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:09.139915||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:10.366747||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:11.891250||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:13.644773||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:14.392963||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:16.215011||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:17.158611||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:18.563568||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:19.356090||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:19.466581||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:20.399197||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:21.190890||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:21.416312||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:22.460518||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:22.863489||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:23.596198||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:24.251593||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:24.687179||measurement||news||2016-12-02 02:43:40.341594@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:44:24.687386||event||progress-marker||measurement-end||1||0
+2016-12-02 02:44:25.658203||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:26.092374||measurement||news||2016-12-02 02:43:44.080035@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||0
+2016-12-02 02:44:26.092966||event||progress-marker||measurement-end||3||0
+2016-12-02 02:44:27.893142||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Trump’s Chaos Theory: A Single Tweet Causes Jobs To Return@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:27.975695||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:30.176228||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:30.897110||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:31.452026||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:32.206292||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:32.426519||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:32.977648||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:33.054705||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:33.657082||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:33.735091||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:34.045243||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|When A.I. Matures, It May Call Jürgen Schmidhuber ‘Dad’@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:34.356669||measurement||news||2016-12-02 02:43:44.572129@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||2||1
+2016-12-02 02:44:34.357161||event||progress-marker||measurement-end||2||1
+2016-12-02 02:44:34.503453||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|Flossing and the Art of Scientific Investigation@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:35.006872||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|The Thin Gene@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:35.764955||measurement||news||2016-12-02 02:43:32.458731@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||0||1
+2016-12-02 02:44:35.765310||event||progress-marker||measurement-end||0||1
+2016-12-02 02:44:36.103988||meta||block_id end||5
+2016-12-02 02:44:36.104195||meta||block_id start||6
+2016-12-02 02:44:36.104216||meta||assignment||1@|2@|3@|0
+2016-12-02 02:44:48.338304||event||progress-marker||training-start||0||1
+2016-12-02 02:44:48.384967||event||progress-marker||training-start||3||1
+2016-12-02 02:44:48.406737||event||progress-marker||training-start||1||0
+2016-12-02 02:44:48.407285||event||progress-marker||training-end||1||0
+2016-12-02 02:44:48.415772||event||progress-marker||training-start||2||0
+2016-12-02 02:44:48.416028||event||progress-marker||training-end||2||0
+2016-12-02 02:46:16.208796||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 02:46:27.550778||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 02:46:58.430256||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||3||1
+2016-12-02 02:47:05.022557||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 02:47:55.908318||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 02:47:57.507937||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 02:48:33.180472||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 02:48:43.793481||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 02:49:28.680777||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||0||1
+2016-12-02 02:50:45.798321||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 02:51:18.422969||treatment||read_news||http://www.nytimes.com/2016/12/01/upshot/a-trump-pick-and-why-indianas-strict-medicaid-rules-could-spread.html||3||1
+2016-12-02 02:51:34.090145||event||progress-marker||training-end||3||1
+2016-12-02 02:51:38.285695||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 02:52:08.186965||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 02:52:35.951611||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 02:53:05.799133||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 02:53:12.536667||event||progress-marker||training-end||0||1
+2016-12-02 02:53:14.221658||event||progress-marker||measurement-start||1||0
+2016-12-02 02:53:14.225201||event||progress-marker||measurement-start||3||1
+2016-12-02 02:53:14.247771||event||progress-marker||measurement-start||2||0
+2016-12-02 02:53:17.545642||event||progress-marker||measurement-start||0||1
+2016-12-02 02:54:36.696188||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:37.861624||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:39.140514||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:40.168864||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:41.252986||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:42.147658||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:42.528808||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:43.386314||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:44.905556||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:45.594275||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:45.683995||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|Why Gunshot Victims Have Reason to Like the Affordable Care Act@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:48.183562||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:48.315808||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:49.357871||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|Tom Price, a Radical Choice for Health Secretary@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:50.735789||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:50.994543||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:51.639908||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:52.109753||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:52.218281||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:52.929888||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:53.325193||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:53.567672||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:54.130486||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:54.829239||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:54.918185||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:55.076492||measurement||news||2016-12-02 02:54:15.625400@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||2||0
+2016-12-02 02:54:55.077734||event||progress-marker||measurement-end||2||0
+2016-12-02 02:54:55.814759||measurement||news||2016-12-02 02:54:15.477874@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 02:54:55.815148||event||progress-marker||measurement-end||1||0
+2016-12-02 02:54:56.072077||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|Democrats See Medicare as Winning Wedge Issue@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:57.110532||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|What Republicans Should Know About the A.C.A.@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:57.415303||measurement||news||2016-12-02 02:54:11.905561@|Recommended@|When Having Insurance Still Leaves You Dangerously Uncovered@|NYTimes@|ago@|Body||3||1
+2016-12-02 02:54:57.415917||event||progress-marker||measurement-end||3||1
+2016-12-02 02:54:57.705992||meta||block_id end||6
+2016-12-02 02:54:57.706435||meta||block_id start||7
+2016-12-02 02:54:57.706481||meta||assignment||3@|1@|2@|0
+2016-12-02 02:55:09.905628||event||progress-marker||training-start||3||0
+2016-12-02 02:55:09.905952||event||progress-marker||training-end||3||0
+2016-12-02 02:55:10.208285||event||progress-marker||training-start||2||1
+2016-12-02 02:55:10.248091||event||progress-marker||training-start||0||1
+2016-12-02 02:55:10.716602||event||progress-marker||training-start||1||0
+2016-12-02 02:55:10.717335||event||progress-marker||training-end||1||0
+2016-12-02 02:56:42.645173||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 02:57:04.044613||treatment||read_news||http://www.nytimes.com/health/guides/index.html||2||1
+2016-12-02 02:57:15.638216||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||0||1
+2016-12-02 02:57:48.205100||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?_r=0||2||1
+2016-12-02 02:58:17.582583||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 02:58:40.395381||treatment||read_news||http://www.nytimes.com/2016/12/01/well/live/a-place-to-be-heard.html||2||1
+2016-12-02 02:59:03.481880||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 02:59:24.171079||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||2||1
+2016-12-02 02:59:42.017474||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||0||1
+2016-12-02 03:00:19.931818||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 03:00:50.328059||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||0||1
+2016-12-02 03:01:27.929617||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 03:01:43.488065||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 03:02:16.718339||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 03:02:20.704389||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 03:02:58.719846||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 03:03:01.661502||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 03:03:24.167480||event||progress-marker||training-end||0||1
+2016-12-02 03:03:45.158459||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 03:03:54.131556||event||progress-marker||training-end||2||1
+2016-12-02 03:03:54.216925||event||progress-marker||measurement-start||0||1
+2016-12-02 03:03:55.712944||event||progress-marker||measurement-start||3||0
+2016-12-02 03:03:56.630146||event||progress-marker||measurement-start||1||0
+2016-12-02 03:03:59.146553||event||progress-marker||measurement-start||2||1
+2016-12-02 03:05:20.080031||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.093064||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.169933||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|Summer Project Turns Into Leukemia Testing Breakthrough@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.220616||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.334287||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.397883||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|C.I.A. Doctors, Ethics and Torture@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.763793||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|Tennessee Woman Accused of Coat-Hanger Abortion Attempt Faces New Charges@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.788609||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.799657||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.813418||measurement||news||2016-12-02 03:05:11.457574@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:05:20.813979||event||progress-marker||measurement-end||2||1
+2016-12-02 03:05:21.179214||meta||block_id end||7
+2016-12-02 03:05:21.179576||meta||block_id start||8
+2016-12-02 03:05:21.179599||meta||assignment||0@|1@|3@|2
+2016-12-02 03:05:33.035901||event||progress-marker||training-start||3||1
+2016-12-02 03:05:33.439387||event||progress-marker||training-start||2||1
+2016-12-02 03:05:33.612148||event||progress-marker||training-start||0||0
+2016-12-02 03:05:33.612962||event||progress-marker||training-end||0||0
+2016-12-02 03:05:33.671007||event||progress-marker||training-start||1||0
+2016-12-02 03:05:33.673809||event||progress-marker||training-end||1||0
+2016-12-02 03:07:00.950472||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 03:07:10.275603||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 03:07:31.683884||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 03:07:42.666420||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||2||1
+2016-12-02 03:08:02.400965||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 03:08:21.145058||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 03:09:08.842869||treatment||read_news||http://www.nytimes.com/video/us/100000004406557/lsds-long-strange-trip.html||3||1
+2016-12-02 03:09:09.084296||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||2||1
+2016-12-02 03:09:49.789692||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 03:09:53.323831||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||2||1
+2016-12-02 03:11:42.941630||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 03:11:49.163955||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 03:12:12.711522||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 03:12:27.883796||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 03:12:44.716360||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 03:13:31.600161||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 03:13:34.115049||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 03:13:52.511947||event||progress-marker||training-end||2||1
+2016-12-02 03:13:57.077903||event||progress-marker||training-end||3||1
+2016-12-02 03:13:57.521201||event||progress-marker||measurement-start||2||1
+2016-12-02 03:13:59.473316||event||progress-marker||measurement-start||0||0
+2016-12-02 03:13:59.573315||event||progress-marker||measurement-start||1||0
+2016-12-02 03:14:02.093201||event||progress-marker||measurement-start||3||1
+2016-12-02 03:15:20.744890||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:21.946761||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:22.747462||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:24.674668||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:24.766636||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:27.257158||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:27.442785||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:28.729196||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:28.873247||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:29.267982||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:30.683423||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:30.833163||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:31.187898||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:32.552170||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:32.822324||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:32.832401||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:34.166155||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:34.998124||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:35.169954||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:37.100064||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:37.142280||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:37.437003||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:38.708633||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:38.929310||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:39.801608||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:40.396063||measurement||news||2016-12-02 03:14:58.567114@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||0
+2016-12-02 03:15:40.396827||event||progress-marker||measurement-end||1||0
+2016-12-02 03:15:40.826297||measurement||news||2016-12-02 03:14:59.909159@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||0||0
+2016-12-02 03:15:40.826698||event||progress-marker||measurement-end||0||0
+2016-12-02 03:15:41.008909||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|‘My Soul Feels Taller’: A Whistle-Blower’s $20 Million Vindication@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:41.839006||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:44.162101||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:44.280404||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:44.843962||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:44.873229||measurement||news||2016-12-02 03:13:59.335087@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||2||1
+2016-12-02 03:15:44.873674||event||progress-marker||measurement-end||2||1
+2016-12-02 03:15:44.933451||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.558163||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.600223||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.627249||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.656309||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.698220||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.714386||measurement||news||2016-12-02 03:15:12.331919@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 03:15:45.714728||event||progress-marker||measurement-end||3||1
+2016-12-02 03:15:46.032702||meta||block_id end||8
+2016-12-02 03:15:46.032864||meta||block_id start||9
+2016-12-02 03:15:46.032877||meta||assignment||2@|3@|1@|0
+2016-12-02 03:15:58.169905||event||progress-marker||training-start||2||0
+2016-12-02 03:15:58.170194||event||progress-marker||training-end||2||0
+2016-12-02 03:15:58.335144||event||progress-marker||training-start||1||1
+2016-12-02 03:15:58.490928||event||progress-marker||training-start||3||0
+2016-12-02 03:15:58.491262||event||progress-marker||training-end||3||0
+2016-12-02 03:15:58.602922||event||progress-marker||training-start||0||1
+2016-12-02 03:17:23.450908||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 03:17:23.508284||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 03:18:00.987346||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 03:18:01.850294||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 03:18:53.048456||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 03:18:58.883011||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 03:19:39.020934||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||1||1
+2016-12-02 03:19:40.274895||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 03:20:23.362475||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||1||1
+2016-12-02 03:20:31.698783||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||0||1
+2016-12-02 03:22:09.533275||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 03:22:11.810628||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 03:22:48.526443||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 03:22:55.027000||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 03:23:29.252296||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 03:24:00.807515||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 03:24:10.651456||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 03:24:20.021365||event||progress-marker||training-end||0||1
+2016-12-02 03:24:24.130819||event||progress-marker||training-end||1||1
+2016-12-02 03:24:24.307329||event||progress-marker||measurement-start||3||0
+2016-12-02 03:24:25.036115||event||progress-marker||measurement-start||0||1
+2016-12-02 03:24:29.073350||event||progress-marker||measurement-start||2||0
+2016-12-02 03:24:29.154998||event||progress-marker||measurement-start||1||1
+2016-12-02 03:25:53.846078||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:25:55.537393||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:25:56.320238||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:25:58.795485||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:25:59.556191||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:01.016299||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:01.640151||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:01.959237||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:03.585469||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:03.883687||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:05.099721||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:06.244213||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:06.277160||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:07.475770||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:08.478892||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:08.875337||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:10.274063||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Jewish Groups and Unions Grow Uneasy With Keith Ellison@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:10.446778||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:10.958448||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:12.479114||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:12.556235||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:13.130247||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:14.422691||measurement||news||2016-12-02 03:25:29.466404@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||3||0
+2016-12-02 03:26:14.423361||event||progress-marker||measurement-end||3||0
+2016-12-02 03:26:14.615420||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Why the Trump Team’s Economic Promises Will Be Hard to Execute@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:15.234241||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:16.852029||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Traders Bet on Big Stimulus Spending. Congress May Not Go Along.@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:17.093206||measurement||news||2016-12-02 03:25:33.830442@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 03:26:17.093579||event||progress-marker||measurement-end||2||0
+2016-12-02 03:26:20.583345||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:20.742510||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:21.251414||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:21.309614||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:21.662987||measurement||news||2016-12-02 03:24:35.037724@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||0||1
+2016-12-02 03:26:21.663566||event||progress-marker||measurement-end||0||1
+2016-12-02 03:26:21.972088||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Jewish Groups and Unions Grow Uneasy With Keith Ellison@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.818014||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.930482||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Why the Trump Team’s Economic Promises Will Be Hard to Execute@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.940408||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Traders Bet on Big Stimulus Spending. Congress May Not Go Along.@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.952426||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.962186||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.971511||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.991445||measurement||news||2016-12-02 03:25:51.427990@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||1||1
+2016-12-02 03:26:22.991991||event||progress-marker||measurement-end||1||1
+2016-12-02 03:26:23.393644||meta||block_id end||9
+2016-12-02 03:26:23.393990||meta||block_id start||10
+2016-12-02 03:26:23.394034||meta||assignment||0@|1@|2@|3
+2016-12-02 03:26:36.509311||event||progress-marker||training-start||1||0
+2016-12-02 03:26:36.509855||event||progress-marker||training-end||1||0
+2016-12-02 03:26:36.629352||event||progress-marker||training-start||2||1
+2016-12-02 03:26:37.059679||event||progress-marker||training-start||3||1
+2016-12-02 03:26:37.575871||event||progress-marker||training-start||0||0
+2016-12-02 03:26:37.576434||event||progress-marker||training-end||0||0
+2016-12-02 03:28:09.401692||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 03:28:41.877550||treatment||read_news||http://www.nytimes.com/health/guides/index.html||3||1
+2016-12-02 03:28:54.667268||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||2||1
+2016-12-02 03:29:46.240506||treatment||read_news||http://www.nytimes.com/2016/12/01/well/live/a-place-to-be-heard.html||2||1
+2016-12-02 03:29:57.742138||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||3||1
+2016-12-02 03:30:26.445135||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||2||1
+2016-12-02 03:30:48.608589||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 03:30:59.876550||treatment||read_news||http://www.akorda.kz/en/events/international_community/phone_calls/telephone-conversation-with-the-united-states-president-elect-donald-trump||2||1
+2016-12-02 03:31:28.248687||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 03:32:49.467260||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||2||1
+2016-12-02 03:33:42.447271||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 03:34:48.204842||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 03:35:26.922963||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 03:35:33.846695||event||progress-marker||training-end||2||1
+2016-12-02 03:59:43.414009||error||block timeout||Error||0||0
+2016-12-02 03:59:43.464546||error||block timeout||Error||0||1
+2016-12-02 03:59:43.464716||error||block timeout||Error||1||2
+2016-12-02 03:59:43.986436||meta||block_id end||10
+2016-12-02 03:59:43.986623||meta||block_id start||11
+2016-12-02 03:59:43.986638||meta||assignment||2@|1@|0@|3
+2016-12-02 03:59:55.828045||event||progress-marker||training-start||0||1
+2016-12-02 03:59:55.836550||event||progress-marker||training-start||1||0
+2016-12-02 03:59:55.836804||event||progress-marker||training-end||1||0
+2016-12-02 03:59:55.846114||event||progress-marker||training-start||2||0
+2016-12-02 03:59:55.846361||event||progress-marker||training-end||2||0
+2016-12-02 03:59:55.902747||event||progress-marker||training-start||3||1
+2016-12-02 04:01:16.828809||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 04:01:27.697783||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 04:01:59.172483||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||0||1
+2016-12-02 04:02:00.341112||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 04:02:51.568274||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 04:02:56.823219||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 04:03:32.999198||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 04:03:48.856886||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 04:04:26.452179||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||3||1
+2016-12-02 04:04:36.957567||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||0||1
+2016-12-02 04:06:34.645434||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 04:06:39.670646||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 04:07:05.927066||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 04:08:09.722835||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 04:09:40.616993||event||progress-marker||training-end||0||1
+2016-12-02 04:09:46.564434||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 04:09:49.300120||event||progress-marker||training-end||3||1
+2016-12-02 04:09:50.662964||event||progress-marker||measurement-start||0||1
+2016-12-02 04:09:52.170230||event||progress-marker||measurement-start||2||0
+2016-12-02 04:09:52.196261||event||progress-marker||measurement-start||1||0
+2016-12-02 04:09:54.320061||event||progress-marker||measurement-start||3||1
+2016-12-02 04:11:11.328003||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:11.972117||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:12.830233||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:12.833857||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:13.357214||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:14.558159||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:14.874423||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:15.087555||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:15.108404||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:16.041333||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:16.829521||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:17.054091||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:17.545352||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:17.735856||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:19.115878||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:19.589163||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:19.963536||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:19.985509||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:21.409243||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:21.443960||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:22.032293||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:22.602623||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:23.327866||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:23.585719||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:24.152477||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:24.725842||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:25.412194||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:25.509306||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:26.035034||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:27.113356||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:27.250278||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:27.590669||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:28.293793||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:28.936833||measurement||news||2016-12-02 04:10:48.852732@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:11:28.937222||event||progress-marker||measurement-end||1||0
+2016-12-02 04:11:29.725639||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:30.047458||measurement||news||2016-12-02 04:10:53.553181@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:11:30.048605||event||progress-marker||measurement-end||2||0
+2016-12-02 04:11:30.795468||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:31.790545||measurement||news||2016-12-02 04:09:53.721642@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:11:31.791202||event||progress-marker||measurement-end||0||1
+2016-12-02 04:11:33.143938||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:34.605080||measurement||news||2016-12-02 04:09:56.775844@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:11:34.605501||event||progress-marker||measurement-end||3||1
+2016-12-02 04:11:35.636087||meta||block_id end||11
+2016-12-02 04:11:35.636267||meta||block_id start||12
+2016-12-02 04:11:35.636283||meta||assignment||2@|1@|0@|3
+2016-12-02 04:11:47.640154||event||progress-marker||training-start||3||1
+2016-12-02 04:11:47.713265||event||progress-marker||training-start||1||0
+2016-12-02 04:11:47.713529||event||progress-marker||training-end||1||0
+2016-12-02 04:11:47.719147||event||progress-marker||training-start||2||0
+2016-12-02 04:11:47.719525||event||progress-marker||training-end||2||0
+2016-12-02 04:11:47.770244||event||progress-marker||training-start||0||1
+2016-12-02 04:13:13.840253||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 04:13:15.610321||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 04:13:46.371146||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||3||1
+2016-12-02 04:13:52.342717||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 04:14:29.314885||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 04:14:35.965081||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 04:14:53.678611||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 04:15:19.158568||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 04:15:34.306531||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html||0||1
+2016-12-02 04:16:05.632233||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||3||1
+2016-12-02 04:18:52.972253||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 04:19:37.983957||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 04:19:44.157812||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 04:20:47.726216||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 04:20:49.761399||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 04:21:44.647520||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 04:21:55.147905||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 04:22:11.844074||event||progress-marker||training-end||0||1
+2016-12-02 04:22:14.604057||event||progress-marker||training-end||3||1
+2016-12-02 04:22:16.859690||event||progress-marker||measurement-start||0||1
+2016-12-02 04:22:19.346836||event||progress-marker||measurement-start||1||0
+2016-12-02 04:22:19.407037||event||progress-marker||measurement-start||2||0
+2016-12-02 04:22:19.758918||event||progress-marker||measurement-start||3||1
+2016-12-02 04:23:45.550887||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:23:46.527108||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:23:48.481290||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:23:49.231052||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:23:50.844173||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:23:52.237249||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:23:53.991842||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:23:56.089188||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:23:57.438598||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:23:58.572007||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:23:59.106935||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:24:01.027978||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:24:01.644901||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:24:02.408266||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:03.437266||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:24:03.487530||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:24:04.731046||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:05.016943||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:05.187785||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:24:05.352761||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:24:07.091471||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:07.185839||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:24:07.274839||measurement||news||2016-12-02 04:23:24.233309@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:24:07.275064||event||progress-marker||measurement-end||2||0
+2016-12-02 04:24:08.196492||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:08.700114||measurement||news||2016-12-02 04:23:22.493619@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 04:24:08.700520||event||progress-marker||measurement-end||1||0
+2016-12-02 04:24:09.346442||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:10.582292||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:12.296612||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:13.097349||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:13.959223||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:14.358722||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:14.910832||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:16.049152||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:16.368315||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:17.761654||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:17.932918||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:19.782924||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:19.942488||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:21.907860||measurement||news||2016-12-02 04:22:50.643243@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||3||1
+2016-12-02 04:24:21.909403||event||progress-marker||measurement-end||3||1
+2016-12-02 04:24:21.967581||measurement||news||2016-12-02 04:22:26.741178@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||0||1
+2016-12-02 04:24:21.967653||event||progress-marker||measurement-end||0||1
+2016-12-02 04:24:23.840036||meta||block_id end||12
+2016-12-02 04:24:23.871415||meta||block_id start||13
+2016-12-02 04:24:23.871461||meta||assignment||3@|2@|1@|0
+2016-12-02 04:24:37.358191||event||progress-marker||training-start||1||1
+2016-12-02 04:24:37.369804||event||progress-marker||training-start||2||0
+2016-12-02 04:24:37.370057||event||progress-marker||training-end||2||0
+2016-12-02 04:24:37.400931||event||progress-marker||training-start||3||0
+2016-12-02 04:24:37.401236||event||progress-marker||training-end||3||0
+2016-12-02 04:24:37.410205||event||progress-marker||training-start||0||1
+2016-12-02 04:26:04.512750||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 04:26:12.331698||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 04:26:53.326689||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 04:27:09.137920||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||1||1
+2016-12-02 04:27:47.724336||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 04:27:56.771597||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 04:28:53.563202||treatment||read_news||http://www.nytimes.com/video/us/100000004406557/lsds-long-strange-trip.html||0||1
+2016-12-02 04:29:14.755955||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 04:29:53.820882||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||1||1
+2016-12-02 04:30:02.690513||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 04:31:41.589815||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 04:32:03.782541||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 04:32:15.705800||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||1||1
+2016-12-02 04:32:33.040571||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 04:32:47.444661||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 04:33:33.369242||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 04:33:42.287468||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 04:33:55.380354||event||progress-marker||training-end||1||1
+2016-12-02 04:34:34.692022||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 04:34:41.796860||event||progress-marker||training-end||0||1
+2016-12-02 04:34:43.818990||event||progress-marker||measurement-start||3||0
+2016-12-02 04:34:43.847932||event||progress-marker||measurement-start||2||0
+2016-12-02 04:34:45.531566||event||progress-marker||measurement-start||1||1
+2016-12-02 04:34:46.811559||event||progress-marker||measurement-start||0||1
+2016-12-02 04:36:12.197136||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:12.889917||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:13.883329||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:14.611959||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:15.778150||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:16.730652||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:17.567186||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:17.831751||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:19.193173||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:19.621382||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:20.730495||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:21.315786||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:21.773220||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:22.636984||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:22.814165||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:22.879781||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:23.748995||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:24.088378||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:24.514655||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:24.982440||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:25.437359||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:25.985400||measurement||news||2016-12-02 04:35:49.520817@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 04:36:25.985958||event||progress-marker||measurement-end||2||0
+2016-12-02 04:36:26.640194||measurement||news||2016-12-02 04:35:48.786584@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 04:36:26.640376||event||progress-marker||measurement-end||3||0
+2016-12-02 04:36:26.700612||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:27.998848||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.415889||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.597780||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.629926||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|In Scotland, Trump Built a Wall. Then He Sent Residents the Bill.@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.642860||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.749776||measurement||news||2016-12-02 04:35:44.151724@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||1||1
+2016-12-02 04:36:29.750682||event||progress-marker||measurement-end||1||1
+2016-12-02 04:36:30.146809||meta||block_id end||13
+2016-12-02 04:36:30.147031||meta||block_id start||14
+2016-12-02 04:36:30.147051||meta||assignment||3@|2@|0@|1
+2016-12-02 04:36:42.271039||event||progress-marker||training-start||2||0
+2016-12-02 04:36:42.271572||event||progress-marker||training-end||2||0
+2016-12-02 04:36:42.288992||event||progress-marker||training-start||3||0
+2016-12-02 04:36:42.289257||event||progress-marker||training-end||3||0
+2016-12-02 04:36:42.343723||event||progress-marker||training-start||0||1
+2016-12-02 04:36:42.361647||event||progress-marker||training-start||1||1
+2016-12-02 04:38:07.589695||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 04:38:14.774051||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 04:38:47.304057||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 04:39:00.235429||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 04:39:34.342296||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 04:39:38.798849||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 04:40:04.104616||treatment||read_news||http://www.nytimes.com/video/us/100000004406557/lsds-long-strange-trip.html||1||1
+2016-12-02 04:40:18.928353||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 04:40:52.758720||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 04:41:10.318032||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/donald-trump-transition.html||0||1
+2016-12-02 04:44:23.266449||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 04:45:05.548266||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 04:45:48.577401||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 04:45:59.918232||event||progress-marker||training-end||0||1
+2016-12-02 05:09:50.181897||error||block timeout||Error||1||0
+2016-12-02 05:09:50.231513||error||block timeout||Error||0||3
+2016-12-02 05:09:50.231977||error||block timeout||Error||0||2
+2016-12-02 05:09:50.977992||meta||block_id end||14
+2016-12-02 05:09:50.978269||meta||block_id start||15
+2016-12-02 05:09:50.978293||meta||assignment||1@|0@|2@|3
+2016-12-02 05:10:03.059303||event||progress-marker||training-start||3||1
+2016-12-02 05:10:03.067736||event||progress-marker||training-start||0||0
+2016-12-02 05:10:03.067992||event||progress-marker||training-end||0||0
+2016-12-02 05:10:03.098131||event||progress-marker||training-start||2||1
+2016-12-02 05:10:03.110167||event||progress-marker||training-start||1||0
+2016-12-02 05:10:03.110423||event||progress-marker||training-end||1||0
+2016-12-02 05:11:24.749970||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 05:11:46.029562||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 05:12:00.931754||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 05:12:19.899201||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||2||1
+2016-12-02 05:12:42.219018||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 05:13:18.745582||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 05:13:24.842482||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 05:13:49.819474||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||2||1
+2016-12-02 05:14:07.261634||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||3||1
+2016-12-02 05:14:24.079525||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||2||1
+2016-12-02 05:16:40.820909||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 05:17:25.935993||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 05:18:07.352459||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 05:18:46.836060||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 05:18:57.059893||event||progress-marker||training-end||2||1
+2016-12-02 05:43:11.008664||error||block timeout||Error||0||1
+2016-12-02 05:43:11.051890||error||block timeout||Error||0||0
+2016-12-02 05:43:11.052098||error||block timeout||Error||1||2
+2016-12-02 05:43:11.586254||meta||block_id end||15
+2016-12-02 05:43:11.586422||meta||block_id start||16
+2016-12-02 05:43:11.586434||meta||assignment||0@|2@|3@|1
+2016-12-02 05:43:23.657076||event||progress-marker||training-start||3||1
+2016-12-02 05:43:23.796055||event||progress-marker||training-start||2||0
+2016-12-02 05:43:23.796338||event||progress-marker||training-end||2||0
+2016-12-02 05:43:23.832343||event||progress-marker||training-start||0||0
+2016-12-02 05:43:23.832955||event||progress-marker||training-end||0||0
+2016-12-02 05:43:23.848855||event||progress-marker||training-start||1||1
+2016-12-02 05:44:37.380508||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 05:44:59.195561||treatment||read_news||http://www.nytimes.com/health/guides/index.html||3||1
+2016-12-02 05:45:12.928118||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 05:45:35.774570||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||3||1
+2016-12-02 05:46:06.636517||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 05:46:13.411996||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 05:46:39.109243||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||1||1
+2016-12-02 05:46:50.605631||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 05:47:22.796421||treatment||read_news||http://www.nytimes.com/2016/12/02/world/europe/italy-referendum-matteo-renzi.html||1||1
+2016-12-02 05:47:27.840076||treatment||read_news||http://www.nytimes.com/2016/12/02/world/europe/italy-referendum-matteo-renzi.html||3||1
+2016-12-02 05:49:16.063678||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 05:50:13.473836||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 05:50:57.445344||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 05:51:08.268113||event||progress-marker||training-end||1||1
+2016-12-02 06:16:31.614956||error||block timeout||Error||0||0
+2016-12-02 06:16:31.657253||error||block timeout||Error||0||2
+2016-12-02 06:16:31.675753||error||block timeout||Error||1||1
+2016-12-02 06:16:32.109560||meta||block_id end||16
+2016-12-02 06:16:32.109801||meta||block_id start||17
+2016-12-02 06:16:32.109826||meta||assignment||3@|1@|0@|2
+2016-12-02 06:16:44.451721||event||progress-marker||training-start||1||0
+2016-12-02 06:16:44.452110||event||progress-marker||training-end||1||0
+2016-12-02 06:16:44.475932||event||progress-marker||training-start||2||1
+2016-12-02 06:16:44.585834||event||progress-marker||training-start||0||1
+2016-12-02 06:16:44.626002||event||progress-marker||training-start||3||0
+2016-12-02 06:16:44.626267||event||progress-marker||training-end||3||0
+2016-12-02 06:17:59.883794||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 06:18:21.306127||treatment||read_news||http://www.nytimes.com/health/guides/index.html||0||1
+2016-12-02 06:18:30.877575||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||2||1
+2016-12-02 06:19:06.111281||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||0||1
+2016-12-02 06:19:20.262157||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 06:19:39.831778||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 06:19:52.377678||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||2||1
+2016-12-02 06:20:11.794422||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 06:20:29.148279||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||2||1
+2016-12-02 06:20:44.108801||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||0||1
+2016-12-02 06:22:01.707125||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 06:22:18.828071||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 06:22:31.274099||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 06:23:04.845891||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 06:23:32.433659||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 06:23:58.896572||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 06:24:18.627457||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 06:24:20.663771||event||progress-marker||training-end||2||1
+2016-12-02 06:24:25.101845||event||progress-marker||training-end||0||1
+2016-12-02 06:24:25.606195||event||progress-marker||measurement-start||1||0
+2016-12-02 06:24:25.676266||event||progress-marker||measurement-start||2||1
+2016-12-02 06:24:25.815875||event||progress-marker||measurement-start||3||0
+2016-12-02 06:24:30.120883||event||progress-marker||measurement-start||0||1
+2016-12-02 06:25:43.301951||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:48.272981||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:48.426633||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:48.893150||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:49.795239||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:50.280443||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:50.919119||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:51.275815||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:51.695723||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:52.096337||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:52.349962||measurement||news||2016-12-02 06:25:33.377293@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||3||0
+2016-12-02 06:25:52.350145||event||progress-marker||measurement-end||3||0
+2016-12-02 06:25:53.067915||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.085171||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.105562||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.118306||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.135144||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.157760||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.203566||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.254734||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.274471||measurement||news||2016-12-02 06:24:38.683869@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||2||1
+2016-12-02 06:25:53.275285||event||progress-marker||measurement-end||2||1
+2016-12-02 06:25:53.607504||meta||block_id end||17
+2016-12-02 06:25:53.607741||meta||block_id start||18
+2016-12-02 06:25:53.607761||meta||assignment||2@|0@|1@|3
+2016-12-02 06:26:05.645672||event||progress-marker||training-start||1||1
+2016-12-02 06:26:06.745825||event||progress-marker||training-start||0||0
+2016-12-02 06:26:06.746223||event||progress-marker||training-end||0||0
+2016-12-02 06:26:06.807719||event||progress-marker||training-start||2||0
+2016-12-02 06:26:06.808316||event||progress-marker||training-end||2||0
+2016-12-02 06:26:06.934094||event||progress-marker||training-start||3||1
+2016-12-02 06:27:40.871332||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 06:27:55.822221||treatment||read_news||http://www.nytimes.com/health/guides/index.html||3||1
+2016-12-02 06:28:15.537926||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 06:28:43.360262||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||3||1
+2016-12-02 06:29:00.328903||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 06:29:41.147265||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||1||1
+2016-12-02 06:30:28.426484||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||1||1
+2016-12-02 06:31:58.020797||treatment||read_news||http://well.blogs.nytimes.com/tag/insomnia/||3||1
+2016-12-02 06:32:24.308313||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 06:32:58.142349||treatment||read_news||http://www.nytimes.com/2016/12/01/upshot/a-trump-pick-and-why-indianas-strict-medicaid-rules-could-spread.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 06:32:58.493292||treatment||read_news||http://well.blogs.nytimes.com/2016/08/17/more-head-injuries-reported-for-babies-in-stroller-accidents/||3||1
+2016-12-02 06:33:31.436585||event||progress-marker||training-end||1||1
+2016-12-02 06:33:46.189697||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||3||1
+2016-12-02 06:34:17.567589||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 06:35:00.230417||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 06:35:41.516324||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 06:35:51.140359||event||progress-marker||training-end||3||1
+2016-12-02 06:35:51.730884||event||progress-marker||measurement-start||1||1
+2016-12-02 06:35:53.204662||event||progress-marker||measurement-start||2||0
+2016-12-02 06:35:53.230938||event||progress-marker||measurement-start||0||0
+2016-12-02 06:35:56.152637||event||progress-marker||measurement-start||3||1
+2016-12-02 06:37:14.699505||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:14.991087||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:15.228237||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:15.901665||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:16.457466||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:17.027676||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:17.088776||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:17.526054||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:18.208368||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:19.069314||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:19.204373||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:19.377374||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:20.208062||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:20.375257||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:20.486493||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:21.074486||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Why Gunshot Victims Have Reason to Like the Affordable Care Act@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:21.777357||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:21.990602||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:22.140091||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Tom Price, a Radical Choice for Health Secretary@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:22.631809||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:22.844757||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:22.985736||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:23.388912||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:23.862243||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:24.225773||measurement||news||2016-12-02 06:36:55.049261@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||0||0
+2016-12-02 06:37:24.226347||event||progress-marker||measurement-end||0||0
+2016-12-02 06:37:24.421982||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|Trump and Carrier: How a Modern Economy Is Like a Parking Garage@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:25.096775||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:25.841654||measurement||news||2016-12-02 06:36:42.310729@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||1||1
+2016-12-02 06:37:25.841992||event||progress-marker||measurement-end||1||1
+2016-12-02 06:37:25.849374||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:26.497531||measurement||news||2016-12-02 06:36:54.427625@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 06:37:26.498073||event||progress-marker||measurement-end||2||0
+2016-12-02 06:37:27.334436||meta||block_id end||18
+2016-12-02 06:37:27.334629||meta||block_id start||19
+2016-12-02 06:37:27.334642||meta||assignment||1@|2@|0@|3
+2016-12-02 06:37:39.958615||event||progress-marker||training-start||0||1
+2016-12-02 06:37:40.504063||event||progress-marker||training-start||1||0
+2016-12-02 06:37:40.504425||event||progress-marker||training-end||1||0
+2016-12-02 06:37:40.980279||event||progress-marker||training-start||2||0
+2016-12-02 06:37:40.980858||event||progress-marker||training-end||2||0
+2016-12-02 06:37:41.222008||event||progress-marker||training-start||3||1
+2016-12-02 06:38:58.955844||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 06:39:07.631828||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 06:39:25.799135||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 06:39:48.876675||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 06:40:17.186494||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 06:40:33.995644||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 06:40:48.176078||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||0||1
+2016-12-02 06:41:05.315250||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 06:41:18.508248||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||0||1
+2016-12-02 06:41:38.121547||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||3||1
+2016-12-02 06:43:00.851682||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 06:43:16.285246||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 06:43:32.778473||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 06:43:46.213300||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 06:44:56.126194||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 06:45:55.525117||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 06:45:56.561798||event||progress-marker||training-end||3||1
+2016-12-02 06:46:00.571655||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 06:46:50.670153||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 06:47:01.531986||event||progress-marker||training-end||0||1
+2016-12-02 06:47:01.717861||event||progress-marker||measurement-start||3||1
+2016-12-02 06:47:02.122888||event||progress-marker||measurement-start||1||0
+2016-12-02 06:47:02.787136||event||progress-marker||measurement-start||2||0
+2016-12-02 06:47:06.547388||event||progress-marker||measurement-start||0||1
+2016-12-02 06:48:40.523183||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:44.037737||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:44.159070||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:47.184866||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:47.443777||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:50.075668||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:51.259959||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:52.270038||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:53.002963||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:48:53.236122||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:53.951944||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:55.163846||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:55.677809||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:56.565948||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:56.731906||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:48:56.774875||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:57.631912||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:58.001896||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:58.814148||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:48:58.952101||measurement||news||2016-12-02 06:48:04.800827@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 06:48:58.952690||event||progress-marker||measurement-end||1||0
+2016-12-02 06:48:59.999911||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:00.403529||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:49:01.587519||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:01.823137||measurement||news||2016-12-02 06:48:00.865371@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 06:49:01.823705||event||progress-marker||measurement-end||3||1
+2016-12-02 06:49:02.545245||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.750797||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.828661||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.863370||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.870612||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.880353||measurement||news||2016-12-02 06:48:06.764283@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 06:49:02.880754||event||progress-marker||measurement-end||0||1
+2016-12-02 06:49:03.199742||meta||block_id end||19
+2016-12-02 06:49:03.200011||meta||block_id start||20
+2016-12-02 06:49:03.200045||meta||assignment||0@|2@|1@|3
+2016-12-02 06:49:15.440456||event||progress-marker||training-start||0||0
+2016-12-02 06:49:15.440690||event||progress-marker||training-end||0||0
+2016-12-02 06:49:15.723591||event||progress-marker||training-start||3||1
+2016-12-02 06:49:15.802559||event||progress-marker||training-start||1||1
+2016-12-02 06:49:15.999358||event||progress-marker||training-start||2||0
+2016-12-02 06:49:15.999616||event||progress-marker||training-end||2||0
+2016-12-02 06:50:39.866067||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 06:51:07.458286||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 06:51:45.678041||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 06:52:14.642281||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||1||1
+2016-12-02 06:52:44.045396||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||1||1
+2016-12-02 06:53:32.695749||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 06:54:09.027892||treatment||read_news||http://www.nytimes.com/2016/12/01/upshot/a-trump-pick-and-why-indianas-strict-medicaid-rules-could-spread.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 06:54:25.086331||event||progress-marker||training-end||1||1
+2016-12-02 07:22:23.246633||error||block timeout||Error||1||1
+2016-12-02 07:22:23.250695||error||block timeout||Error||0||2
+2016-12-02 07:22:23.260225||error||block timeout||Error||0||0
+2016-12-02 07:22:23.771269||meta||block_id end||20
+2016-12-02 07:22:23.771626||meta||block_id start||21
+2016-12-02 07:22:23.771660||meta||assignment||2@|1@|3@|0
+2016-12-02 07:22:35.965485||event||progress-marker||training-start||3||1
+2016-12-02 07:22:36.116968||event||progress-marker||training-start||1||0
+2016-12-02 07:22:36.117290||event||progress-marker||training-end||1||0
+2016-12-02 07:22:36.324016||event||progress-marker||training-start||2||0
+2016-12-02 07:22:36.324778||event||progress-marker||training-end||2||0
+2016-12-02 07:22:37.225526||event||progress-marker||training-start||0||1
+2016-12-02 07:24:06.108114||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||0||1
+2016-12-02 07:24:23.540028||treatment||read_news||http://www.nytimes.com/health/guides/index.html||3||1
+2016-12-02 07:24:38.052890||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||0||1
+2016-12-02 07:25:11.589938||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth&_r=0||3||1
+2016-12-02 07:25:18.555924||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 07:26:00.300818||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 07:26:18.614849||treatment||read_news||http://www.nytimes.com/video/us/100000004406557/lsds-long-strange-trip.html||0||1
+2016-12-02 07:26:39.271883||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 07:27:06.300812||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||0||1
+2016-12-02 07:27:39.099442||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||3||1
+2016-12-02 07:28:56.253131||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||0||1
+2016-12-02 07:29:19.797178||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 07:29:40.880832||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 07:30:14.977728||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 07:30:47.314781||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 07:31:14.520983||event||progress-marker||training-end||0||1
+2016-12-02 07:31:19.787569||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 07:31:32.074835||event||progress-marker||training-end||3||1
+2016-12-02 07:31:32.914737||event||progress-marker||measurement-start||1||0
+2016-12-02 07:31:32.942210||event||progress-marker||measurement-start||2||0
+2016-12-02 07:31:34.603047||event||progress-marker||measurement-start||0||1
+2016-12-02 07:31:37.091453||event||progress-marker||measurement-start||3||1
+2016-12-02 07:32:59.991828||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:02.662235||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:04.669618||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:06.599314||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:06.805532||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:08.693683||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:09.974240||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:10.532810||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:11.306225||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:12.819234||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:13.659823||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:14.759193||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|‘My Soul Feels Taller’: A Whistle-Blower’s $20 Million Vindication@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:15.043385||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:15.918264||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:17.316161||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:17.546495||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:18.717776||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:19.852432||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:20.346127||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:20.605518||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:22.141472||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:22.497042||measurement||news||2016-12-02 07:32:37.624520@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:33:22.497613||event||progress-marker||measurement-end||1||0
+2016-12-02 07:33:22.505069||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:24.064258||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:24.589206||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:26.308970||measurement||news||2016-12-02 07:32:34.898939@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:33:26.309849||event||progress-marker||measurement-end||2||0
+2016-12-02 07:33:26.611686||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:27.317850||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:28.275878||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|House Overwhelmingly Approves Sweeping Health Measure@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:29.682310||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:29.810517||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:30.442697||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:30.463531||measurement||news||2016-12-02 07:32:36.277879@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 07:33:30.463849||event||progress-marker||measurement-end||0||1
+2016-12-02 07:33:31.268508||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:31.576548||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.213708||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.269445||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|In Scotland, Trump Built a Wall. Then He Sent Residents the Bill.@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.284523||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.303676||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.313418||measurement||news||2016-12-02 07:32:43.281356@|Recommended@|Mothers in Prison@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:33:32.313999||event||progress-marker||measurement-end||3||1
+2016-12-02 07:33:32.674030||meta||block_id end||21
+2016-12-02 07:33:32.674325||meta||block_id start||22
+2016-12-02 07:33:32.674346||meta||assignment||1@|0@|3@|2
+2016-12-02 07:33:44.708209||event||progress-marker||training-start||3||1
+2016-12-02 07:33:44.714568||event||progress-marker||training-start||1||0
+2016-12-02 07:33:44.714829||event||progress-marker||training-end||1||0
+2016-12-02 07:33:44.770417||event||progress-marker||training-start||2||1
+2016-12-02 07:33:44.779754||event||progress-marker||training-start||0||0
+2016-12-02 07:33:44.780016||event||progress-marker||training-end||0||0
+2016-12-02 07:35:19.488239||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 07:35:23.453575||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||2||1
+2016-12-02 07:35:59.704908||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||2||1
+2016-12-02 07:36:01.119846||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 07:36:51.788253||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||2||1
+2016-12-02 07:36:54.895835||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 07:37:26.717566||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||2||1
+2016-12-02 07:37:31.937988||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 07:38:01.476886||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||2||1
+2016-12-02 07:38:08.613100||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||3||1
+2016-12-02 07:39:20.620179||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||2||1
+2016-12-02 07:39:51.628868||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 07:39:55.529611||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||2||1
+2016-12-02 07:40:28.986609||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 07:40:46.456251||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||2||1
+2016-12-02 07:41:32.457786||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 07:41:56.243525||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||2||1
+2016-12-02 07:42:14.083479||event||progress-marker||training-end||2||1
+2016-12-02 07:42:42.633625||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 07:42:43.446790||event||progress-marker||training-end||3||1
+2016-12-02 07:42:44.199514||event||progress-marker||measurement-start||2||1
+2016-12-02 07:42:46.463291||event||progress-marker||measurement-start||0||0
+2016-12-02 07:42:46.486246||event||progress-marker||measurement-start||1||0
+2016-12-02 07:42:48.472378||event||progress-marker||measurement-start||3||1
+2016-12-02 07:44:13.223303||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:13.778251||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:15.288059||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:16.986467||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:18.182032||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:20.048509||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:20.357770||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:22.043555||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:22.418400||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:24.001102||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:24.397599||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:25.634737||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:26.304858||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:26.406884||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:27.872308||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:28.685321||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:29.497196||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:29.590606||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:31.184155||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:31.211410||measurement||news||2016-12-02 07:43:51.705547@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 07:44:31.212035||event||progress-marker||measurement-end||1||0
+2016-12-02 07:44:31.304581||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:31.577229||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:33.513774||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:34.156083||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:34.162761||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:35.592964||measurement||news||2016-12-02 07:43:50.471844@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||0||0
+2016-12-02 07:44:35.593184||event||progress-marker||measurement-end||0||0
+2016-12-02 07:44:35.878864||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:36.327285||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:36.885153||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:37.926153||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:38.158594||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:38.723388||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:38.893998||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:39.285716||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:39.606322||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:40.507877||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:40.584134||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:40.637384||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:41.203581||measurement||news||2016-12-02 07:43:37.667786@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||2||1
+2016-12-02 07:44:41.204061||event||progress-marker||measurement-end||2||1
+2016-12-02 07:44:41.207142||measurement||news||2016-12-02 07:43:00.540150@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:44:41.207479||event||progress-marker||measurement-end||3||1
+2016-12-02 07:44:42.191804||meta||block_id end||22
+2016-12-02 07:44:42.192986||meta||block_id start||23
+2016-12-02 07:44:42.193021||meta||assignment||2@|0@|1@|3
+2016-12-02 07:44:55.460202||event||progress-marker||training-start||3||1
+2016-12-02 07:44:55.561387||event||progress-marker||training-start||2||0
+2016-12-02 07:44:55.561699||event||progress-marker||training-end||2||0
+2016-12-02 07:44:55.686062||event||progress-marker||training-start||1||1
+2016-12-02 07:44:56.211119||event||progress-marker||training-start||0||0
+2016-12-02 07:44:56.211426||event||progress-marker||training-end||0||0
+2016-12-02 07:46:23.025713||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||1||1
+2016-12-02 07:46:29.000798||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 07:47:02.126554||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||1||1
+2016-12-02 07:47:11.751717||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 07:47:43.756730||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 07:47:56.672843||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||1||1
+2016-12-02 07:48:12.682504||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 07:48:26.398574||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||1||1
+2016-12-02 07:48:58.045303||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||1||1
+2016-12-02 07:48:58.653539||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||3||1
+2016-12-02 07:50:28.784227||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 07:50:43.188345||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||1||1
+2016-12-02 07:50:56.969938||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 07:51:11.866977||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||1||1
+2016-12-02 07:51:43.578039||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 07:52:08.236829||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||1||1
+2016-12-02 07:52:53.743010||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||1||1
+2016-12-02 07:52:55.120815||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 07:52:56.890237||event||progress-marker||training-end||3||1
+2016-12-02 07:53:07.238324||event||progress-marker||training-end||1||1
+2016-12-02 07:53:07.915257||event||progress-marker||measurement-start||0||0
+2016-12-02 07:53:11.965488||event||progress-marker||measurement-start||3||1
+2016-12-02 07:53:12.215675||event||progress-marker||measurement-start||2||0
+2016-12-02 07:53:12.267307||event||progress-marker||measurement-start||1||1
+2016-12-02 07:54:33.719352||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:34.591779||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:36.253780||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:38.049686||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:40.852248||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:42.534158||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:44.402441||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:45.790227||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:47.351897||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:48.381252||measurement||news||2016-12-02 07:54:14.792878@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 07:54:48.381656||event||progress-marker||measurement-end||2||0
+2016-12-02 07:54:49.284304||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:50.527106||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:50.553622||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:51.402675||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:51.562695||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:51.871152||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:52.001005||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:52.211109||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:52.330686||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:52.418741||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:52.818368||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:52.853194||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:53.310429||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:53.425191||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:53.827725||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:54.217461||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:54.527320||measurement||news||2016-12-02 07:54:30.733746@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 07:54:54.527690||event||progress-marker||measurement-end||3||1
+2016-12-02 07:54:54.680792||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:55.220099||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:55.569496||measurement||news||2016-12-02 07:54:22.885952@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||1||1
+2016-12-02 07:54:55.569830||event||progress-marker||measurement-end||1||1
+2016-12-02 07:54:55.870193||meta||block_id end||23
+2016-12-02 07:54:55.870409||meta||block_id start||24
+2016-12-02 07:54:55.870424||meta||assignment||2@|1@|3@|0
+2016-12-02 07:55:08.509566||event||progress-marker||training-start||3||1
+2016-12-02 07:55:08.610240||event||progress-marker||training-start||2||0
+2016-12-02 07:55:08.610528||event||progress-marker||training-end||2||0
+2016-12-02 07:55:08.723911||event||progress-marker||training-start||0||1
+2016-12-02 07:55:08.782164||event||progress-marker||training-start||1||0
+2016-12-02 07:55:08.782589||event||progress-marker||training-end||1||0
+2016-12-02 07:56:39.759410||treatment||read_news||http://www.nytimes.com/2016/12/01/health/hallucinogenic-mushrooms-psilocybin-cancer-anxiety-depression.html?_r=0||3||1
+2016-12-02 07:56:56.056970||treatment||read_news||http://www.nytimes.com/health/guides/index.html||0||1
+2016-12-02 07:57:08.289058||treatment||read_news||http://www.nytimes.com/by/jan-hoffman||3||1
+2016-12-02 07:57:26.824085||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?_r=0||0||1
+2016-12-02 07:58:01.200023||treatment||read_news||http://www.nytimes.com/2016/11/29/us/ptsd-mdma-ecstasy.html||3||1
+2016-12-02 07:58:15.591513||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 07:58:34.980287||treatment||read_news||http://www.nytimes.com/2014/06/08/us/alexander-shulgin-psychedelia-researcher-dies-at-88.html||3||1
+2016-12-02 07:58:47.776720||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 07:59:12.706308||treatment||read_news||http://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html||3||1
+2016-12-02 07:59:33.450402||treatment||read_news||http://www.nytimes.com/2016/12/01/us/politics/trumps-off-the-cuff-remarks-to-world-leaders-leave-diplomats-aghast.html||0||1
+2016-12-02 08:00:22.845377||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html||0||1
+2016-12-02 08:00:45.887656||treatment||read_news||http://www.nytimes.com/2016/11/30/health/insomnia-online-therapy.html?rref=collection%2Fsectioncollection%2Fhealth||3||1
+2016-12-02 08:00:55.323814||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||0||1
+2016-12-02 08:01:14.090770||treatment||read_news||http://www.nytimes.com/2016/09/18/opinion/sunday/the-insomnia-machine.html||3||1
+2016-12-02 08:01:37.003727||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||0||1
+2016-12-02 08:02:15.065868||treatment||read_news||http://well.blogs.nytimes.com/2016/08/16/a-new-therapy-for-insomnia-no-more-negative-thoughts/||3||1
+2016-12-02 08:02:44.894339||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||0||1
+2016-12-02 08:02:52.315098||event||progress-marker||training-end||0||1
+2016-12-02 08:03:17.815165||treatment||read_news||http://well.blogs.nytimes.com/2015/12/11/ask-well-do-sleeping-pills-induce-restorative-sleep/||3||1
+2016-12-02 08:03:18.546270||event||progress-marker||training-end||3||1
+2016-12-02 08:03:20.396477||event||progress-marker||measurement-start||1||0
+2016-12-02 08:03:20.432512||event||progress-marker||measurement-start||2||0
+2016-12-02 08:03:22.417918||event||progress-marker||measurement-start||0||1
+2016-12-02 08:03:23.577269||event||progress-marker||measurement-start||3||1
+2016-12-02 08:04:42.066885||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:45.372958||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:45.647804||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|How to Hide $400 Million@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:47.966706||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:48.726478||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:50.169518||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:50.775841||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|The 10 Best Books of 2016@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:51.258403||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:04:51.453559||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|How Good Is a Bad Night’s Sleep?@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:04:51.908292||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:52.887508||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|Trump’s Breezy Calls to World Leaders Leave Diplomats Aghast@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:53.733097||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:04:54.093461||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:55.325448||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:56.618334||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:56.882142||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Anger Rooms: A Smashing New Way to Relieve Stress@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:04:57.314807||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|I Am a Dangerous Professor@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:04:57.395803||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|Actually, Let’s Not Be in the Moment@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:04:58.649627||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:04:59.740128||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|Pakistan Names New Military Leader@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:00.359751||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|$6.3 Billion Measure Aims to Cure Ailing Health Care Policies@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:00.836626||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:05:01.378888||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|A Dose of a Hallucinogen From a ‘Magic Mushroom,’ and Then Lasting Peace@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:05:02.424093||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Trump to Announce Carrier Plant Will Keep Jobs in U.S.@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:02.909246||measurement||news||2016-12-02 08:04:20.614645@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||2||0
+2016-12-02 08:05:02.910052||event||progress-marker||measurement-end||2||0
+2016-12-02 08:05:03.081112||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|Donald Trump’s Caldron of Conflicts@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:03.228072||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|Ethics Office Praises Donald Trump for a Move He Hasn’t Committed To@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:05:04.576526||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:04.734012||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|The End of the Anglo-American Order@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:05.408376||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:05:07.224223||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|U.K. Independence Party Picks Paul Nuttall to Replace Nigel Farage as Leader@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:07.371846||measurement||news||2016-12-02 08:04:22.770364@|Recommended@|The Array of Conflicts of Interest Facing the Trump Presidency@|NYTimes@|ago@|Body||1||0
+2016-12-02 08:05:07.372536||event||progress-marker||measurement-end||1||0
+2016-12-02 08:05:07.929525||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:08.488026||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|Mike Pence and ‘Conversion Therapy’: A History@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:09.640853||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|Trump Cheered for Carrier Deal Even as Other Jobs Are Trimmed@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:09.769362||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|In Scotland, Trump Built a Wall. Then He Sent Residents the Bill.@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:10.466036||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|What Not to Say to a Cancer Patient@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:10.746430||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|‘Victimizing Me All Over Again’: San Bernardino Victims Fight for Treatment@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:11.259541||measurement||news||2016-12-02 08:03:29.220528@|Recommended@|As She Fights Cancer, a Woman Strives for Normalcy@|NYTimes@|ago@|Body||3||1
+2016-12-02 08:05:11.260044||event||progress-marker||measurement-end||3||1
+2016-12-02 08:05:11.751118||measurement||news||2016-12-02 08:04:18.468168@|Recommended@|When the Picky Eater Is a Grown-Up@|NYTimes@|ago@|Body||0||1
+2016-12-02 08:05:11.751719||event||progress-marker||measurement-end||0||1
+2016-12-02 08:05:13.026109||meta||block_id end||24

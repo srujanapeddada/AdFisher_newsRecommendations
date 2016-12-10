@@ -1,0 +1,436 @@
+2016-11-06 22:07:38.251612||meta||agents||8
+2016-11-06 22:07:38.251651||meta||treatnames||control@|experimental
+2016-11-06 22:07:38.251740||meta||block_id start||0
+2016-11-06 22:07:38.251750||meta||assignment||7@|2@|4@|5@|3@|1@|6@|0
+2016-11-06 22:08:04.136065||event||progress-marker||training-start||5||0
+2016-11-06 22:08:04.341572||event||progress-marker||training-start||1||1
+2016-11-06 22:08:04.373812||event||progress-marker||training-start||6||1
+2016-11-06 22:08:04.683295||event||progress-marker||training-start||7||0
+2016-11-06 22:08:04.686186||event||progress-marker||training-start||3||1
+2016-11-06 22:08:04.693206||event||progress-marker||training-start||2||0
+2016-11-06 22:08:04.951953||event||progress-marker||training-start||0||1
+2016-11-06 22:08:05.517494||event||progress-marker||training-start||4||0
+2016-11-06 22:08:21.577983||treatment||visit website||http://google.com||5||0
+2016-11-06 22:08:21.676741||treatment||visit website||http://google.com||7||0
+2016-11-06 22:08:21.912892||treatment||visit website||http://google.com||4||0
+2016-11-06 22:08:22.278130||treatment||visit website||http://google.com||2||0
+2016-11-06 22:08:40.307262||treatment||visit website||http://google.com||5||0
+2016-11-06 22:08:40.418388||treatment||visit website||http://google.com||2||0
+2016-11-06 22:08:40.630097||treatment||visit website||http://google.com||4||0
+2016-11-06 22:08:41.035508||treatment||visit website||http://google.com||7||0
+2016-11-06 22:08:49.399424||error||website timeout||http://jalopnik.com||0||1
+2016-11-06 22:08:57.695683||error||website timeout||http://jalopnik.com||1||1
+2016-11-06 22:08:57.771982||error||website timeout||http://jalopnik.com||6||1
+2016-11-06 22:08:58.177375||error||website timeout||http://jalopnik.com||3||1
+2016-11-06 22:08:58.323230||treatment||visit website||http://google.com||5||0
+2016-11-06 22:08:58.588857||treatment||visit website||http://google.com||2||0
+2016-11-06 22:08:58.687401||treatment||visit website||http://google.com||4||0
+2016-11-06 22:08:58.852783||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 22:08:59.059717||treatment||visit website||http://google.com||7||0
+2016-11-06 22:09:16.083258||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 22:09:16.442709||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 22:09:16.880077||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 22:09:17.623855||treatment||visit website||http://google.com||7||0
+2016-11-06 22:09:17.781120||treatment||visit website||http://google.com||5||0
+2016-11-06 22:09:18.466155||treatment||visit website||http://google.com||4||0
+2016-11-06 22:09:18.493877||treatment||visit website||http://google.com||2||0
+2016-11-06 22:09:22.342484||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 22:09:31.952848||treatment||visit website||http://google.com||5||0
+2016-11-06 22:09:31.954438||event||progress-marker||training-end||5||0
+2016-11-06 22:09:32.073665||treatment||visit website||http://google.com||7||0
+2016-11-06 22:09:32.074319||event||progress-marker||training-end||7||0
+2016-11-06 22:09:32.970070||treatment||visit website||http://google.com||2||0
+2016-11-06 22:09:32.971058||event||progress-marker||training-end||2||0
+2016-11-06 22:09:33.294447||treatment||visit website||http://google.com||4||0
+2016-11-06 22:09:33.295561||event||progress-marker||training-end||4||0
+2016-11-06 22:09:35.287015||treatment||visit website||http://popularmechanics.com||6||1
+2016-11-06 22:09:36.519363||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 22:09:42.355762||treatment||visit website||http://ford.com||6||1
+2016-11-06 22:09:43.206582||treatment||visit website||http://ford.com||1||1
+2016-11-06 22:10:04.254689||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 22:10:05.636466||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 22:10:05.640326||event||progress-marker||training-end||1||1
+2016-11-06 22:10:11.699493||treatment||visit website||http://ford.com||3||1
+2016-11-06 22:10:15.722011||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 22:10:15.723663||event||progress-marker||training-end||6||1
+2016-11-06 22:10:35.867829||treatment||visit website||http://ford.com||0||1
+2016-11-06 22:10:40.239940||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 22:10:40.241590||event||progress-marker||training-end||3||1
+2016-11-06 22:10:58.388692||treatment||visit website||http://autoblog.com||0||1
+2016-11-06 22:10:58.391853||event||progress-marker||training-end||0||1
+2016-11-06 22:10:58.402261||event||progress-marker||measurement-start||4||0
+2016-11-06 22:11:00.262901||event||progress-marker||measurement-start||3||1
+2016-11-06 22:11:00.704708||event||progress-marker||measurement-start||1||1
+2016-11-06 22:11:00.767205||event||progress-marker||measurement-start||6||1
+2016-11-06 22:11:02.051819||event||progress-marker||measurement-start||5||0
+2016-11-06 22:11:02.167190||event||progress-marker||measurement-start||7||0
+2016-11-06 22:11:03.051472||event||progress-marker||measurement-start||2||0
+2016-11-06 22:11:03.398261||event||progress-marker||measurement-start||0||1
+2016-11-06 22:13:43.896661||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:13:47.684464||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:13:49.872036||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:13:51.623604||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:13:53.547111||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:13:56.297879||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:14:06.679062||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:14:22.363530||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:24.361695||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:26.406558||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:28.191217||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:30.031669||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:14:30.280545||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:31.529152||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:31.574874||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:31.768601||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:14:32.295764||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:33.307424||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:33.455266||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:33.488919||measurement||news||2016-11-06 22:12:54.896933@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:14:33.489887||event||progress-marker||measurement-end||6||1
+2016-11-06 22:14:35.083254||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:35.242098||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:35.785446||measurement||news||2016-11-06 22:13:27.099411@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:14:35.786716||event||progress-marker||measurement-end||1||1
+2016-11-06 22:14:36.739051||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:37.234280||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:37.504639||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:37.885253||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:37.926403||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:38.116061||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:38.174480||measurement||news||2016-11-06 22:13:42.898775@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||3||1
+2016-11-06 22:14:38.175752||event||progress-marker||measurement-end||3||1
+2016-11-06 22:14:43.915392||event||progress-marker||measurement-end||0||1
+2016-11-06 22:14:44.261513||meta||block_id end||0
+2016-11-06 22:14:44.286694||meta||block_id start||1
+2016-11-06 22:14:44.286732||meta||assignment||0@|7@|3@|4@|2@|1@|5@|6
+2016-11-06 22:15:07.724566||event||progress-marker||training-start||0||0
+2016-11-06 22:15:07.731575||event||progress-marker||training-start||6||1
+2016-11-06 22:15:08.055889||event||progress-marker||training-start||1||1
+2016-11-06 22:15:08.104922||event||progress-marker||training-start||3||0
+2016-11-06 22:15:08.323179||event||progress-marker||training-start||7||0
+2016-11-06 22:15:08.394748||event||progress-marker||training-start||2||1
+2016-11-06 22:15:08.414756||event||progress-marker||training-start||4||0
+2016-11-06 22:15:08.541900||event||progress-marker||training-start||5||1
+2016-11-06 22:15:24.355030||treatment||visit website||http://google.com||4||0
+2016-11-06 22:15:24.501670||treatment||visit website||http://google.com||7||0
+2016-11-06 22:15:24.590796||treatment||visit website||http://google.com||3||0
+2016-11-06 22:15:24.653998||treatment||visit website||http://google.com||0||0
+2016-11-06 22:15:43.439370||treatment||visit website||http://google.com||4||0
+2016-11-06 22:15:43.651410||treatment||visit website||http://google.com||3||0
+2016-11-06 22:15:43.783929||treatment||visit website||http://google.com||7||0
+2016-11-06 22:15:43.809908||treatment||visit website||http://google.com||0||0
+2016-11-06 22:15:54.596520||error||website timeout||http://jalopnik.com||5||1
+2016-11-06 22:15:55.092879||error||website timeout||http://jalopnik.com||1||1
+2016-11-06 22:15:56.612654||error||website timeout||http://jalopnik.com||2||1
+2016-11-06 22:15:58.451079||treatment||visit website||http://google.com||4||0
+2016-11-06 22:15:58.578557||treatment||visit website||http://google.com||7||0
+2016-11-06 22:15:58.643951||error||website timeout||http://jalopnik.com||6||1
+2016-11-06 22:15:58.827364||treatment||visit website||http://google.com||3||0
+2016-11-06 22:15:58.899112||treatment||visit website||http://google.com||0||0
+2016-11-06 22:16:10.317650||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 22:16:15.134149||treatment||visit website||http://google.com||4||0
+2016-11-06 22:16:15.210603||treatment||visit website||http://google.com||7||0
+2016-11-06 22:16:16.667366||treatment||visit website||http://google.com||0||0
+2016-11-06 22:16:16.718011||treatment||visit website||http://google.com||3||0
+2016-11-06 22:16:31.026239||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 22:16:31.594843||treatment||visit website||http://google.com||4||0
+2016-11-06 22:16:31.596451||event||progress-marker||training-end||4||0
+2016-11-06 22:16:31.638418||treatment||visit website||http://google.com||7||0
+2016-11-06 22:16:31.639592||event||progress-marker||training-end||7||0
+2016-11-06 22:16:32.301851||treatment||visit website||http://google.com||3||0
+2016-11-06 22:16:32.302652||event||progress-marker||training-end||3||0
+2016-11-06 22:16:32.521531||treatment||visit website||http://google.com||0||0
+2016-11-06 22:16:32.522809||event||progress-marker||training-end||0||0
+2016-11-06 22:16:46.954494||treatment||visit website||http://ford.com||2||1
+2016-11-06 22:16:49.517505||error||website timeout||http://caranddriver.com||1||1
+2016-11-06 22:16:57.336536||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 22:16:58.081955||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 22:17:01.247989||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 22:17:04.091386||treatment||visit website||http://autoblog.com||2||1
+2016-11-06 22:17:04.092729||event||progress-marker||training-end||2||1
+2016-11-06 22:17:07.536321||treatment||visit website||http://ford.com||1||1
+2016-11-06 22:17:29.718259||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 22:17:29.720432||event||progress-marker||training-end||1||1
+2016-11-06 22:17:35.123321||treatment||visit website||http://popularmechanics.com||6||1
+2016-11-06 22:17:35.846366||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 22:18:22.154206||treatment||visit website||http://ford.com||6||1
+2016-11-06 22:18:29.486080||treatment||visit website||http://ford.com||5||1
+2016-11-06 22:18:47.415745||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 22:18:47.417382||event||progress-marker||training-end||6||1
+2016-11-06 22:18:56.977970||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 22:18:56.978934||event||progress-marker||training-end||5||1
+2016-11-06 22:18:57.430621||event||progress-marker||measurement-start||6||1
+2016-11-06 22:18:57.470780||event||progress-marker||measurement-start||3||0
+2016-11-06 22:18:57.711715||event||progress-marker||measurement-start||0||0
+2016-11-06 22:18:59.218992||event||progress-marker||measurement-start||2||1
+2016-11-06 22:18:59.826893||event||progress-marker||measurement-start||1||1
+2016-11-06 22:19:01.776093||event||progress-marker||measurement-start||4||0
+2016-11-06 22:19:01.837348||event||progress-marker||measurement-start||7||0
+2016-11-06 22:19:01.991586||event||progress-marker||measurement-start||5||1
+2016-11-06 22:21:18.155092||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:20.394025||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:20.909101||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:22.903587||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:23.404089||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:26.326001||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:26.691344||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:28.390569||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:29.263634||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:30.542826||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:31.595859||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:32.587701||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:34.403980||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:34.872581||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:37.356195||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:37.716716||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:40.114402||measurement||news||2016-11-06 22:20:04.634599@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||3||0
+2016-11-06 22:21:40.116400||event||progress-marker||measurement-end||3||0
+2016-11-06 22:21:40.414617||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:42.708788||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:45.434268||measurement||news||2016-11-06 22:20:13.730540@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||4||0
+2016-11-06 22:21:45.435729||event||progress-marker||measurement-end||4||0
+2016-11-06 22:21:49.340802||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:51.124308||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:53.421799||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:56.095822||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:57.291687||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:57.477587||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:58.347707||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:21:59.231747||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:22:00.251887||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:22:00.949772||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:01.330666||measurement||news||2016-11-06 22:20:06.111604@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:22:01.331526||event||progress-marker||measurement-end||5||1
+2016-11-06 22:22:02.121370||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:02.545765||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:02.571069||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:03.028657||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:03.504031||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:04.138902||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:04.168180||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:04.190969||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:04.239882||measurement||news||2016-11-06 22:20:33.341480@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||6||1
+2016-11-06 22:22:04.246891||event||progress-marker||measurement-end||6||1
+2016-11-06 22:22:05.280538||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.455927||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.484327||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.496684||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.526185||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.541834||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.631145||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.648286||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.668487||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.679629||measurement||news||2016-11-06 22:21:16.044745@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:22:05.681178||event||progress-marker||measurement-end||1||1
+2016-11-06 22:22:06.038590||meta||block_id end||1
+2016-11-06 22:22:06.064980||meta||block_id start||2
+2016-11-06 22:22:06.065023||meta||assignment||5@|0@|6@|3@|2@|1@|7@|4
+2016-11-06 22:22:30.143967||event||progress-marker||training-start||2||1
+2016-11-06 22:22:30.849355||event||progress-marker||training-start||1||1
+2016-11-06 22:22:31.214713||event||progress-marker||training-start||3||0
+2016-11-06 22:22:31.236060||event||progress-marker||training-start||0||0
+2016-11-06 22:22:31.523387||event||progress-marker||training-start||6||0
+2016-11-06 22:22:31.580972||event||progress-marker||training-start||7||1
+2016-11-06 22:22:31.814905||event||progress-marker||training-start||4||1
+2016-11-06 22:22:31.817125||event||progress-marker||training-start||5||0
+2016-11-06 22:22:47.226195||treatment||visit website||http://google.com||0||0
+2016-11-06 22:22:47.609001||treatment||visit website||http://google.com||6||0
+2016-11-06 22:22:48.038597||treatment||visit website||http://google.com||3||0
+2016-11-06 22:22:50.697862||treatment||visit website||http://google.com||5||0
+2016-11-06 22:23:03.154716||treatment||visit website||http://google.com||0||0
+2016-11-06 22:23:03.675729||treatment||visit website||http://google.com||6||0
+2016-11-06 22:23:04.097980||treatment||visit website||http://google.com||3||0
+2016-11-06 22:23:04.983111||treatment||visit website||http://google.com||5||0
+2016-11-06 22:23:15.513767||error||website timeout||http://jalopnik.com||1||1
+2016-11-06 22:23:15.550699||error||website timeout||http://jalopnik.com||2||1
+2016-11-06 22:23:15.709472||error||website timeout||http://jalopnik.com||4||1
+2016-11-06 22:23:16.003612||error||website timeout||http://jalopnik.com||7||1
+2016-11-06 22:23:16.995753||treatment||visit website||http://google.com||5||0
+2016-11-06 22:23:17.671591||treatment||visit website||http://google.com||6||0
+2016-11-06 22:23:17.869129||treatment||visit website||http://google.com||0||0
+2016-11-06 22:23:18.710034||treatment||visit website||http://google.com||3||0
+2016-11-06 22:23:30.390767||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 22:23:31.455735||treatment||visit website||http://google.com||5||0
+2016-11-06 22:23:32.233624||treatment||visit website||http://google.com||0||0
+2016-11-06 22:23:32.254133||treatment||visit website||http://google.com||6||0
+2016-11-06 22:23:33.412014||treatment||visit website||http://google.com||3||0
+2016-11-06 22:23:47.811621||treatment||visit website||http://google.com||5||0
+2016-11-06 22:23:47.812626||event||progress-marker||training-end||5||0
+2016-11-06 22:23:48.150046||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 22:23:48.298447||treatment||visit website||http://google.com||6||0
+2016-11-06 22:23:48.298626||event||progress-marker||training-end||6||0
+2016-11-06 22:23:48.488740||treatment||visit website||http://google.com||0||0
+2016-11-06 22:23:48.488964||event||progress-marker||training-end||0||0
+2016-11-06 22:23:49.384993||treatment||visit website||http://google.com||3||0
+2016-11-06 22:23:49.386896||event||progress-marker||training-end||3||0
+2016-11-06 22:24:11.090563||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 22:24:11.370248||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 22:24:12.150423||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 22:24:43.156508||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 22:24:43.707049||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 22:24:43.958044||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 22:24:54.367556||treatment||visit website||http://ford.com||7||1
+2016-11-06 22:25:30.098427||treatment||visit website||http://ford.com||4||1
+2016-11-06 22:25:30.335153||treatment||visit website||http://autoblog.com||7||1
+2016-11-06 22:25:30.336113||event||progress-marker||training-end||7||1
+2016-11-06 22:25:42.069513||treatment||visit website||http://ford.com||1||1
+2016-11-06 22:25:44.943104||treatment||visit website||http://ford.com||2||1
+2016-11-06 22:26:00.879307||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 22:26:00.887698||event||progress-marker||training-end||1||1
+2016-11-06 22:26:03.486944||treatment||visit website||http://autoblog.com||2||1
+2016-11-06 22:26:03.487984||event||progress-marker||training-end||2||1
+2016-11-06 22:26:06.581515||treatment||visit website||http://autoblog.com||4||1
+2016-11-06 22:26:06.582838||event||progress-marker||training-end||4||1
+2016-11-06 22:26:07.985058||event||progress-marker||measurement-start||5||0
+2016-11-06 22:26:08.491389||event||progress-marker||measurement-start||6||0
+2016-11-06 22:26:08.516724||event||progress-marker||measurement-start||2||1
+2016-11-06 22:26:08.672135||event||progress-marker||measurement-start||0||0
+2016-11-06 22:26:09.582847||event||progress-marker||measurement-start||3||0
+2016-11-06 22:26:10.391856||event||progress-marker||measurement-start||7||1
+2016-11-06 22:26:10.903496||event||progress-marker||measurement-start||1||1
+2016-11-06 22:26:11.591114||event||progress-marker||measurement-start||4||1
+2016-11-06 22:28:06.264261||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:08.877613||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:11.851993||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:17.617057||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:20.154705||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:22.698124||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:25.588601||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:31.355086||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:34.583703||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:36.950608||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:38.047439||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:39.191128||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:40.362651||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:41.585306||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:42.480275||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:43.631584||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:44.139339||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:45.600806||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:46.119400||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:47.603138||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:47.828972||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:49.007996||measurement||news||2016-11-06 22:27:03.426154@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||2||1
+2016-11-06 22:28:49.009524||event||progress-marker||measurement-end||2||1
+2016-11-06 22:28:49.398594||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:51.029812||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:52.813913||measurement||news||2016-11-06 22:27:06.490899@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:28:52.815385||event||progress-marker||measurement-end||1||1
+2016-11-06 22:28:55.744744||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:56.909381||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:57.261819||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:57.659198||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:58.131805||measurement||news||2016-11-06 22:27:31.290611@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||7||1
+2016-11-06 22:28:58.133890||event||progress-marker||measurement-end||7||1
+2016-11-06 22:28:58.895675||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:58.927013||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:58.961098||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:58.976535||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:58.992118||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.035230||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.123892||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.154806||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.224221||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.241215||measurement||news||2016-11-06 22:27:55.695082@|Recommended@|The End Is Nigh@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:28:59.242387||event||progress-marker||measurement-end||4||1
+2016-11-06 22:28:59.596342||meta||block_id end||2
+2016-11-06 22:28:59.633734||meta||block_id start||3
+2016-11-06 22:28:59.633802||meta||assignment||6@|3@|7@|2@|4@|0@|1@|5
+2016-11-06 22:29:25.712118||event||progress-marker||training-start||6||0
+2016-11-06 22:29:25.711941||event||progress-marker||training-start||2||0
+2016-11-06 22:29:26.088340||event||progress-marker||training-start||3||0
+2016-11-06 22:29:26.096213||event||progress-marker||training-start||7||0
+2016-11-06 22:29:26.139647||event||progress-marker||training-start||0||1
+2016-11-06 22:29:26.160316||event||progress-marker||training-start||4||1
+2016-11-06 22:29:26.333821||event||progress-marker||training-start||1||1
+2016-11-06 22:29:26.569107||event||progress-marker||training-start||5||1
+2016-11-06 22:29:42.160824||treatment||visit website||http://google.com||3||0
+2016-11-06 22:29:42.332995||treatment||visit website||http://google.com||6||0
+2016-11-06 22:29:42.442285||treatment||visit website||http://google.com||7||0
+2016-11-06 22:29:42.518100||treatment||visit website||http://google.com||2||0
+2016-11-06 22:29:59.628999||treatment||visit website||http://google.com||3||0
+2016-11-06 22:29:59.874931||treatment||visit website||http://google.com||6||0
+2016-11-06 22:29:59.890362||treatment||visit website||http://google.com||2||0
+2016-11-06 22:30:00.319430||treatment||visit website||http://google.com||7||0
+2016-11-06 22:30:10.101917||error||website timeout||http://jalopnik.com||1||1
+2016-11-06 22:30:10.188763||error||website timeout||http://jalopnik.com||0||1
+2016-11-06 22:30:12.702261||error||website timeout||http://jalopnik.com||5||1
+2016-11-06 22:30:13.097352||error||website timeout||http://jalopnik.com||4||1
+2016-11-06 22:30:13.823092||treatment||visit website||http://google.com||3||0
+2016-11-06 22:30:14.154295||treatment||visit website||http://google.com||6||0
+2016-11-06 22:30:14.268635||treatment||visit website||http://google.com||2||0
+2016-11-06 22:30:14.608175||treatment||visit website||http://google.com||7||0
+2016-11-06 22:30:21.424229||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 22:30:28.740918||treatment||visit website||http://google.com||3||0
+2016-11-06 22:30:29.206675||treatment||visit website||http://google.com||6||0
+2016-11-06 22:30:29.754070||treatment||visit website||http://google.com||2||0
+2016-11-06 22:30:29.853878||treatment||visit website||http://google.com||7||0
+2016-11-06 22:30:37.778864||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 22:30:43.977201||treatment||visit website||http://google.com||3||0
+2016-11-06 22:30:43.978428||event||progress-marker||training-end||3||0
+2016-11-06 22:30:44.349897||treatment||visit website||http://google.com||6||0
+2016-11-06 22:30:44.351137||event||progress-marker||training-end||6||0
+2016-11-06 22:30:44.873954||treatment||visit website||http://google.com||2||0
+2016-11-06 22:30:44.875100||event||progress-marker||training-end||2||0
+2016-11-06 22:30:44.966521||treatment||visit website||http://google.com||7||0
+2016-11-06 22:30:44.971358||event||progress-marker||training-end||7||0
+2016-11-06 22:30:55.797271||treatment||visit website||http://ford.com||0||1
+2016-11-06 22:31:04.745983||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 22:31:05.665310||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 22:31:08.473960||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 22:31:16.556370||treatment||visit website||http://autoblog.com||0||1
+2016-11-06 22:31:16.557597||event||progress-marker||training-end||0||1
+2016-11-06 22:31:34.346543||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 22:31:38.026392||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 22:32:01.275033||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 22:32:32.623499||treatment||visit website||http://ford.com||1||1
+2016-11-06 22:32:37.136916||treatment||visit website||http://ford.com||5||1
+2016-11-06 22:32:44.088781||treatment||visit website||http://ford.com||4||1
+2016-11-06 22:32:57.543401||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 22:32:57.547015||event||progress-marker||training-end||5||1
+2016-11-06 22:33:01.535393||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 22:33:01.536619||event||progress-marker||training-end||1||1
+2016-11-06 22:33:11.419871||treatment||visit website||http://autoblog.com||4||1
+2016-11-06 22:33:11.421101||event||progress-marker||training-end||4||1
+2016-11-06 22:33:11.559333||event||progress-marker||measurement-start||1||1
+2016-11-06 22:33:11.740414||event||progress-marker||measurement-start||0||1
+2016-11-06 22:33:12.569400||event||progress-marker||measurement-start||5||1
+2016-11-06 22:33:14.190231||event||progress-marker||measurement-start||3||0
+2016-11-06 22:33:14.567484||event||progress-marker||measurement-start||6||0
+2016-11-06 22:33:15.088431||event||progress-marker||measurement-start||2||0
+2016-11-06 22:33:15.209733||event||progress-marker||measurement-start||7||0
+2016-11-06 22:33:16.433263||event||progress-marker||measurement-start||4||1
+2016-11-06 22:35:55.976137||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:35:57.116988||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:35:57.801589||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:35:58.497642||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:35:59.160511||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:35:59.808765||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:36:00.863663||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:36:01.475394||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:36:01.861418||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:36:02.780108||measurement||news||2016-11-06 22:34:56.211445@|Recommended@|Why This Election Terrifies Me@|NYTimes@|ago@|Body||1||1
+2016-11-06 22:36:02.781617||event||progress-marker||measurement-end||1||1
+2016-11-06 22:36:14.811963||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:15.159133||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:15.528278||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:16.053315||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:16.456266||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:16.588664||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:17.035941||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:17.406054||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:17.786295||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:18.148210||measurement||news||2016-11-06 22:35:41.992403@|Recommended@|Why This Election Terrifies Me@|NYTimes@|ago@|Body||5||1
+2016-11-06 22:36:18.149552||event||progress-marker||measurement-end||5||1
+2016-11-06 22:45:52.841479||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:52.872101||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:52.914652||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:52.932651||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:52.942559||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.049778||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Presidential Election: No New Conclusion in Clinton Email Case@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.061748||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.071020||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.078713||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|The Men Feminists Left Behind@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.087973||measurement||news||2016-11-06 22:34:51.651878@|Recommended@|Why This Election Terrifies Me@|NYTimes@|ago@|Body||4||1
+2016-11-06 22:45:53.088825||event||progress-marker||measurement-end||4||1
+2016-11-06 22:45:53.394673||meta||block_id end||3

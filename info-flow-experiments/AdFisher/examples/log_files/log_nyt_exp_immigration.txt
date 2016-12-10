@@ -1,0 +1,175 @@
+2016-11-07 21:29:00.046324||meta||agents||4
+2016-11-07 21:29:00.046364||meta||treatnames||control@|experimental
+2016-11-07 21:29:00.046452||meta||block_id start||0
+2016-11-07 21:29:00.046462||meta||assignment||3@|1@|0@|2
+2016-11-07 21:29:13.602652||event||progress-marker||training-start||1||0
+2016-11-07 21:29:14.017178||event||progress-marker||training-start||3||0
+2016-11-07 21:29:14.149994||event||progress-marker||training-start||2||1
+2016-11-07 21:29:14.270775||event||progress-marker||training-start||0||1
+2016-11-07 21:29:29.116148||treatment||visit website||http://google.com||3||0
+2016-11-07 21:29:29.335107||treatment||visit website||http://google.com||1||0
+2016-11-07 21:29:30.568245||treatment||visit website||http://chirla.org||2||1
+2016-11-07 21:29:32.611603||treatment||visit website||http://chirla.org||0||1
+2016-11-07 21:29:42.464528||treatment||visit website||http://google.com||3||0
+2016-11-07 21:29:43.092999||treatment||visit website||http://google.com||1||0
+2016-11-07 21:29:51.866395||treatment||visit website||http://immigrationequality.org||2||1
+2016-11-07 21:29:52.867368||treatment||visit website||http://immigrationequality.org||0||1
+2016-11-07 21:29:52.924179||treatment||visit website||http://google.com||3||0
+2016-11-07 21:29:53.117234||treatment||visit website||http://google.com||1||0
+2016-11-07 21:30:02.309920||treatment||visit website||http://icirr.org||2||1
+2016-11-07 21:30:03.688324||treatment||visit website||http://icirr.org||0||1
+2016-11-07 21:30:04.000374||treatment||visit website||http://google.com||3||0
+2016-11-07 21:30:04.101249||treatment||visit website||http://google.com||1||0
+2016-11-07 21:30:12.572428||treatment||visit website||http://justiceforimmigrants.org||2||1
+2016-11-07 21:30:13.948117||treatment||visit website||http://google.com||1||0
+2016-11-07 21:30:13.950884||event||progress-marker||training-end||1||0
+2016-11-07 21:30:13.958026||treatment||visit website||http://google.com||3||0
+2016-11-07 21:30:13.958868||event||progress-marker||training-end||3||0
+2016-11-07 21:30:14.757898||treatment||visit website||http://justiceforimmigrants.org||0||1
+2016-11-07 21:30:20.453617||treatment||visit website||http://nclr.org||2||1
+2016-11-07 21:30:20.457526||event||progress-marker||training-end||2||1
+2016-11-07 21:30:21.958259||treatment||visit website||http://nclr.org||0||1
+2016-11-07 21:30:21.958861||event||progress-marker||training-end||0||1
+2016-11-07 21:30:23.962063||event||progress-marker||measurement-start||1||0
+2016-11-07 21:30:23.970463||event||progress-marker||measurement-start||3||0
+2016-11-07 21:30:25.460441||event||progress-marker||measurement-start||2||1
+2016-11-07 21:30:26.965368||event||progress-marker||measurement-start||0||1
+2016-11-07 21:31:35.651587||meta||block_id end||0
+2016-11-07 21:31:35.653239||meta||block_id start||1
+2016-11-07 21:31:35.653277||meta||assignment||3@|1@|0@|2
+2016-11-07 21:31:46.457031||event||progress-marker||training-start||2||1
+2016-11-07 21:31:47.098032||event||progress-marker||training-start||0||1
+2016-11-07 21:31:47.389164||event||progress-marker||training-start||3||0
+2016-11-07 21:31:47.484723||event||progress-marker||training-start||1||0
+2016-11-07 21:32:03.779233||treatment||visit website||http://google.com||1||0
+2016-11-07 21:32:04.147943||treatment||visit website||http://google.com||3||0
+2016-11-07 21:32:07.897473||treatment||visit website||http://chirla.org||2||1
+2016-11-07 21:32:08.968489||treatment||visit website||http://chirla.org||0||1
+2016-11-07 21:32:11.852347||treatment||visit website||http://google.com||1||0
+2016-11-07 21:32:11.940991||treatment||visit website||http://google.com||3||0
+2016-11-07 21:32:24.261869||treatment||visit website||http://google.com||1||0
+2016-11-07 21:32:24.279648||treatment||visit website||http://google.com||3||0
+2016-11-07 21:32:26.363837||treatment||visit website||http://immigrationequality.org||2||1
+2016-11-07 21:32:27.290730||treatment||visit website||http://immigrationequality.org||0||1
+2016-11-07 21:32:33.171620||treatment||visit website||http://google.com||3||0
+2016-11-07 21:32:33.184398||treatment||visit website||http://google.com||1||0
+2016-11-07 21:32:35.444666||treatment||visit website||http://icirr.org||2||1
+2016-11-07 21:32:35.916379||treatment||visit website||http://icirr.org||0||1
+2016-11-07 21:32:42.440946||treatment||visit website||http://google.com||3||0
+2016-11-07 21:32:42.441712||event||progress-marker||training-end||3||0
+2016-11-07 21:32:42.557392||treatment||visit website||http://google.com||1||0
+2016-11-07 21:32:42.557483||event||progress-marker||training-end||1||0
+2016-11-07 21:32:45.117219||treatment||visit website||http://justiceforimmigrants.org||2||1
+2016-11-07 21:32:45.472759||treatment||visit website||http://justiceforimmigrants.org||0||1
+2016-11-07 21:32:51.420177||treatment||visit website||http://nclr.org||2||1
+2016-11-07 21:32:51.420950||event||progress-marker||training-end||2||1
+2016-11-07 21:32:54.032244||treatment||visit website||http://nclr.org||0||1
+2016-11-07 21:32:54.033017||event||progress-marker||training-end||0||1
+2016-11-07 21:32:56.426645||event||progress-marker||measurement-start||2||1
+2016-11-07 21:32:57.453613||event||progress-marker||measurement-start||3||0
+2016-11-07 21:32:57.572645||event||progress-marker||measurement-start||1||0
+2016-11-07 21:32:59.036562||event||progress-marker||measurement-start||0||1
+2016-11-07 21:34:13.438687||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:13.686035||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:13.877235||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Presidential Election: The Day Before the Storm@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:13.895375||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.193835||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Donald Trump’s Big Bet on Less Educated Whites@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.414649||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Janet Reno, First Woman to Serve as U.S. Attorney General, Dies at 78@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.504446||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|How a Shop Owner in the Hamptons Knows Who Will Be President@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.539581||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Woman Thrown in Front of Train at Times Square Subway Station Is Killed@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.831930||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.878517||measurement||news||2016-11-07 21:33:52.617632@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||0||1
+2016-11-07 21:34:14.879387||event||progress-marker||measurement-end||0||1
+2016-11-07 21:34:15.152079||meta||block_id end||1
+2016-11-07 21:34:15.153734||meta||block_id start||2
+2016-11-07 21:34:15.153775||meta||assignment||3@|1@|2@|0
+2016-11-07 21:34:27.700725||event||progress-marker||training-start||0||1
+2016-11-07 21:34:28.923951||event||progress-marker||training-start||2||1
+2016-11-07 21:34:29.014333||event||progress-marker||training-start||1||0
+2016-11-07 21:34:29.161605||event||progress-marker||training-start||3||0
+2016-11-07 21:34:45.428477||treatment||visit website||http://google.com||3||0
+2016-11-07 21:34:45.566688||treatment||visit website||http://google.com||1||0
+2016-11-07 21:34:49.168101||treatment||visit website||http://chirla.org||0||1
+2016-11-07 21:34:50.476281||treatment||visit website||http://chirla.org||2||1
+2016-11-07 21:34:53.389946||treatment||visit website||http://google.com||3||0
+2016-11-07 21:34:53.785910||treatment||visit website||http://google.com||1||0
+2016-11-07 21:35:04.338783||treatment||visit website||http://google.com||3||0
+2016-11-07 21:35:04.579042||treatment||visit website||http://google.com||1||0
+2016-11-07 21:35:06.412689||treatment||visit website||http://immigrationequality.org||0||1
+2016-11-07 21:35:07.624311||treatment||visit website||http://immigrationequality.org||2||1
+2016-11-07 21:35:12.985984||treatment||visit website||http://google.com||3||0
+2016-11-07 21:35:14.277197||treatment||visit website||http://google.com||1||0
+2016-11-07 21:35:16.160209||treatment||visit website||http://icirr.org||0||1
+2016-11-07 21:35:16.435006||treatment||visit website||http://icirr.org||2||1
+2016-11-07 21:35:20.149605||treatment||visit website||http://google.com||3||0
+2016-11-07 21:35:20.151293||event||progress-marker||training-end||3||0
+2016-11-07 21:35:21.793103||treatment||visit website||http://google.com||1||0
+2016-11-07 21:35:21.800780||event||progress-marker||training-end||1||0
+2016-11-07 21:35:25.445276||treatment||visit website||http://justiceforimmigrants.org||0||1
+2016-11-07 21:35:25.512224||treatment||visit website||http://justiceforimmigrants.org||2||1
+2016-11-07 21:35:31.509452||treatment||visit website||http://nclr.org||2||1
+2016-11-07 21:35:31.510171||event||progress-marker||training-end||2||1
+2016-11-07 21:35:32.093568||treatment||visit website||http://nclr.org||0||1
+2016-11-07 21:35:32.101977||event||progress-marker||training-end||0||1
+2016-11-07 21:35:35.169613||event||progress-marker||measurement-start||3||0
+2016-11-07 21:35:36.521206||event||progress-marker||measurement-start||2||1
+2016-11-07 21:35:36.825396||event||progress-marker||measurement-start||1||0
+2016-11-07 21:35:37.108797||event||progress-marker||measurement-start||0||1
+2016-11-07 21:37:02.574064||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:03.073670||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:03.777237||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Presidential Election: The Day Before the Storm@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:04.329790||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:04.828230||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Donald Trump’s Big Bet on Less Educated Whites@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:05.408758||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:05.463446||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Janet Reno, First Woman to Serve as U.S. Attorney General, Dies at 78@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:05.677999||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:06.184399||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|How a Shop Owner in the Hamptons Knows Who Will Be President@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:06.353073||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Presidential Election: The Day Before the Storm@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:06.822921||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:06.828075||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Woman Thrown in Front of Train at Times Square Subway Station Is Killed@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:07.214431||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:07.301655||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Donald Trump’s Big Bet on Less Educated Whites@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:07.602021||measurement||news||2016-11-07 21:36:29.959884@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||0
+2016-11-07 21:37:07.602849||event||progress-marker||measurement-end||3||0
+2016-11-07 21:37:07.694440||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Janet Reno, First Woman to Serve as U.S. Attorney General, Dies at 78@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:08.090151||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|How a Shop Owner in the Hamptons Knows Who Will Be President@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:08.173269||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Woman Thrown in Front of Train at Times Square Subway Station Is Killed@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:08.621262||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:08.638158||measurement||news||2016-11-07 21:36:44.180546@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||0
+2016-11-07 21:37:08.639075||event||progress-marker||measurement-end||1||0
+2016-11-07 21:37:08.883371||meta||block_id end||2
+2016-11-07 21:37:08.883579||meta||block_id start||3
+2016-11-07 21:37:08.883601||meta||assignment||0@|3@|2@|1
+2016-11-07 21:37:21.544645||event||progress-marker||training-start||0||0
+2016-11-07 21:37:21.577125||event||progress-marker||training-start||2||1
+2016-11-07 21:37:21.592644||event||progress-marker||training-start||3||0
+2016-11-07 21:37:22.105249||event||progress-marker||training-start||1||1
+2016-11-07 21:37:36.945121||treatment||visit website||http://google.com||0||0
+2016-11-07 21:37:37.738680||treatment||visit website||http://google.com||3||0
+2016-11-07 21:37:42.532126||treatment||visit website||http://chirla.org||2||1
+2016-11-07 21:37:43.401107||treatment||visit website||http://chirla.org||1||1
+2016-11-07 21:37:45.700282||treatment||visit website||http://google.com||3||0
+2016-11-07 21:37:45.768284||treatment||visit website||http://google.com||0||0
+2016-11-07 21:37:57.182511||treatment||visit website||http://google.com||3||0
+2016-11-07 21:37:57.299520||treatment||visit website||http://google.com||0||0
+2016-11-07 21:37:59.192432||treatment||visit website||http://immigrationequality.org||2||1
+2016-11-07 21:37:59.724587||treatment||visit website||http://immigrationequality.org||1||1
+2016-11-07 21:38:06.306273||treatment||visit website||http://google.com||3||0
+2016-11-07 21:38:07.048937||treatment||visit website||http://google.com||0||0
+2016-11-07 21:38:09.232854||treatment||visit website||http://icirr.org||2||1
+2016-11-07 21:38:10.516316||treatment||visit website||http://icirr.org||1||1
+2016-11-07 21:38:13.816197||treatment||visit website||http://google.com||3||0
+2016-11-07 21:38:13.817439||event||progress-marker||training-end||3||0
+2016-11-07 21:38:15.070090||treatment||visit website||http://google.com||0||0
+2016-11-07 21:38:15.076397||event||progress-marker||training-end||0||0
+2016-11-07 21:38:18.361899||treatment||visit website||http://justiceforimmigrants.org||2||1
+2016-11-07 21:38:20.516073||treatment||visit website||http://justiceforimmigrants.org||1||1
+2016-11-07 21:38:28.577456||treatment||visit website||http://nclr.org||1||1
+2016-11-07 21:38:28.578347||event||progress-marker||training-end||1||1
+2016-11-07 21:38:31.195815||treatment||visit website||http://nclr.org||2||1
+2016-11-07 21:38:31.196864||event||progress-marker||training-end||2||1
+2016-11-07 21:38:33.585018||event||progress-marker||measurement-start||1||1
+2016-11-07 21:38:33.860399||event||progress-marker||measurement-start||3||0
+2016-11-07 21:38:35.101922||event||progress-marker||measurement-start||0||0
+2016-11-07 21:38:36.201397||event||progress-marker||measurement-start||2||1
+2016-11-07 21:39:45.897871||meta||block_id end||3

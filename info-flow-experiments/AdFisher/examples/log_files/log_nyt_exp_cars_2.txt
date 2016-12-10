@@ -1,0 +1,943 @@
+2016-11-06 01:42:24.249829||meta||agents||8
+2016-11-06 01:42:24.249868||meta||treatnames||control@|experimental
+2016-11-06 01:42:24.249954||meta||block_id start||0
+2016-11-06 01:42:24.249963||meta||assignment||1@|0@|6@|7@|4@|2@|3@|5
+2016-11-06 01:42:50.587397||event||progress-marker||training-start||5||1
+2016-11-06 01:42:50.641305||event||progress-marker||training-start||2||1
+2016-11-06 01:42:50.900203||event||progress-marker||training-start||3||1
+2016-11-06 01:42:50.906494||event||progress-marker||training-start||7||0
+2016-11-06 01:42:50.907433||event||progress-marker||training-end||7||0
+2016-11-06 01:42:50.946739||event||progress-marker||training-start||0||0
+2016-11-06 01:42:50.947805||event||progress-marker||training-end||0||0
+2016-11-06 01:42:50.974303||event||progress-marker||training-start||4||1
+2016-11-06 01:42:51.047124||event||progress-marker||training-start||6||0
+2016-11-06 01:42:51.048195||event||progress-marker||training-end||6||0
+2016-11-06 01:42:51.091696||event||progress-marker||training-start||1||0
+2016-11-06 01:42:51.092796||event||progress-marker||training-end||1||0
+2016-11-06 01:43:28.670282||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 01:43:29.101391||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:43:29.384615||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 01:43:36.616173||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 01:44:07.326198||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 01:44:07.866590||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 01:44:10.608416||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:44:10.993743||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 01:44:49.755819||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 01:44:59.876659||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 01:45:01.060769||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:45:03.326913||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 01:45:27.016420||treatment||visit website||http://ford.com||4||1
+2016-11-06 01:45:48.099935||treatment||visit website||http://ford.com||5||1
+2016-11-06 01:45:49.223717||treatment||visit website||http://ford.com||2||1
+2016-11-06 01:45:54.709228||treatment||visit website||http://autoblog.com||4||1
+2016-11-06 01:45:54.710349||event||progress-marker||training-end||4||1
+2016-11-06 01:46:11.528656||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 01:46:11.529818||event||progress-marker||training-end||5||1
+2016-11-06 01:46:14.292104||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:46:26.888509||treatment||visit website||http://autoblog.com||2||1
+2016-11-06 01:46:26.890817||event||progress-marker||training-end||2||1
+2016-11-06 01:46:39.541611||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:46:39.542711||event||progress-marker||training-end||3||1
+2016-11-06 01:46:39.762775||event||progress-marker||measurement-start||4||1
+2016-11-06 01:46:41.152062||event||progress-marker||measurement-start||7||0
+2016-11-06 01:46:41.184690||event||progress-marker||measurement-start||0||0
+2016-11-06 01:46:41.312371||event||progress-marker||measurement-start||6||0
+2016-11-06 01:46:41.328400||event||progress-marker||measurement-start||1||0
+2016-11-06 01:46:41.559187||event||progress-marker||measurement-start||5||1
+2016-11-06 01:46:41.912872||event||progress-marker||measurement-start||2||1
+2016-11-06 01:46:44.549636||event||progress-marker||measurement-start||3||1
+2016-11-06 01:49:38.860474||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:49:42.044942||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:49:44.789890||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:49:54.085511||event||progress-marker||measurement-end||3||1
+2016-11-06 01:49:55.848207||event||progress-marker||measurement-end||4||1
+2016-11-06 01:49:58.878649||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:12.792132||event||progress-marker||measurement-end||5||1
+2016-11-06 01:50:14.926052||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:15.746811||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:15.924931||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:15.939882||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:15.959617||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:16.130309||measurement||news||2016-11-06 01:48:41.337384@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:50:16.131985||event||progress-marker||measurement-end||2||1
+2016-11-06 01:50:16.549298||meta||block_id end||0
+2016-11-06 01:50:16.553222||meta||block_id start||1
+2016-11-06 01:50:16.553288||meta||assignment||1@|0@|5@|6@|3@|2@|7@|4
+2016-11-06 01:50:47.593979||event||progress-marker||training-start||2||1
+2016-11-06 01:50:49.313065||event||progress-marker||training-start||5||0
+2016-11-06 01:50:49.315030||event||progress-marker||training-end||5||0
+2016-11-06 01:50:49.385014||event||progress-marker||training-start||1||0
+2016-11-06 01:50:49.387318||event||progress-marker||training-end||1||0
+2016-11-06 01:50:49.544591||event||progress-marker||training-start||0||0
+2016-11-06 01:50:49.545621||event||progress-marker||training-end||0||0
+2016-11-06 01:50:49.548119||event||progress-marker||training-start||3||1
+2016-11-06 01:50:49.614655||event||progress-marker||training-start||6||0
+2016-11-06 01:50:49.620250||event||progress-marker||training-end||6||0
+2016-11-06 01:50:49.735920||event||progress-marker||training-start||7||1
+2016-11-06 01:50:49.764680||event||progress-marker||training-start||4||1
+2016-11-06 01:51:24.188981||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 01:51:25.036540||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:51:25.463779||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:51:25.560472||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 01:52:02.678236||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:52:03.844164||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 01:52:04.110388||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:52:04.132472||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 01:52:44.727807||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 01:52:48.035141||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:52:50.904244||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:52:55.576389||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 01:53:22.724529||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:53:35.304752||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:54:03.958077||treatment||visit website||http://autoblog.com||7||1
+2016-11-06 01:54:03.959267||event||progress-marker||training-end||7||1
+2016-11-06 01:54:06.305133||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:54:06.306197||event||progress-marker||training-end||3||1
+2016-11-06 01:54:18.487321||treatment||visit website||http://ford.com||2||1
+2016-11-06 01:54:21.304088||treatment||visit website||http://ford.com||4||1
+2016-11-06 01:55:04.140263||error||website timeout||http://autoblog.com||2||1
+2016-11-06 01:55:04.141692||event||progress-marker||training-end||2||1
+2016-11-06 01:55:08.385529||error||website timeout||http://autoblog.com||4||1
+2016-11-06 01:55:08.394843||event||progress-marker||training-end||4||1
+2016-11-06 01:55:09.036485||event||progress-marker||measurement-start||7||1
+2016-11-06 01:55:09.149767||event||progress-marker||measurement-start||2||1
+2016-11-06 01:55:09.628775||event||progress-marker||measurement-start||5||0
+2016-11-06 01:55:09.660340||event||progress-marker||measurement-start||1||0
+2016-11-06 01:55:09.819414||event||progress-marker||measurement-start||0||0
+2016-11-06 01:55:09.912640||event||progress-marker||measurement-start||6||0
+2016-11-06 01:55:11.377120||event||progress-marker||measurement-start||3||1
+2016-11-06 01:55:13.400982||event||progress-marker||measurement-start||4||1
+2016-11-06 01:56:18.653486||event||progress-marker||measurement-end||2||1
+2016-11-06 01:56:24.265652||event||progress-marker||measurement-end||4||1
+2016-11-06 01:57:03.177250||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:03.712655||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:04.536187||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:05.367689||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:06.167792||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:06.991014||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:07.425744||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:07.669781||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:08.291772||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:08.813989||measurement||news||2016-11-06 01:56:01.766281@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:57:08.815242||event||progress-marker||measurement-end||3||1
+2016-11-06 01:57:15.802370||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:15.858337||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.092071||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.115145||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.136949||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.163545||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.342290||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.370461||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.382814||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.396369||measurement||news||2016-11-06 01:56:59.733649@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:57:16.397610||event||progress-marker||measurement-end||7||1
+2016-11-06 01:57:16.750593||meta||block_id end||1
+2016-11-06 01:57:16.750825||meta||block_id start||2
+2016-11-06 01:57:16.750840||meta||assignment||7@|5@|2@|4@|3@|1@|0@|6
+2016-11-06 01:57:43.092029||event||progress-marker||training-start||5||0
+2016-11-06 01:57:43.094114||event||progress-marker||training-end||5||0
+2016-11-06 01:57:43.495193||event||progress-marker||training-start||1||1
+2016-11-06 01:57:43.505974||event||progress-marker||training-start||0||1
+2016-11-06 01:57:43.542475||event||progress-marker||training-start||4||0
+2016-11-06 01:57:43.543970||event||progress-marker||training-end||4||0
+2016-11-06 01:57:43.568836||event||progress-marker||training-start||3||1
+2016-11-06 01:57:43.716832||event||progress-marker||training-start||7||0
+2016-11-06 01:57:43.718256||event||progress-marker||training-end||7||0
+2016-11-06 01:57:43.804456||event||progress-marker||training-start||2||0
+2016-11-06 01:57:43.805485||event||progress-marker||training-end||2||0
+2016-11-06 01:57:43.886335||event||progress-marker||training-start||6||1
+2016-11-06 01:58:15.701631||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:58:16.272553||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:58:16.759967||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 01:58:17.601483||treatment||visit website||http://jalopnik.com||6||1
+2016-11-06 01:58:51.818293||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:58:52.324600||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:58:52.416360||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 01:58:53.116048||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 01:59:23.841631||treatment||visit website||http://popularmechanics.com||6||1
+2016-11-06 01:59:26.789610||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:59:38.316595||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 01:59:42.112115||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:59:49.636299||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:00:11.112533||treatment||visit website||http://ford.com||6||1
+2016-11-06 01:00:17.616033||treatment||visit website||http://ford.com||0||1
+2016-11-06 01:00:20.093014||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:00:26.604686||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:00:26.605865||event||progress-marker||training-end||1||1
+2016-11-06 01:00:32.728103||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 01:00:32.728947||event||progress-marker||training-end||6||1
+2016-11-06 01:00:34.805398||treatment||visit website||http://autoblog.com||0||1
+2016-11-06 01:00:34.806270||event||progress-marker||training-end||0||1
+2016-11-06 01:00:39.417257||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:00:39.418165||event||progress-marker||training-end||3||1
+2016-11-06 01:00:39.813596||event||progress-marker||measurement-start||0||1
+2016-11-06 01:00:41.634741||event||progress-marker||measurement-start||1||1
+2016-11-06 01:00:42.740569||event||progress-marker||measurement-start||6||1
+2016-11-06 01:00:43.334837||event||progress-marker||measurement-start||5||0
+2016-11-06 01:00:43.746860||event||progress-marker||measurement-start||4||0
+2016-11-06 01:00:43.928813||event||progress-marker||measurement-start||7||0
+2016-11-06 01:00:44.008649||event||progress-marker||measurement-start||2||0
+2016-11-06 01:00:44.424500||event||progress-marker||measurement-start||3||1
+2016-11-06 01:02:01.880920||event||progress-marker||measurement-end||0||1
+2016-11-06 01:02:45.306891||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:02:48.156463||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:02:55.062500||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:13.666498||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:14.989960||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:15.753701||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:16.476484||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:17.238790||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:18.028204||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:19.096536||measurement||news||2016-11-06 01:01:39.186177@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:03:19.097654||event||progress-marker||measurement-end||3||1
+2016-11-06 01:03:24.578115||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:26.315395||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:27.795741||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:28.365240||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:28.768934||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:29.023543||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:29.273088||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:29.721681||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:30.256532||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:30.590577||measurement||news||2016-11-06 01:02:30.403281@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||6||1
+2016-11-06 01:03:30.591488||event||progress-marker||measurement-end||6||1
+2016-11-06 01:03:39.676491||event||progress-marker||measurement-end||1||1
+2016-11-06 01:03:40.172981||meta||block_id end||2
+2016-11-06 01:03:40.183953||meta||block_id start||3
+2016-11-06 01:03:40.184017||meta||assignment||2@|4@|3@|6@|1@|7@|5@|0
+2016-11-06 01:04:07.871845||event||progress-marker||training-start||4||0
+2016-11-06 01:04:07.876758||event||progress-marker||training-end||4||0
+2016-11-06 01:04:07.914999||event||progress-marker||training-start||5||1
+2016-11-06 01:04:07.971957||event||progress-marker||training-start||3||0
+2016-11-06 01:04:07.973153||event||progress-marker||training-end||3||0
+2016-11-06 01:04:08.117506||event||progress-marker||training-start||2||0
+2016-11-06 01:04:08.119406||event||progress-marker||training-end||2||0
+2016-11-06 01:04:08.184048||event||progress-marker||training-start||6||0
+2016-11-06 01:04:08.184939||event||progress-marker||training-end||6||0
+2016-11-06 01:04:08.408174||event||progress-marker||training-start||0||1
+2016-11-06 01:04:08.475041||event||progress-marker||training-start||7||1
+2016-11-06 01:04:08.704220||event||progress-marker||training-start||1||1
+2016-11-06 01:04:42.366357||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 01:04:42.958370||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:04:43.123391||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:04:43.372621||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 01:05:18.693895||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 01:05:19.055937||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:05:19.679384||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:05:19.961999||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 01:05:48.352176||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 01:05:55.961224||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 01:05:58.561915||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:06:01.916485||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:06:34.796451||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:06:40.596503||treatment||visit website||http://ford.com||5||1
+2016-11-06 01:06:48.683373||treatment||visit website||http://ford.com||0||1
+2016-11-06 01:06:55.530836||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:07:01.820354||treatment||visit website||http://autoblog.com||7||1
+2016-11-06 01:07:01.821396||event||progress-marker||training-end||7||1
+2016-11-06 01:07:09.967898||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 01:07:09.968787||event||progress-marker||training-end||5||1
+2016-11-06 01:07:16.200900||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:07:16.204190||event||progress-marker||training-end||1||1
+2016-11-06 01:16:27.079010||error||website timeout||http://autoblog.com||0||1
+2016-11-06 01:16:27.080927||event||progress-marker||training-end||0||1
+2016-11-06 01:16:27.692850||event||progress-marker||measurement-start||7||1
+2016-11-06 01:16:28.922018||event||progress-marker||measurement-start||4||0
+2016-11-06 01:16:28.979602||event||progress-marker||measurement-start||3||0
+2016-11-06 01:16:29.110546||event||progress-marker||measurement-start||2||0
+2016-11-06 01:16:29.261140||event||progress-marker||measurement-start||6||0
+2016-11-06 01:16:30.758460||event||progress-marker||measurement-start||5||1
+2016-11-06 01:16:32.018219||event||progress-marker||measurement-start||1||1
+2016-11-06 01:16:32.089062||event||progress-marker||measurement-start||0||1
+2016-11-06 01:18:23.548079||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:24.421520||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:24.943406||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:25.346707||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:25.401385||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:25.427867||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:26.081082||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:26.837895||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:27.322860||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:28.096273||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:28.615320||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:29.827181||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:30.205175||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:31.688784||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:32.374852||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:33.303795||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:33.654292||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:34.456685||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:34.850633||measurement||news||2016-11-06 01:17:42.935133@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||3||0
+2016-11-06 01:18:34.852238||event||progress-marker||measurement-end||3||0
+2016-11-06 01:18:35.541010||measurement||news||2016-11-06 01:17:44.946095@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||2||0
+2016-11-06 01:18:35.542183||event||progress-marker||measurement-end||2||0
+2016-11-06 01:18:46.396612||event||progress-marker||measurement-end||0||1
+2016-11-06 01:18:46.813300||meta||block_id end||3
+2016-11-06 01:18:46.835877||meta||block_id start||4
+2016-11-06 01:18:46.835925||meta||assignment||6@|2@|0@|4@|3@|1@|7@|5
+2016-11-06 01:19:11.738166||event||progress-marker||training-start||5||1
+2016-11-06 01:19:12.159791||event||progress-marker||training-start||4||0
+2016-11-06 01:19:12.161020||event||progress-marker||training-end||4||0
+2016-11-06 01:19:12.237190||event||progress-marker||training-start||3||1
+2016-11-06 01:19:12.269677||event||progress-marker||training-start||6||0
+2016-11-06 01:19:12.269809||event||progress-marker||training-end||6||0
+2016-11-06 01:19:12.410604||event||progress-marker||training-start||1||1
+2016-11-06 01:19:12.533141||event||progress-marker||training-start||7||1
+2016-11-06 01:19:12.561651||event||progress-marker||training-start||0||0
+2016-11-06 01:19:12.562880||event||progress-marker||training-end||0||0
+2016-11-06 01:19:12.624898||event||progress-marker||training-start||2||0
+2016-11-06 01:19:12.626241||event||progress-marker||training-end||2||0
+2016-11-06 01:19:46.759848||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 01:19:46.942190||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:19:47.348983||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:19:50.707376||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:20:22.516137||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:20:23.494679||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 01:20:23.612524||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:20:26.148038||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:20:59.075362||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:21:04.610653||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:21:05.412255||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 01:21:11.056962||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:21:41.462221||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:21:49.049347||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:21:58.904013||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:22:00.523932||treatment||visit website||http://ford.com||5||1
+2016-11-06 01:22:02.856509||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:22:02.857429||event||progress-marker||training-end||1||1
+2016-11-06 01:22:08.420400||treatment||visit website||http://autoblog.com||7||1
+2016-11-06 01:22:08.421817||event||progress-marker||training-end||7||1
+2016-11-06 01:22:17.318518||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:22:17.319367||event||progress-marker||training-end||3||1
+2016-11-06 01:22:26.635879||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 01:22:26.636779||event||progress-marker||training-end||5||1
+2016-11-06 01:22:27.338556||event||progress-marker||measurement-start||3||1
+2016-11-06 01:22:27.470504||event||progress-marker||measurement-start||4||0
+2016-11-06 01:22:27.519008||event||progress-marker||measurement-start||6||0
+2016-11-06 01:22:27.813341||event||progress-marker||measurement-start||0||0
+2016-11-06 01:22:27.879697||event||progress-marker||measurement-start||2||0
+2016-11-06 01:22:27.890220||event||progress-marker||measurement-start||1||1
+2016-11-06 01:22:28.447258||event||progress-marker||measurement-start||7||1
+2016-11-06 01:22:31.641799||event||progress-marker||measurement-start||5||1
+2016-11-06 01:24:57.843713||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:00.453400||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:09.544186||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:40.329828||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:42.165828||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:43.880181||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:46.272447||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:46.892741||event||progress-marker||measurement-end||7||1
+2016-11-06 01:25:48.268175||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:50.277493||event||progress-marker||measurement-end||3||1
+2016-11-06 01:25:50.468197||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:52.477414||measurement||news||2016-11-06 01:24:08.410794@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:25:52.487796||event||progress-marker||measurement-end||1||1
+2016-11-06 01:26:05.195722||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.209102||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.229378||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.254031||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.422724||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.566045||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.614155||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.639618||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.654380||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.678491||measurement||news||2016-11-06 01:25:51.972683@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||5||1
+2016-11-06 01:26:05.678568||event||progress-marker||measurement-end||5||1
+2016-11-06 01:26:06.217043||meta||block_id end||4
+2016-11-06 01:26:06.261510||meta||block_id start||5
+2016-11-06 01:26:06.261572||meta||assignment||5@|0@|6@|2@|3@|7@|4@|1
+2016-11-06 01:26:34.080927||event||progress-marker||training-start||4||1
+2016-11-06 01:26:34.177483||event||progress-marker||training-start||5||0
+2016-11-06 01:26:34.178703||event||progress-marker||training-end||5||0
+2016-11-06 01:26:34.290099||event||progress-marker||training-start||0||0
+2016-11-06 01:26:34.292913||event||progress-marker||training-end||0||0
+2016-11-06 01:26:34.646711||event||progress-marker||training-start||7||1
+2016-11-06 01:26:34.690515||event||progress-marker||training-start||1||1
+2016-11-06 01:26:34.717646||event||progress-marker||training-start||2||0
+2016-11-06 01:26:34.718662||event||progress-marker||training-end||2||0
+2016-11-06 01:26:34.747267||event||progress-marker||training-start||3||1
+2016-11-06 01:26:34.787368||event||progress-marker||training-start||6||0
+2016-11-06 01:26:34.787502||event||progress-marker||training-end||6||0
+2016-11-06 01:27:08.224773||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:27:08.770295||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 01:27:08.804017||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:27:08.995722||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:27:44.126972||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:27:44.277193||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 01:27:44.544618||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:27:44.793107||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:28:23.917646||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:28:28.041290||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:28:31.794328||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:28:33.360791||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 01:29:14.598181||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:29:18.457298||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:29:26.053652||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:29:35.064549||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:29:35.066870||event||progress-marker||training-end||3||1
+2016-11-06 01:29:40.028013||treatment||visit website||http://autoblog.com||7||1
+2016-11-06 01:29:40.029210||event||progress-marker||training-end||7||1
+2016-11-06 01:29:46.341247||treatment||visit website||http://ford.com||4||1
+2016-11-06 01:29:46.769304||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:29:46.773789||event||progress-marker||training-end||1||1
+2016-11-06 01:30:32.115058||error||website timeout||http://autoblog.com||4||1
+2016-11-06 01:30:32.116475||event||progress-marker||training-end||4||1
+2016-11-06 01:30:34.580912||event||progress-marker||measurement-start||5||0
+2016-11-06 01:30:34.623764||event||progress-marker||measurement-start||0||0
+2016-11-06 01:30:35.103729||event||progress-marker||measurement-start||7||1
+2016-11-06 01:30:35.118280||event||progress-marker||measurement-start||6||0
+2016-11-06 01:30:35.139182||event||progress-marker||measurement-start||3||1
+2016-11-06 01:30:35.202002||event||progress-marker||measurement-start||2||0
+2016-11-06 01:30:36.842748||event||progress-marker||measurement-start||1||1
+2016-11-06 01:30:37.123811||event||progress-marker||measurement-start||4||1
+2016-11-06 01:31:55.984839||event||progress-marker||measurement-end||7||1
+2016-11-06 01:32:50.508728||event||progress-marker||measurement-end||4||1
+2016-11-06 01:32:51.174391||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:52.752634||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:54.219606||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:54.717952||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:54.755476||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:55.269917||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:55.777964||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:55.830343||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:56.461251||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:56.811502||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:57.062755||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:57.434761||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:57.975199||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:58.179852||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:58.815168||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:58.914798||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:32:59.349653||measurement||news||2016-11-06 01:31:26.193140@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||1||1
+2016-11-06 01:32:59.351690||event||progress-marker||measurement-end||1||1
+2016-11-06 01:33:00.413429||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:33:00.631032||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:33:00.768930||measurement||news||2016-11-06 01:31:38.599645@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||3||1
+2016-11-06 01:33:00.769013||event||progress-marker||measurement-end||3||1
+2016-11-06 01:33:01.217396||meta||block_id end||5
+2016-11-06 01:33:01.217742||meta||block_id start||6
+2016-11-06 01:33:01.217772||meta||assignment||1@|4@|6@|5@|2@|7@|3@|0
+2016-11-06 01:33:26.903217||event||progress-marker||training-start||4||0
+2016-11-06 01:33:26.904968||event||progress-marker||training-end||4||0
+2016-11-06 01:33:27.156090||event||progress-marker||training-start||6||0
+2016-11-06 01:33:27.157884||event||progress-marker||training-end||6||0
+2016-11-06 01:33:27.205321||event||progress-marker||training-start||0||1
+2016-11-06 01:33:27.651053||event||progress-marker||training-start||5||0
+2016-11-06 01:33:27.652295||event||progress-marker||training-end||5||0
+2016-11-06 01:33:27.974453||event||progress-marker||training-start||3||1
+2016-11-06 01:33:28.155181||event||progress-marker||training-start||2||1
+2016-11-06 01:33:28.164048||event||progress-marker||training-start||1||0
+2016-11-06 01:33:28.165670||event||progress-marker||training-end||1||0
+2016-11-06 01:33:28.201082||event||progress-marker||training-start||7||1
+2016-11-06 01:34:01.385388||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 01:34:02.088953||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:34:02.294300||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 01:34:02.560861||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:34:37.856662||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:34:38.349119||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 01:34:39.524068||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 01:34:40.062142||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:35:13.281451||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:35:15.565882||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 01:35:19.993308||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 01:35:25.837868||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:36:16.595655||treatment||visit website||http://ford.com||2||1
+2016-11-06 01:36:24.073892||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:36:24.921222||treatment||visit website||http://ford.com||0||1
+2016-11-06 01:36:36.475815||treatment||visit website||http://autoblog.com||2||1
+2016-11-06 01:36:36.478734||event||progress-marker||training-end||2||1
+2016-11-06 01:36:44.446087||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 01:36:44.447669||event||progress-marker||training-end||3||1
+2016-11-06 01:36:47.601564||treatment||visit website||http://autoblog.com||0||1
+2016-11-06 01:36:47.602399||event||progress-marker||training-end||0||1
+2016-11-06 01:36:55.317022||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:37:46.176212||error||website timeout||http://autoblog.com||7||1
+2016-11-06 01:37:46.177609||event||progress-marker||training-end||7||1
+2016-11-06 01:37:46.595411||event||progress-marker||measurement-start||2||1
+2016-11-06 01:37:47.302260||event||progress-marker||measurement-start||4||0
+2016-11-06 01:37:47.558809||event||progress-marker||measurement-start||6||0
+2016-11-06 01:37:47.683547||event||progress-marker||measurement-start||0||1
+2016-11-06 01:37:48.039175||event||progress-marker||measurement-start||5||0
+2016-11-06 01:37:48.521320||event||progress-marker||measurement-start||1||0
+2016-11-06 01:37:49.551271||event||progress-marker||measurement-start||3||1
+2016-11-06 01:37:51.191718||event||progress-marker||measurement-start||7||1
+2016-11-06 01:40:13.159896||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:16.880254||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:19.285865||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:22.273414||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:24.250647||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:25.697655||event||progress-marker||measurement-end||3||1
+2016-11-06 01:40:26.236991||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:26.978014||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:28.299720||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:29.944664||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:30.000817||event||progress-marker||measurement-end||2||1
+2016-11-06 01:40:32.468217||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:33.267589||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:34.163519||measurement||news||2016-11-06 01:38:21.756708@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||7||1
+2016-11-06 01:40:34.164575||event||progress-marker||measurement-end||7||1
+2016-11-06 01:40:34.576944||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:35.388125||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:35.572271||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:35.663016||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:35.697382||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:35.988467||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:36.043159||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:36.214558||measurement||news||2016-11-06 01:38:54.348259@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||0||1
+2016-11-06 01:40:36.216292||event||progress-marker||measurement-end||0||1
+2016-11-06 01:40:36.614415||meta||block_id end||6
+2016-11-06 01:40:36.622850||meta||block_id start||7
+2016-11-06 01:40:36.627658||meta||assignment||1@|4@|0@|3@|7@|6@|2@|5
+2016-11-06 01:41:04.621512||event||progress-marker||training-start||3||0
+2016-11-06 01:41:04.633900||event||progress-marker||training-end||3||0
+2016-11-06 01:41:04.730423||event||progress-marker||training-start||2||1
+2016-11-06 01:41:04.786331||event||progress-marker||training-start||1||0
+2016-11-06 01:41:04.795150||event||progress-marker||training-end||1||0
+2016-11-06 01:41:05.071794||event||progress-marker||training-start||7||1
+2016-11-06 01:41:05.085149||event||progress-marker||training-start||5||1
+2016-11-06 01:41:05.229775||event||progress-marker||training-start||0||0
+2016-11-06 01:41:05.231642||event||progress-marker||training-end||0||0
+2016-11-06 01:41:05.238187||event||progress-marker||training-start||6||1
+2016-11-06 01:41:05.396408||event||progress-marker||training-start||4||0
+2016-11-06 01:41:05.397455||event||progress-marker||training-end||4||0
+2016-11-06 01:41:38.117560||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 01:41:38.961124||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 01:41:40.099589||treatment||visit website||http://jalopnik.com||6||1
+2016-11-06 01:41:40.576611||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:42:16.990158||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 01:42:17.629019||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 01:42:17.648655||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:42:18.836909||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 01:42:52.708721||treatment||visit website||http://popularmechanics.com||6||1
+2016-11-06 01:42:59.357966||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 01:43:05.634701||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 01:43:09.590973||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:43:48.612899||treatment||visit website||http://ford.com||6||1
+2016-11-06 01:43:48.983965||treatment||visit website||http://ford.com||5||1
+2016-11-06 01:44:25.390475||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:44:30.345520||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 01:44:30.349540||event||progress-marker||training-end||6||1
+2016-11-06 01:44:30.984842||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 01:44:30.985638||event||progress-marker||training-end||5||1
+2016-11-06 01:44:46.071105||treatment||visit website||http://ford.com||2||1
+2016-11-06 01:45:13.279772||error||website timeout||http://autoblog.com||7||1
+2016-11-06 01:45:13.282335||event||progress-marker||training-end||7||1
+2016-11-06 01:45:37.969277||error||website timeout||http://autoblog.com||2||1
+2016-11-06 01:45:37.970778||event||progress-marker||training-end||2||1
+2016-11-06 01:45:38.327126||event||progress-marker||measurement-start||7||1
+2016-11-06 01:45:40.030734||event||progress-marker||measurement-start||3||0
+2016-11-06 01:45:40.283601||event||progress-marker||measurement-start||1||0
+2016-11-06 01:45:40.465248||event||progress-marker||measurement-start||6||1
+2016-11-06 01:45:40.654975||event||progress-marker||measurement-start||0||0
+2016-11-06 01:45:40.816950||event||progress-marker||measurement-start||4||0
+2016-11-06 01:45:41.083642||event||progress-marker||measurement-start||5||1
+2016-11-06 01:45:42.982389||event||progress-marker||measurement-start||2||1
+2016-11-06 01:48:18.535773||event||progress-marker||measurement-end||7||1
+2016-11-06 01:48:28.127456||event||progress-marker||measurement-end||5||1
+2016-11-06 01:48:28.844509||event||progress-marker||measurement-end||2||1
+2016-11-06 01:48:31.435139||event||progress-marker||measurement-end||6||1
+2016-11-06 01:48:32.272043||meta||block_id end||7
+2016-11-06 01:48:32.285629||meta||block_id start||8
+2016-11-06 01:48:32.285675||meta||assignment||6@|3@|5@|4@|2@|7@|0@|1
+2016-11-06 01:48:59.659004||event||progress-marker||training-start||6||0
+2016-11-06 01:48:59.664823||event||progress-marker||training-end||6||0
+2016-11-06 01:49:00.185485||event||progress-marker||training-start||3||0
+2016-11-06 01:49:00.186412||event||progress-marker||training-end||3||0
+2016-11-06 01:49:00.375078||event||progress-marker||training-start||5||0
+2016-11-06 01:49:00.376423||event||progress-marker||training-end||5||0
+2016-11-06 01:49:00.537822||event||progress-marker||training-start||1||1
+2016-11-06 01:49:00.561422||event||progress-marker||training-start||7||1
+2016-11-06 01:49:00.576595||event||progress-marker||training-start||2||1
+2016-11-06 01:49:00.894301||event||progress-marker||training-start||0||1
+2016-11-06 01:49:00.912667||event||progress-marker||training-start||4||0
+2016-11-06 01:49:00.913595||event||progress-marker||training-end||4||0
+2016-11-06 01:49:34.375500||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 01:49:34.408894||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 01:49:34.430499||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:49:35.105792||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:50:09.295830||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:50:09.518958||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 01:50:10.834089||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 01:50:12.833975||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:50:46.246118||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:50:48.454266||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 01:50:52.185680||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 01:51:00.635471||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:51:54.705854||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:52:13.493375||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:52:13.497414||event||progress-marker||training-end||1||1
+2016-11-06 01:52:15.678189||error||website timeout||http://ford.com||0||1
+2016-11-06 01:52:20.245864||error||website timeout||http://ford.com||2||1
+2016-11-06 01:52:28.348003||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:53:05.328955||error||website timeout||http://autoblog.com||0||1
+2016-11-06 01:53:05.330383||event||progress-marker||training-end||0||1
+2016-11-06 01:53:11.699497||error||website timeout||http://autoblog.com||2||1
+2016-11-06 01:53:11.701364||event||progress-marker||training-end||2||1
+2016-11-06 01:53:15.486352||error||website timeout||http://autoblog.com||7||1
+2016-11-06 01:53:15.487742||event||progress-marker||training-end||7||1
+2016-11-06 01:53:15.599399||event||progress-marker||measurement-start||3||0
+2016-11-06 01:53:15.814721||event||progress-marker||measurement-start||5||0
+2016-11-06 01:53:16.302692||event||progress-marker||measurement-start||4||0
+2016-11-06 01:53:16.711743||event||progress-marker||measurement-start||2||1
+2016-11-06 01:53:18.635766||event||progress-marker||measurement-start||1||1
+2016-11-06 01:53:20.130422||event||progress-marker||measurement-start||6||0
+2016-11-06 01:53:20.359137||event||progress-marker||measurement-start||0||1
+2016-11-06 01:53:20.518292||event||progress-marker||measurement-start||7||1
+2016-11-06 01:54:22.141706||event||progress-marker||measurement-end||0||1
+2016-11-06 01:54:37.612792||event||progress-marker||measurement-end||7||1
+2016-11-06 01:54:55.470350||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:54:58.798560||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:12.664034||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:13.518469||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:14.231344||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:15.028922||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:15.355162||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:15.781276||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:15.832655||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:16.175084||measurement||news||2016-11-06 01:53:43.602717@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||2||1
+2016-11-06 01:55:16.176475||event||progress-marker||measurement-end||2||1
+2016-11-06 01:55:23.569734||event||progress-marker||measurement-end||1||1
+2016-11-06 01:55:24.061879||meta||block_id end||8
+2016-11-06 01:55:24.067842||meta||block_id start||9
+2016-11-06 01:55:24.067902||meta||assignment||0@|5@|2@|4@|6@|1@|7@|3
+2016-11-06 01:55:50.917955||event||progress-marker||training-start||3||1
+2016-11-06 01:55:51.924382||event||progress-marker||training-start||0||0
+2016-11-06 01:55:51.925511||event||progress-marker||training-end||0||0
+2016-11-06 01:55:51.933636||event||progress-marker||training-start||7||1
+2016-11-06 01:55:51.985267||event||progress-marker||training-start||1||1
+2016-11-06 01:55:52.277664||event||progress-marker||training-start||4||0
+2016-11-06 01:55:52.279378||event||progress-marker||training-end||4||0
+2016-11-06 01:55:52.471634||event||progress-marker||training-start||2||0
+2016-11-06 01:55:52.472971||event||progress-marker||training-end||2||0
+2016-11-06 01:55:52.841935||event||progress-marker||training-start||6||1
+2016-11-06 01:55:52.853536||event||progress-marker||training-start||5||0
+2016-11-06 01:55:52.854878||event||progress-marker||training-end||5||0
+2016-11-06 01:56:25.913728||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 01:56:26.981861||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 01:56:27.252883||treatment||visit website||http://jalopnik.com||6||1
+2016-11-06 01:56:28.604624||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 01:57:03.701106||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 01:57:03.926909||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 01:57:05.074035||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 01:57:05.209905||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 01:57:38.260787||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 01:57:46.661099||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 01:57:49.749510||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 01:57:54.771777||error||website timeout||http://popularmechanics.com||6||1
+2016-11-06 01:58:17.281196||treatment||visit website||http://ford.com||6||1
+2016-11-06 01:58:32.657976||treatment||visit website||http://ford.com||1||1
+2016-11-06 01:58:37.861332||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 01:58:37.862310||event||progress-marker||training-end||6||1
+2016-11-06 01:58:52.298928||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 01:58:52.299840||event||progress-marker||training-end||1||1
+2016-11-06 01:59:03.594583||treatment||visit website||http://ford.com||7||1
+2016-11-06 01:59:15.878977||treatment||visit website||http://ford.com||3||1
+2016-11-06 01:59:52.921714||error||website timeout||http://autoblog.com||7||1
+2016-11-06 01:59:52.922930||event||progress-marker||training-end||7||1
+2016-11-06 02:00:00.917258||error||website timeout||http://autoblog.com||3||1
+2016-11-06 02:00:00.918576||event||progress-marker||training-end||3||1
+2016-11-06 02:00:02.369687||event||progress-marker||measurement-start||0||0
+2016-11-06 02:00:02.415467||event||progress-marker||measurement-start||1||1
+2016-11-06 02:00:02.683126||event||progress-marker||measurement-start||4||0
+2016-11-06 02:00:02.940454||event||progress-marker||measurement-start||7||1
+2016-11-06 02:00:02.967154||event||progress-marker||measurement-start||2||0
+2016-11-06 02:00:03.013124||event||progress-marker||measurement-start||6||1
+2016-11-06 02:00:03.250699||event||progress-marker||measurement-start||5||0
+2016-11-06 02:00:05.938756||event||progress-marker||measurement-start||3||1
+2016-11-06 02:02:21.948263||event||progress-marker||measurement-end||3||1
+2016-11-06 02:02:22.310364||event||progress-marker||measurement-end||7||1
+2016-11-06 02:02:24.248744||event||progress-marker||measurement-end||1||1
+2016-11-06 02:02:25.629869||meta||block_id end||9
+2016-11-06 02:02:25.631714||meta||block_id start||10
+2016-11-06 02:02:25.631753||meta||assignment||6@|7@|0@|2@|3@|5@|4@|1
+2016-11-06 02:02:54.414098||event||progress-marker||training-start||2||0
+2016-11-06 02:02:54.418625||event||progress-marker||training-end||2||0
+2016-11-06 02:02:54.624446||event||progress-marker||training-start||5||1
+2016-11-06 02:02:54.649417||event||progress-marker||training-start||7||0
+2016-11-06 02:02:54.651412||event||progress-marker||training-end||7||0
+2016-11-06 02:02:54.672968||event||progress-marker||training-start||0||0
+2016-11-06 02:02:54.673986||event||progress-marker||training-end||0||0
+2016-11-06 02:02:54.803553||event||progress-marker||training-start||1||1
+2016-11-06 02:02:54.852405||event||progress-marker||training-start||6||0
+2016-11-06 02:02:54.853780||event||progress-marker||training-end||6||0
+2016-11-06 02:02:55.019095||event||progress-marker||training-start||3||1
+2016-11-06 02:02:55.318678||event||progress-marker||training-start||4||1
+2016-11-06 02:03:28.272643||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 02:03:29.045485||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 02:03:29.178218||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 02:03:29.659243||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 02:04:05.024674||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 02:04:05.323123||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 02:04:06.185861||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 02:04:06.296437||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 02:04:42.925768||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 02:04:43.963540||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 02:04:47.225753||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 02:04:51.390576||treatment||visit website||http://popularmechanics.com||1||1
+2016-11-06 02:05:41.929529||treatment||visit website||http://ford.com||3||1
+2016-11-06 02:05:53.267595||treatment||visit website||http://ford.com||1||1
+2016-11-06 02:05:54.742246||treatment||visit website||http://ford.com||4||1
+2016-11-06 02:06:08.645262||treatment||visit website||http://autoblog.com||3||1
+2016-11-06 02:06:08.648613||event||progress-marker||training-end||3||1
+2016-11-06 02:06:14.858452||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 02:06:14.859548||event||progress-marker||training-end||1||1
+2016-11-06 02:06:17.503739||treatment||visit website||http://autoblog.com||4||1
+2016-11-06 02:06:17.504599||event||progress-marker||training-end||4||1
+2016-11-06 02:06:34.557460||treatment||visit website||http://ford.com||5||1
+2016-11-06 02:07:22.817158||error||website timeout||http://autoblog.com||5||1
+2016-11-06 02:07:22.818571||event||progress-marker||training-end||5||1
+2016-11-06 02:07:23.801910||event||progress-marker||measurement-start||3||1
+2016-11-06 02:07:24.949151||event||progress-marker||measurement-start||2||0
+2016-11-06 02:07:25.009270||event||progress-marker||measurement-start||1||1
+2016-11-06 02:07:25.159954||event||progress-marker||measurement-start||7||0
+2016-11-06 02:07:25.207910||event||progress-marker||measurement-start||0||0
+2016-11-06 02:07:25.361411||event||progress-marker||measurement-start||6||0
+2016-11-06 02:07:27.664716||event||progress-marker||measurement-start||4||1
+2016-11-06 02:07:27.832940||event||progress-marker||measurement-start||5||1
+2016-11-06 02:09:28.557264||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:30.454947||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:32.264854||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:35.279638||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:37.607304||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:39.702042||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:41.278257||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:09:47.559595||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:10:00.193720||event||progress-marker||measurement-end||4||1
+2016-11-06 02:10:08.602942||event||progress-marker||measurement-end||1||1
+2016-11-06 02:10:08.891860||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:10:09.462489||measurement||news||2016-11-06 02:08:06.745963@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:10:09.463561||event||progress-marker||measurement-end||5||1
+2016-11-06 02:10:11.114933||meta||block_id end||10
+2016-11-06 02:10:11.118569||meta||block_id start||11
+2016-11-06 02:10:11.118634||meta||assignment||2@|0@|1@|6@|5@|4@|7@|3
+2016-11-06 02:10:40.307828||event||progress-marker||training-start||7||1
+2016-11-06 02:10:40.830606||event||progress-marker||training-start||5||1
+2016-11-06 02:10:41.237518||event||progress-marker||training-start||2||0
+2016-11-06 02:10:41.238985||event||progress-marker||training-end||2||0
+2016-11-06 02:10:41.378928||event||progress-marker||training-start||0||0
+2016-11-06 02:10:41.379061||event||progress-marker||training-end||0||0
+2016-11-06 02:10:41.407481||event||progress-marker||training-start||4||1
+2016-11-06 02:10:41.581744||event||progress-marker||training-start||3||1
+2016-11-06 02:10:41.617001||event||progress-marker||training-start||1||0
+2016-11-06 02:10:41.620403||event||progress-marker||training-end||1||0
+2016-11-06 02:10:42.175086||event||progress-marker||training-start||6||0
+2016-11-06 02:10:42.177101||event||progress-marker||training-end||6||0
+2016-11-06 02:11:15.113169||treatment||visit website||http://jalopnik.com||7||1
+2016-11-06 02:11:16.182757||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 02:11:16.232962||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 02:11:16.395666||treatment||visit website||http://jalopnik.com||3||1
+2016-11-06 02:11:51.268344||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 02:11:51.424715||treatment||visit website||http://caranddriver.com||3||1
+2016-11-06 02:11:51.977205||treatment||visit website||http://caranddriver.com||7||1
+2016-11-06 02:11:53.070916||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 02:12:27.753114||treatment||visit website||http://popularmechanics.com||3||1
+2016-11-06 02:12:28.190052||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 02:12:29.161645||treatment||visit website||http://popularmechanics.com||7||1
+2016-11-06 02:12:38.390023||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 02:13:22.413235||treatment||visit website||http://ford.com||5||1
+2016-11-06 02:13:42.084940||error||website timeout||http://ford.com||3||1
+2016-11-06 02:13:43.694682||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 02:13:43.695534||event||progress-marker||training-end||5||1
+2016-11-06 02:13:53.445993||treatment||visit website||http://ford.com||4||1
+2016-11-06 02:13:58.288831||treatment||visit website||http://ford.com||7||1
+2016-11-06 02:14:36.853907||error||website timeout||http://autoblog.com||3||1
+2016-11-06 02:14:36.862430||event||progress-marker||training-end||3||1
+2016-11-06 02:14:39.604425||error||website timeout||http://autoblog.com||4||1
+2016-11-06 02:14:39.605690||event||progress-marker||training-end||4||1
+2016-11-06 02:14:45.935603||error||website timeout||http://autoblog.com||7||1
+2016-11-06 02:14:45.940360||event||progress-marker||training-end||7||1
+2016-11-06 02:14:46.765410||event||progress-marker||measurement-start||2||0
+2016-11-06 02:14:46.908555||event||progress-marker||measurement-start||3||1
+2016-11-06 02:14:46.952124||event||progress-marker||measurement-start||0||0
+2016-11-06 02:14:47.391339||event||progress-marker||measurement-start||1||0
+2016-11-06 02:14:47.611779||event||progress-marker||measurement-start||6||0
+2016-11-06 02:14:48.828184||event||progress-marker||measurement-start||5||1
+2016-11-06 02:14:49.636258||event||progress-marker||measurement-start||4||1
+2016-11-06 02:14:50.951868||event||progress-marker||measurement-start||7||1
+2016-11-06 02:15:59.466182||event||progress-marker||measurement-end||7||1
+2016-11-06 02:16:51.134802||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:51.948551||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:53.165714||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:54.408845||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:55.882163||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:56.575699||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:57.190661||event||progress-marker||measurement-end||3||1
+2016-11-06 02:16:57.276787||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:58.118704||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:16:59.056130||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:17:00.585449||measurement||news||2016-11-06 02:15:20.805564@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:17:00.587369||event||progress-marker||measurement-end||4||1
+2016-11-06 02:17:10.045575||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:10.321836||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:10.409232||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:10.468330||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:10.964790||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.013545||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.028195||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.044500||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.192722||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.222851||measurement||news||2016-11-06 02:16:52.995344@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:17:11.224284||event||progress-marker||measurement-end||5||1
+2016-11-06 02:17:11.595312||meta||block_id end||11
+2016-11-06 02:17:11.595651||meta||block_id start||12
+2016-11-06 02:17:11.595676||meta||assignment||1@|3@|7@|4@|0@|2@|5@|6
+2016-11-06 02:17:37.488189||event||progress-marker||training-start||0||1
+2016-11-06 02:17:37.745427||event||progress-marker||training-start||3||0
+2016-11-06 02:17:37.746834||event||progress-marker||training-end||3||0
+2016-11-06 02:17:37.759256||event||progress-marker||training-start||5||1
+2016-11-06 02:17:37.774760||event||progress-marker||training-start||6||1
+2016-11-06 02:17:37.819804||event||progress-marker||training-start||7||0
+2016-11-06 02:17:37.820768||event||progress-marker||training-end||7||0
+2016-11-06 02:17:37.922907||event||progress-marker||training-start||1||0
+2016-11-06 02:17:37.923931||event||progress-marker||training-end||1||0
+2016-11-06 02:17:37.976633||event||progress-marker||training-start||4||0
+2016-11-06 02:17:37.977499||event||progress-marker||training-end||4||0
+2016-11-06 02:17:38.014342||event||progress-marker||training-start||2||1
+2016-11-06 02:18:11.613833||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 02:18:11.652951||treatment||visit website||http://jalopnik.com||2||1
+2016-11-06 02:18:12.090952||treatment||visit website||http://jalopnik.com||6||1
+2016-11-06 02:18:12.513803||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 02:18:47.619795||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 02:18:47.662460||treatment||visit website||http://caranddriver.com||2||1
+2016-11-06 02:18:48.564610||treatment||visit website||http://caranddriver.com||6||1
+2016-11-06 02:18:49.257529||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 02:19:21.116814||treatment||visit website||http://popularmechanics.com||2||1
+2016-11-06 02:19:25.589721||treatment||visit website||http://popularmechanics.com||6||1
+2016-11-06 02:19:29.193954||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 02:19:32.478646||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 02:20:16.173166||treatment||visit website||http://ford.com||5||1
+2016-11-06 02:20:17.197014||treatment||visit website||http://ford.com||2||1
+2016-11-06 02:20:19.904820||treatment||visit website||http://ford.com||6||1
+2016-11-06 02:20:35.253741||treatment||visit website||http://autoblog.com||2||1
+2016-11-06 02:20:35.254881||event||progress-marker||training-end||2||1
+2016-11-06 02:20:36.482328||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 02:20:36.483176||event||progress-marker||training-end||5||1
+2016-11-06 02:20:38.485275||treatment||visit website||http://autoblog.com||6||1
+2016-11-06 02:20:38.487050||event||progress-marker||training-end||6||1
+2016-11-06 02:20:52.892773||treatment||visit website||http://ford.com||0||1
+2016-11-06 02:21:39.706109||error||website timeout||http://autoblog.com||0||1
+2016-11-06 02:21:39.709176||event||progress-marker||training-end||0||1
+2016-11-06 02:21:40.399734||event||progress-marker||measurement-start||2||1
+2016-11-06 02:21:41.606410||event||progress-marker||measurement-start||5||1
+2016-11-06 02:21:43.259879||event||progress-marker||measurement-start||3||0
+2016-11-06 02:21:43.359316||event||progress-marker||measurement-start||7||0
+2016-11-06 02:21:43.524102||event||progress-marker||measurement-start||4||0
+2016-11-06 02:21:43.565213||event||progress-marker||measurement-start||1||0
+2016-11-06 02:21:43.673628||event||progress-marker||measurement-start||6||1
+2016-11-06 02:21:44.720128||event||progress-marker||measurement-start||0||1
+2016-11-06 02:24:13.817857||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:16.838402||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:19.332975||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:21.834279||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:24.307295||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:26.178376||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:26.720603||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:29.545592||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:29.616187||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:31.140227||event||progress-marker||measurement-end||0||1
+2016-11-06 02:24:32.484585||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:34.530959||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:35.868020||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:38.349986||measurement||news||2016-11-06 02:22:32.466476@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||4||0
+2016-11-06 02:24:38.351730||event||progress-marker||measurement-end||4||0
+2016-11-06 02:24:39.889029||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:42.696566||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:42.915238||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:43.749769||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:43.850104||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:44.508415||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:44.635253||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:45.005764||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:45.069365||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:45.243872||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:45.583452||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:45.997211||measurement||news||2016-11-06 02:22:26.790988@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||6||1
+2016-11-06 02:24:45.998308||event||progress-marker||measurement-end||6||1
+2016-11-06 02:24:46.005885||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:46.398527||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:46.936158||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:47.018492||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:47.097199||measurement||news||2016-11-06 02:22:33.581029@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:24:47.098460||event||progress-marker||measurement-end||5||1
+2016-11-06 02:24:47.525842||meta||block_id end||12
+2016-11-06 02:24:47.537645||meta||block_id start||13
+2016-11-06 02:24:47.537729||meta||assignment||3@|7@|2@|6@|5@|1@|4@|0
+2016-11-06 02:25:15.738852||event||progress-marker||training-start||0||1
+2016-11-06 02:25:15.875522||event||progress-marker||training-start||2||0
+2016-11-06 02:25:15.881451||event||progress-marker||training-end||2||0
+2016-11-06 02:25:15.983848||event||progress-marker||training-start||4||1
+2016-11-06 02:25:16.165589||event||progress-marker||training-start||7||0
+2016-11-06 02:25:16.166524||event||progress-marker||training-end||7||0
+2016-11-06 02:25:16.185886||event||progress-marker||training-start||3||0
+2016-11-06 02:25:16.196247||event||progress-marker||training-end||3||0
+2016-11-06 02:25:16.237472||event||progress-marker||training-start||6||0
+2016-11-06 02:25:16.238407||event||progress-marker||training-end||6||0
+2016-11-06 02:25:16.346504||event||progress-marker||training-start||5||1
+2016-11-06 02:25:16.625870||event||progress-marker||training-start||1||1
+2016-11-06 02:25:47.152954||treatment||visit website||http://jalopnik.com||4||1
+2016-11-06 02:25:48.781255||treatment||visit website||http://jalopnik.com||5||1
+2016-11-06 02:25:48.932956||treatment||visit website||http://jalopnik.com||0||1
+2016-11-06 02:25:54.161363||treatment||visit website||http://jalopnik.com||1||1
+2016-11-06 02:26:20.546612||treatment||visit website||http://caranddriver.com||4||1
+2016-11-06 02:26:24.856800||treatment||visit website||http://caranddriver.com||0||1
+2016-11-06 02:26:26.164964||treatment||visit website||http://caranddriver.com||5||1
+2016-11-06 02:26:29.777609||treatment||visit website||http://caranddriver.com||1||1
+2016-11-06 02:26:53.405087||treatment||visit website||http://popularmechanics.com||4||1
+2016-11-06 02:27:03.065647||treatment||visit website||http://popularmechanics.com||0||1
+2016-11-06 02:27:10.506693||treatment||visit website||http://popularmechanics.com||5||1
+2016-11-06 02:27:21.116485||error||website timeout||http://popularmechanics.com||1||1
+2016-11-06 02:27:32.328034||treatment||visit website||http://ford.com||1||1
+2016-11-06 02:27:35.607246||treatment||visit website||http://ford.com||4||1
+2016-11-06 02:27:50.177207||treatment||visit website||http://ford.com||5||1
+2016-11-06 02:28:02.347304||treatment||visit website||http://autoblog.com||1||1
+2016-11-06 02:28:02.350890||event||progress-marker||training-end||1||1
+2016-11-06 02:28:08.531837||treatment||visit website||http://autoblog.com||4||1
+2016-11-06 02:28:08.532657||event||progress-marker||training-end||4||1
+2016-11-06 02:28:09.534797||treatment||visit website||http://autoblog.com||5||1
+2016-11-06 02:28:09.536439||event||progress-marker||training-end||5||1
+2016-11-06 02:28:24.212946||treatment||visit website||http://ford.com||0||1
+2016-11-06 02:29:10.250334||error||website timeout||http://autoblog.com||0||1
+2016-11-06 02:29:10.251906||event||progress-marker||training-end||0||1
+2016-11-06 02:29:11.465677||event||progress-marker||measurement-start||2||0
+2016-11-06 02:29:11.664865||event||progress-marker||measurement-start||7||0
+2016-11-06 02:29:11.771008||event||progress-marker||measurement-start||3||0
+2016-11-06 02:29:11.887815||event||progress-marker||measurement-start||6||0
+2016-11-06 02:29:12.544256||event||progress-marker||measurement-start||1||1
+2016-11-06 02:29:13.771961||event||progress-marker||measurement-start||4||1
+2016-11-06 02:29:14.686527||event||progress-marker||measurement-start||5||1
+2016-11-06 02:29:15.266176||event||progress-marker||measurement-start||0||1
+2016-11-06 02:31:03.906513||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:06.415691||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:08.723024||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:11.006729||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:14.221819||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:18.964800||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:37.798204||event||progress-marker||measurement-end||0||1
+2016-11-06 02:31:49.413867||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:50.499051||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:51.608264||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:52.426658||measurement||news||2016-11-06 02:29:54.772138@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||4||1
+2016-11-06 02:31:52.428818||event||progress-marker||measurement-end||4||1
+2016-11-06 02:31:54.875435||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:55.553633||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:56.126259||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:56.823995||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:57.629168||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:58.194693||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:59.035442||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:59.498577||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:31:59.917792||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:32:00.824943||measurement||news||2016-11-06 02:31:14.564273@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||1||1
+2016-11-06 02:32:00.826178||event||progress-marker||measurement-end||1||1
+2016-11-06 02:32:03.189882||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|2016 Election Forecast: Who Will Be President?@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.230102||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Presidential Election: A Closing Act, With Clinton, Trump and a Tiny ‘Future Construction Worker’@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.271486||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Latest Election Polls 2016@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.289605||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Donald Trump Rushed Offstage by Secret Service Agents@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.388105||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Big Names Campaigning for Hillary Clinton Underscore Donald Trump’s Isolation@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.402453||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Hillary Clinton Appears to Gain Late Momentum on Surge of Latino Voters@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.437104||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Clinton Has Solid Lead in Electoral College; Trump’s Winning Map Is Unclear@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.479424||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.496436||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|Chelsea Manning Tried Committing Suicide a Second Time in October@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.511342||measurement||news||2016-11-06 02:31:44.937865@|Recommended@|An 80-Year-Old Model Reshapes China’s Views on Aging@|NYTimes@|ago@|Body||5||1
+2016-11-06 02:32:03.512707||event||progress-marker||measurement-end||5||1
+2016-11-06 02:32:03.930838||meta||block_id end||13

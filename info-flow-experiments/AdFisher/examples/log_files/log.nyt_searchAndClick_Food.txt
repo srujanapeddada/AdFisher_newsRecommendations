@@ -1,0 +1,1485 @@
+2016-12-05 13:36:04.678036||meta||agents||4
+2016-12-05 13:36:04.678091||meta||treatnames||control@|experimental
+2016-12-05 13:36:04.678207||meta||block_id start||0
+2016-12-05 13:36:04.678221||meta||assignment||0@|1@|2@|3
+2016-12-05 13:36:17.378147||event||progress-marker||training-start||0||0
+2016-12-05 13:36:17.379276||event||progress-marker||training-end||0||0
+2016-12-05 13:36:17.397358||event||progress-marker||training-start||2||1
+2016-12-05 13:36:17.416630||event||progress-marker||training-start||3||1
+2016-12-05 13:36:17.490364||event||progress-marker||training-start||1||0
+2016-12-05 13:36:17.490457||event||progress-marker||training-end||1||0
+2016-12-05 13:38:14.081517||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-05 13:38:18.456698||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-05 13:40:46.687099||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-05 13:41:03.231877||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-05 13:41:23.286768||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-05 13:41:39.123866||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||3||1
+2016-12-05 13:43:29.499506||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-05 13:43:50.021126||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-05 13:44:38.385693||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-05 13:44:49.076721||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-05 13:45:39.743106||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-05 13:45:52.156276||event||progress-marker||training-end||3||1
+2016-12-05 13:46:06.294616||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||2||1
+2016-12-05 13:46:38.382174||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-05 13:47:15.182431||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-05 13:47:16.259255||event||progress-marker||training-end||2||1
+2016-12-05 13:47:17.247329||event||progress-marker||measurement-start||3||1
+2016-12-05 13:47:18.054199||event||progress-marker||measurement-start||0||0
+2016-12-05 13:47:18.202754||event||progress-marker||measurement-start||1||0
+2016-12-05 13:47:21.264516||event||progress-marker||measurement-start||2||1
+2016-12-05 13:48:46.134323||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:48:49.525487||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:48:52.230065||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:48:52.922234||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:48:53.947146||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:48:55.206542||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:48:55.325299||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:48:57.276392||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:48:57.857529||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:48:59.373533||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:48:59.575940||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:00.014767||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:01.910233||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:02.137489||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:02.750654||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:49:03.892539||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:04.679765||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:05.272414||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:05.659120||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:06.575594||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:49:06.670446||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:07.359168||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:07.605122||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:08.661393||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:08.702916||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:49:09.288906||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:09.320088||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:10.639240||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:11.070406||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:49:11.109979||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:11.372701||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:12.284589||measurement||news||2016-12-05 13:48:22.270634@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-05 13:49:12.290350||event||progress-marker||measurement-end||1||0
+2016-12-05 13:49:13.119122||measurement||news||2016-12-05 13:48:23.843128@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-05 13:49:13.124840||event||progress-marker||measurement-end||0||0
+2016-12-05 13:49:14.603245||measurement||news||2016-12-05 13:47:23.486702@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-05 13:49:14.604705||event||progress-marker||measurement-end||2||1
+2016-12-05 13:49:17.987701||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:18.387194||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:19.047802||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:19.362284||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:19.436762||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|Loving My Son, After His Death@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:19.447983||measurement||news||2016-12-05 13:48:19.990414@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||1
+2016-12-05 13:49:19.449403||event||progress-marker||measurement-end||3||1
+2016-12-05 13:49:19.876712||meta||block_id end||0
+2016-12-05 13:49:19.880984||meta||block_id start||1
+2016-12-05 13:49:19.881016||meta||assignment||0@|2@|1@|3
+2016-12-05 13:49:33.399381||event||progress-marker||training-start||1||1
+2016-12-05 13:49:33.492807||event||progress-marker||training-start||3||1
+2016-12-05 13:49:33.607722||event||progress-marker||training-start||2||0
+2016-12-05 13:49:33.614566||event||progress-marker||training-end||2||0
+2016-12-05 13:49:33.671298||event||progress-marker||training-start||0||0
+2016-12-05 13:49:33.671390||event||progress-marker||training-end||0||0
+2016-12-05 13:52:02.885653||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-05 13:52:10.899644||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-05 13:52:45.209784||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||3||1
+2016-12-05 13:56:06.020483||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-05 13:56:46.519219||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||3||1
+2016-12-05 13:57:35.099953||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/paowalla-review.html?ref=dining||3||1
+2016-12-05 13:58:54.070533||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-05 13:59:41.829005||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-05 14:00:13.732138||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-05 14:00:21.501140||event||progress-marker||training-end||3||1
+2016-12-06 01:23:24.524174||error||block timeout||Error||0||2
+2016-12-06 01:23:24.528003||error||block timeout||Error||0||0
+2016-12-06 01:23:24.558703||error||block timeout||Error||1||3
+2016-12-06 01:23:25.273422||meta||block_id end||1
+2016-12-06 01:23:25.273611||meta||block_id start||2
+2016-12-06 01:23:25.273627||meta||assignment||1@|0@|2@|3
+2016-12-06 01:23:37.349261||event||progress-marker||training-start||1||0
+2016-12-06 01:23:37.351810||event||progress-marker||training-end||1||0
+2016-12-06 01:23:37.396093||event||progress-marker||training-start||2||1
+2016-12-06 01:23:37.565435||event||progress-marker||training-start||3||1
+2016-12-06 01:23:37.651731||event||progress-marker||training-start||0||0
+2016-12-06 01:23:37.652597||event||progress-marker||training-end||0||0
+2016-12-06 01:25:25.001465||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 01:25:47.526855||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 01:28:14.466618||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 01:28:23.362509||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 01:28:49.175597||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||3||1
+2016-12-06 01:29:01.128255||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 01:31:23.035075||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 01:31:34.684524||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 01:32:21.466244||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 01:33:06.242225||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 01:33:10.932384||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-06 01:33:24.967145||event||progress-marker||training-end||3||1
+2016-12-06 01:33:45.636631||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-06 01:33:53.819886||event||progress-marker||training-end||2||1
+2016-12-06 01:33:54.997000||event||progress-marker||measurement-start||3||1
+2016-12-06 01:33:58.018420||event||progress-marker||measurement-start||1||0
+2016-12-06 01:33:58.399249||event||progress-marker||measurement-start||0||0
+2016-12-06 01:33:58.837324||event||progress-marker||measurement-start||2||1
+2016-12-06 01:35:22.144239||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:22.238373||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:23.864027||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:24.504889||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:25.572681||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:26.238927||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:27.743956||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:27.761830||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:28.888611||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:29.438102||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:29.462097||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:30.133210||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:30.672739||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:31.140797||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:31.609857||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:31.834443||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:32.718188||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:32.918613||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:33.381041||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:34.183244||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:34.503905||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:34.531597||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:35.291493||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:35.548014||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:35.797522||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:36.272649||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:36.913396||measurement||news||2016-12-06 01:34:59.984976@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 01:35:36.914481||event||progress-marker||measurement-end||0||0
+2016-12-06 01:35:36.938584||measurement||news||2016-12-06 01:34:58.384994@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 01:35:36.939656||event||progress-marker||measurement-end||1||0
+2016-12-06 01:35:37.922719||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|Loving My Son, After His Death@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:39.368309||measurement||news||2016-12-06 01:34:46.095540@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||1
+2016-12-06 01:35:39.369364||event||progress-marker||measurement-end||3||1
+2016-12-06 01:35:39.902337||meta||block_id end||2
+2016-12-06 01:35:39.902656||meta||block_id start||3
+2016-12-06 01:35:39.902678||meta||assignment||2@|1@|3@|0
+2016-12-06 01:35:52.783086||event||progress-marker||training-start||3||1
+2016-12-06 01:35:52.958796||event||progress-marker||training-start||2||0
+2016-12-06 01:35:52.973233||event||progress-marker||training-end||2||0
+2016-12-06 01:35:53.454686||event||progress-marker||training-start||0||1
+2016-12-06 01:35:53.724222||event||progress-marker||training-start||1||0
+2016-12-06 01:35:53.726630||event||progress-marker||training-end||1||0
+2016-12-06 01:37:33.484028||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 01:37:39.847588||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 02:08:59.935492||error||block timeout||Error||0||1
+2016-12-06 02:08:59.962374||error||block timeout||Error||0||2
+2016-12-06 02:09:00.158228||meta||block_id end||3
+2016-12-06 02:09:00.167477||meta||block_id start||4
+2016-12-06 02:09:00.167519||meta||assignment||2@|1@|3@|0
+2016-12-06 02:09:12.119289||event||progress-marker||training-start||2||0
+2016-12-06 02:09:12.120145||event||progress-marker||training-end||2||0
+2016-12-06 02:09:12.409101||event||progress-marker||training-start||0||1
+2016-12-06 02:09:12.629686||event||progress-marker||training-start||1||0
+2016-12-06 02:09:12.630766||event||progress-marker||training-end||1||0
+2016-12-06 02:09:12.970401||event||progress-marker||training-start||3||1
+2016-12-06 02:10:45.869631||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 02:11:18.511986||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 02:13:07.477947||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 02:13:39.457487||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 02:13:47.095594||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||3||1
+2016-12-06 02:14:16.997629||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 02:15:42.898080||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 02:16:20.687469||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 02:16:55.212272||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 02:17:27.658033||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 02:17:42.391262||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||3||1
+2016-12-06 02:18:06.165894||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 02:18:18.766854||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-06 02:18:24.580033||event||progress-marker||training-end||3||1
+2016-12-06 02:18:41.078017||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||0||1
+2016-12-06 02:18:45.299844||event||progress-marker||training-end||0||1
+2016-12-06 02:18:47.791189||event||progress-marker||measurement-start||2||0
+2016-12-06 02:18:48.325640||event||progress-marker||measurement-start||1||0
+2016-12-06 02:18:49.620506||event||progress-marker||measurement-start||3||1
+2016-12-06 02:18:50.306167||event||progress-marker||measurement-start||0||1
+2016-12-06 02:20:12.485039||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:15.413134||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:15.637158||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:17.343671||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:19.076655||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:19.690831||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:21.782042||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:22.785963||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:22.880539||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:24.477995||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:24.892046||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:25.212960||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:25.220082||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:26.531830||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:27.106714||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:27.141982||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:27.251106||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:28.609204||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:28.955950||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:29.159470||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:29.382873||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:30.304269||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:30.926620||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:31.301632||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:31.628796||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:32.612655||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:33.244709||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:33.332266||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:33.697453||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:34.460386||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:35.267037||measurement||news||2016-12-06 02:19:54.184847@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||0||1
+2016-12-06 02:20:35.268290||event||progress-marker||measurement-end||0||1
+2016-12-06 02:20:35.379364||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:35.826347||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:36.396224||measurement||news||2016-12-06 02:19:54.250307@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 02:20:36.397741||event||progress-marker||measurement-end||2||0
+2016-12-06 02:20:37.363437||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:38.593798||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:39.400336||measurement||news||2016-12-06 02:19:57.544735@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 02:20:39.403229||event||progress-marker||measurement-end||1||0
+2016-12-06 02:20:40.995150||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:41.472430||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:42.207157||measurement||news||2016-12-06 02:19:47.650335@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||3||1
+2016-12-06 02:20:42.210952||event||progress-marker||measurement-end||3||1
+2016-12-06 02:20:43.073393||meta||block_id end||4
+2016-12-06 02:20:43.073616||meta||block_id start||5
+2016-12-06 02:20:43.073631||meta||assignment||3@|0@|2@|1
+2016-12-06 02:20:55.460886||event||progress-marker||training-start||2||1
+2016-12-06 02:20:55.764428||event||progress-marker||training-start||1||1
+2016-12-06 02:20:55.814525||event||progress-marker||training-start||3||0
+2016-12-06 02:20:55.815318||event||progress-marker||training-end||3||0
+2016-12-06 02:20:56.080558||event||progress-marker||training-start||0||0
+2016-12-06 02:20:56.081667||event||progress-marker||training-end||0||0
+2016-12-06 02:22:47.304704||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 02:23:06.797096||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 02:24:07.939975||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||2||1
+2016-12-06 02:25:31.863745||treatment||read_news||http://cooking.nytimes.com/recipes/1013383-tomato-soup||2||1
+2016-12-06 02:25:36.236603||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 02:26:56.601580||treatment||read_news||http://www.nytimes.com/2016/11/16/dining/tsurutontan-udon-noodle-brasserie-restaurant-review.html?ref=dining||2||1
+2016-12-06 02:27:03.466878||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||1||1
+2016-12-06 02:29:22.725159||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 02:29:33.243714||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 02:29:54.994773||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 02:30:28.843726||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 02:31:16.741139||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 02:31:56.639570||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 02:32:01.364901||event||progress-marker||training-end||1||1
+2016-12-06 02:32:14.172034||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 02:33:12.306102||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 02:33:45.412854||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 02:34:19.116049||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-06 02:34:31.024164||event||progress-marker||training-end||2||1
+2016-12-06 02:34:31.567461||event||progress-marker||measurement-start||1||1
+2016-12-06 02:34:31.782366||event||progress-marker||measurement-start||3||0
+2016-12-06 02:34:32.100848||event||progress-marker||measurement-start||0||0
+2016-12-06 02:34:36.034479||event||progress-marker||measurement-start||2||1
+2016-12-06 02:35:54.027864||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:35:55.537510||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:35:56.575813||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:35:57.553079||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:35:58.681374||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:35:59.641130||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:36:00.068777||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:00.806282||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:36:01.589765||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:01.823857||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:02.380585||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:36:03.392472||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:03.767834||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:36:04.117191||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:04.752793||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:05.429049||measurement||news||2016-12-06 02:35:33.415873@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 02:36:05.431274||event||progress-marker||measurement-end||0||0
+2016-12-06 02:36:05.861244||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:06.445628||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:07.698252||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:07.782575||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:08.896118||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:09.560077||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:09.808031||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:10.496550||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:10.593743||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:10.966312||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:11.613685||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:11.697335||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:12.236732||measurement||news||2016-12-06 02:35:42.602869@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 02:36:12.238401||event||progress-marker||measurement-end||3||0
+2016-12-06 02:36:12.353937||measurement||news||2016-12-06 02:35:37.181400@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 02:36:12.354000||event||progress-marker||measurement-end||1||1
+2016-12-06 02:36:13.674071||meta||block_id end||5
+2016-12-06 02:36:13.674291||meta||block_id start||6
+2016-12-06 02:36:13.674306||meta||assignment||0@|3@|2@|1
+2016-12-06 02:36:26.286808||event||progress-marker||training-start||2||1
+2016-12-06 02:36:26.319303||event||progress-marker||training-start||3||0
+2016-12-06 02:36:26.321014||event||progress-marker||training-end||3||0
+2016-12-06 02:36:26.697658||event||progress-marker||training-start||0||0
+2016-12-06 02:36:26.698901||event||progress-marker||training-end||0||0
+2016-12-06 02:36:26.975530||event||progress-marker||training-start||1||1
+2016-12-06 02:38:23.365278||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 02:38:24.188743||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 02:39:34.036878||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||1||1
+2016-12-06 02:41:14.220007||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 02:42:04.425311||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 02:42:11.315884||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 02:42:44.039723||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 02:43:58.976989||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 02:44:50.657290||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 02:45:10.121647||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 02:46:05.989557||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 02:46:19.620544||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||2||1
+2016-12-06 02:46:51.910391||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 02:47:02.686469||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 02:47:08.977268||event||progress-marker||training-end||2||1
+2016-12-06 02:47:29.987601||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 02:47:35.162318||event||progress-marker||training-end||1||1
+2016-12-06 02:47:37.192862||event||progress-marker||measurement-start||3||0
+2016-12-06 02:47:37.633290||event||progress-marker||measurement-start||0||0
+2016-12-06 02:47:39.030259||event||progress-marker||measurement-start||2||1
+2016-12-06 02:47:40.175170||event||progress-marker||measurement-start||1||1
+2016-12-06 02:48:55.815589||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.829858||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.839018||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.852678||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.861372||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.870238||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.883078||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:55.901767||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:56.013582||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:56.072679||measurement||news||2016-12-06 02:48:39.157559@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 02:48:56.074164||event||progress-marker||measurement-end||2||1
+2016-12-06 02:48:56.489487||meta||block_id end||6
+2016-12-06 02:48:56.489673||meta||block_id start||7
+2016-12-06 02:48:56.489685||meta||assignment||3@|2@|1@|0
+2016-12-06 02:49:08.523819||event||progress-marker||training-start||1||1
+2016-12-06 02:49:08.566603||event||progress-marker||training-start||2||0
+2016-12-06 02:49:08.567483||event||progress-marker||training-end||2||0
+2016-12-06 02:49:08.570514||event||progress-marker||training-start||0||1
+2016-12-06 02:49:08.832867||event||progress-marker||training-start||3||0
+2016-12-06 02:49:08.833794||event||progress-marker||training-end||3||0
+2016-12-06 02:50:46.970095||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 02:50:49.652547||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 02:53:04.672262||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 02:53:22.313491||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 02:53:50.850351||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 02:54:04.766142||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 02:55:50.918714||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 02:56:10.528458||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 02:56:42.720035||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 02:57:27.223868||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 02:57:37.940038||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 02:58:11.819543||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 02:58:28.682882||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 02:58:33.390607||event||progress-marker||training-end||1||1
+2016-12-06 02:58:46.241078||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||0||1
+2016-12-06 02:58:50.826116||event||progress-marker||training-end||0||1
+2016-12-06 02:58:53.421631||event||progress-marker||measurement-start||1||1
+2016-12-06 02:58:54.329593||event||progress-marker||measurement-start||2||0
+2016-12-06 02:58:54.571439||event||progress-marker||measurement-start||3||0
+2016-12-06 02:58:55.840582||event||progress-marker||measurement-start||0||1
+2016-12-06 03:00:19.684657||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:20.699226||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:23.445289||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:25.119803||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:26.287365||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:26.725929||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:27.206108||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:27.528521||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:28.462814||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:28.596060||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:29.460774||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:30.050352||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:31.042950||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:31.295762||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:31.308806||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:31.924846||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:33.407044||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:33.448421||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:33.588661||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:33.941430||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:35.173992||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:35.681076||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:35.888017||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:36.069437||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:36.851363||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:37.684950||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:37.800325||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:38.130017||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:38.690615||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:39.272367||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:39.558302||measurement||news||2016-12-06 02:59:49.104439@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:00:39.560456||event||progress-marker||measurement-end||1||1
+2016-12-06 03:00:40.239009||measurement||news||2016-12-06 02:59:56.583115@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:00:40.239764||event||progress-marker||measurement-end||3||0
+2016-12-06 03:00:40.685790||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:40.957312||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:42.483260||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:42.711672||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:44.986968||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:44.995054||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:45.321296||measurement||news||2016-12-06 02:59:58.059295@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:00:45.322237||event||progress-marker||measurement-end||2||0
+2016-12-06 03:00:45.882933||measurement||news||2016-12-06 02:59:55.577208@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:00:45.884013||event||progress-marker||measurement-end||0||1
+2016-12-06 03:00:46.310673||meta||block_id end||7
+2016-12-06 03:00:46.310852||meta||block_id start||8
+2016-12-06 03:00:46.310865||meta||assignment||3@|1@|0@|2
+2016-12-06 03:00:58.520821||event||progress-marker||training-start||3||0
+2016-12-06 03:00:58.521801||event||progress-marker||training-end||3||0
+2016-12-06 03:00:58.562176||event||progress-marker||training-start||2||1
+2016-12-06 03:00:59.172059||event||progress-marker||training-start||1||0
+2016-12-06 03:00:59.172949||event||progress-marker||training-end||1||0
+2016-12-06 03:00:59.182636||event||progress-marker||training-start||0||1
+2016-12-06 03:02:42.038747||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 03:02:54.650069||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 03:03:42.187671||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||0||1
+2016-12-06 03:05:34.454422||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 03:06:15.944511||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 03:06:22.915659||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 03:07:43.540772||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||0||1
+2016-12-06 03:08:20.885644||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 03:09:32.413741||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 03:09:44.535734||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 03:10:11.176771||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 03:10:38.063123||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 03:11:01.803937||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-06 03:11:02.349695||event||progress-marker||training-end||2||1
+2016-12-06 03:11:23.697317||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 03:11:53.696106||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||0||1
+2016-12-06 03:11:57.915224||event||progress-marker||training-end||0||1
+2016-12-06 03:11:59.437916||event||progress-marker||measurement-start||3||0
+2016-12-06 03:12:00.147459||event||progress-marker||measurement-start||1||0
+2016-12-06 03:12:02.437889||event||progress-marker||measurement-start||2||1
+2016-12-06 03:12:02.923497||event||progress-marker||measurement-start||0||1
+2016-12-06 03:13:27.084129||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:29.140650||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:30.138296||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:32.833286||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:32.923223||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:34.616746||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:34.861345||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:36.879020||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:37.231720||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:39.040597||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:39.591816||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:41.459783||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:42.114549||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:43.963711||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:44.811993||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:46.564901||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:47.156389||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:48.472259||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:49.254556||measurement||news||2016-12-06 03:13:02.194494@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 03:13:49.255772||event||progress-marker||measurement-end||1||0
+2016-12-06 03:13:50.576421||measurement||news||2016-12-06 03:13:02.454349@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:13:50.577808||event||progress-marker||measurement-end||3||0
+2016-12-06 03:13:55.125478||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:55.540725||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:55.574463||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:56.040264||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:56.374768||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:56.397153||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:56.443404||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:56.692972||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:56.942777||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:57.474305||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:57.526407||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:57.547061||measurement||news||2016-12-06 03:13:03.775057@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:13:57.548050||event||progress-marker||measurement-end||2||1
+2016-12-06 03:13:58.402873||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.432200||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.448039||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.491734||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.578364||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.603929||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.618203||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.626919||measurement||news||2016-12-06 03:12:58.057112@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:13:58.627851||event||progress-marker||measurement-end||0||1
+2016-12-06 03:13:59.033570||meta||block_id end||8
+2016-12-06 03:13:59.033773||meta||block_id start||9
+2016-12-06 03:13:59.033787||meta||assignment||3@|0@|2@|1
+2016-12-06 03:14:11.143345||event||progress-marker||training-start||3||0
+2016-12-06 03:14:11.144299||event||progress-marker||training-end||3||0
+2016-12-06 03:14:11.561275||event||progress-marker||training-start||1||1
+2016-12-06 03:14:11.574270||event||progress-marker||training-start||2||1
+2016-12-06 03:14:11.998451||event||progress-marker||training-start||0||0
+2016-12-06 03:14:12.000083||event||progress-marker||training-end||0||0
+2016-12-06 03:16:20.015088||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 03:17:03.890644||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 03:19:29.072662||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 03:19:47.202595||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 03:20:07.123813||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 03:20:38.342837||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||2||1
+2016-12-06 03:22:16.248699||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 03:22:42.325742||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 03:23:14.690176||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 03:24:04.314457||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 03:24:13.336365||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 03:24:52.535232||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 03:24:57.830591||event||progress-marker||training-end||1||1
+2016-12-06 03:25:04.640458||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 03:25:44.064783||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-06 03:25:48.885337||event||progress-marker||training-end||2||1
+2016-12-06 03:25:52.202671||event||progress-marker||measurement-start||3||0
+2016-12-06 03:25:52.948041||event||progress-marker||measurement-start||1||1
+2016-12-06 03:25:53.077917||event||progress-marker||measurement-start||0||0
+2016-12-06 03:25:53.894291||event||progress-marker||measurement-start||2||1
+2016-12-06 03:27:11.301082||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:13.229245||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:14.595585||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:15.992090||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:17.823370||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:20.021599||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:21.024777||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:21.747765||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:23.665780||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:23.900870||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:24.249248||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:25.945907||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:27.298021||measurement||news||2016-12-06 03:26:50.847524@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:27:27.299462||event||progress-marker||measurement-end||3||0
+2016-12-06 03:27:27.659616||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:29.224661||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:29.741454||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:30.889986||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:31.265860||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:32.255551||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:32.585599||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:33.616789||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:34.225793||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:34.777120||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:35.025131||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:35.548985||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:36.057117||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:36.523670||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:36.933229||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:37.885452||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:38.052391||measurement||news||2016-12-06 03:26:58.707098@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:27:38.053348||event||progress-marker||measurement-end||0||0
+2016-12-06 03:27:38.334619||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:39.081563||measurement||news||2016-12-06 03:26:51.257497@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:27:39.082432||event||progress-marker||measurement-end||2||1
+2016-12-06 03:27:40.474567||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:41.172644||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:41.827088||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.022980||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.070550||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.094873||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.232487||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.278688||measurement||news||2016-12-06 03:26:46.657189@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:27:42.280188||event||progress-marker||measurement-end||1||1
+2016-12-06 03:27:42.703336||meta||block_id end||9
+2016-12-06 03:27:42.703559||meta||block_id start||10
+2016-12-06 03:27:42.703574||meta||assignment||3@|0@|1@|2
+2016-12-06 03:27:54.825810||event||progress-marker||training-start||2||1
+2016-12-06 03:27:55.267005||event||progress-marker||training-start||1||1
+2016-12-06 03:27:55.547156||event||progress-marker||training-start||0||0
+2016-12-06 03:27:55.550468||event||progress-marker||training-end||0||0
+2016-12-06 03:27:56.110553||event||progress-marker||training-start||3||0
+2016-12-06 03:27:56.116276||event||progress-marker||training-end||3||0
+2016-12-06 03:29:54.997662||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 03:30:01.729765||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 03:32:40.399587||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 03:32:46.098784||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 03:33:24.239849||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 03:33:32.036857||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 03:35:40.114790||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 03:35:47.322217||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 03:36:46.414999||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 03:36:52.543483||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 03:37:32.276744||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 03:37:41.241929||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 03:38:09.486038||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||2||1
+2016-12-06 03:38:15.286248||event||progress-marker||training-end||2||1
+2016-12-06 03:38:23.677186||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 03:38:28.124709||event||progress-marker||training-end||1||1
+2016-12-06 03:38:30.305399||event||progress-marker||measurement-start||2||1
+2016-12-06 03:38:31.504651||event||progress-marker||measurement-start||0||0
+2016-12-06 03:38:32.083550||event||progress-marker||measurement-start||3||0
+2016-12-06 03:38:33.140701||event||progress-marker||measurement-start||1||1
+2016-12-06 03:39:53.995726||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:39:56.819194||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:39:59.673283||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:39:59.951689||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:01.904231||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:02.706422||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:04.723697||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:04.728047||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:05.608327||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:06.402809||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:06.816570||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:08.289163||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:08.700979||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:08.821323||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:10.266954||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:11.133158||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:11.190987||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:12.170371||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:12.788996||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:13.048817||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:14.060559||measurement||news||2016-12-06 03:39:31.448626@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 03:40:14.062042||event||progress-marker||measurement-end||0||0
+2016-12-06 03:40:14.378807||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:14.592943||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:15.145449||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:16.653147||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:17.249064||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:17.971892||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:18.708246||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:19.109590||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:19.146835||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:20.056921||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:20.245337||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:20.270061||measurement||news||2016-12-06 03:39:36.227624@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:40:20.271279||event||progress-marker||measurement-end||3||0
+2016-12-06 03:40:21.201569||measurement||news||2016-12-06 03:39:29.424927@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 03:40:21.202970||event||progress-marker||measurement-end||2||1
+2016-12-06 03:40:21.454351||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:22.649760||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:23.240621||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:23.511592||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:23.525630||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:23.536301||measurement||news||2016-12-06 03:39:31.773938@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:40:23.537636||event||progress-marker||measurement-end||1||1
+2016-12-06 03:40:24.045712||meta||block_id end||10
+2016-12-06 03:40:24.047769||meta||block_id start||11
+2016-12-06 03:40:24.047802||meta||assignment||2@|3@|0@|1
+2016-12-06 03:40:36.334583||event||progress-marker||training-start||3||0
+2016-12-06 03:40:36.335792||event||progress-marker||training-end||3||0
+2016-12-06 03:40:36.578979||event||progress-marker||training-start||1||1
+2016-12-06 03:40:36.630632||event||progress-marker||training-start||0||1
+2016-12-06 03:40:37.096892||event||progress-marker||training-start||2||0
+2016-12-06 03:40:37.099178||event||progress-marker||training-end||2||0
+2016-12-06 03:42:02.254392||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 03:42:42.214352||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 03:45:09.988011||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 03:45:50.338461||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 03:46:11.216850||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 03:46:25.914165||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 03:48:15.905622||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 03:48:57.828657||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 03:49:22.552668||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 03:50:11.694141||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 03:50:27.235678||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 03:50:47.020608||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 03:50:55.759579||event||progress-marker||training-end||1||1
+2016-12-06 03:51:15.547975||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 03:51:55.488204||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||0||1
+2016-12-06 03:52:00.390803||event||progress-marker||training-end||0||1
+2016-12-06 03:52:00.919108||event||progress-marker||measurement-start||1||1
+2016-12-06 03:52:02.627478||event||progress-marker||measurement-start||3||0
+2016-12-06 03:52:03.327342||event||progress-marker||measurement-start||2||0
+2016-12-06 03:52:05.402473||event||progress-marker||measurement-start||0||1
+2016-12-06 03:53:17.906211||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:19.563938||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:20.705276||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:21.567388||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:22.942082||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:23.826600||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:25.544609||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:26.734006||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:28.600379||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:29.913992||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:30.347142||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:32.631869||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:33.941758||measurement||news||2016-12-06 03:52:59.846044@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 03:53:33.943290||event||progress-marker||measurement-end||3||0
+2016-12-06 03:53:37.373940||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:38.529438||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:38.802871||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:40.148989||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:40.559140||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:42.117560||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:42.442491||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:42.943299||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:43.618026||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:44.035914||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:44.157516||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:44.213063||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:45.222650||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:45.461850||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:45.517913||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:45.973768||measurement||news||2016-12-06 03:53:02.764823@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 03:53:45.975044||event||progress-marker||measurement-end||2||0
+2016-12-06 03:53:46.534994||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:47.210567||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:47.947982||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:47.981699||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:48.047452||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:48.257663||measurement||news||2016-12-06 03:52:48.898644@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||1||1
+2016-12-06 03:53:48.258523||event||progress-marker||measurement-end||1||1
+2016-12-06 03:53:49.108963||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:49.123871||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:49.132473||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:49.144152||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:49.155366||measurement||news||2016-12-06 03:53:09.681746@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||0||1
+2016-12-06 03:53:49.156402||event||progress-marker||measurement-end||0||1
+2016-12-06 03:53:49.685471||meta||block_id end||11
+2016-12-06 03:53:49.685674||meta||block_id start||12
+2016-12-06 03:53:49.685688||meta||assignment||1@|2@|3@|0
+2016-12-06 03:54:02.107045||event||progress-marker||training-start||3||1
+2016-12-06 03:54:02.174012||event||progress-marker||training-start||1||0
+2016-12-06 03:54:02.175584||event||progress-marker||training-end||1||0
+2016-12-06 03:54:02.225775||event||progress-marker||training-start||2||0
+2016-12-06 03:54:02.225875||event||progress-marker||training-end||2||0
+2016-12-06 03:54:02.314120||event||progress-marker||training-start||0||1
+2016-12-06 03:55:57.765040||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 03:56:04.404502||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 03:56:55.870578||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||0||1
+2016-12-06 03:57:21.909627||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||3||1
+2016-12-06 03:59:06.895960||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 03:59:46.864039||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 03:59:58.412169||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 04:00:19.573758||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||3||1
+2016-12-06 04:01:54.115074||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 04:02:34.200957||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 04:02:48.034856||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 04:03:39.481417||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 04:04:02.244486||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||0||1
+2016-12-06 04:04:53.750205||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 04:05:01.813070||event||progress-marker||training-end||0||1
+2016-12-06 04:06:36.817330||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||3||1
+2016-12-06 04:07:08.061255||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||3||1
+2016-12-06 04:07:43.798816||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-06 04:07:44.198464||event||progress-marker||training-end||3||1
+2016-12-06 04:07:47.253331||event||progress-marker||measurement-start||0||1
+2016-12-06 04:07:48.592131||event||progress-marker||measurement-start||1||0
+2016-12-06 04:07:48.882993||event||progress-marker||measurement-start||2||0
+2016-12-06 04:07:49.263605||event||progress-marker||measurement-start||3||1
+2016-12-06 04:09:08.739667||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:11.182387||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:12.470808||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:12.950609||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:14.762682||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:15.073736||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:16.932166||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:18.060030||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:18.863462||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:20.466462||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:20.755606||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:22.407910||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:23.015926||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:23.533265||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:24.146571||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:25.019541||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:25.840443||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:26.143574||measurement||news||2016-12-06 04:08:50.388014@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:09:26.144785||event||progress-marker||measurement-end||2||0
+2016-12-06 04:09:26.928199||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:27.509515||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:29.046938||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:29.438904||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:29.951449||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:30.128007||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:30.719644||measurement||news||2016-12-06 04:08:50.644018@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:09:30.721133||event||progress-marker||measurement-end||1||0
+2016-12-06 04:09:31.246315||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:31.542805||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:32.460102||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:32.936943||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:32.966998||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:33.151386||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:33.369413||measurement||news||2016-12-06 04:08:47.797580@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:09:33.371377||event||progress-marker||measurement-end||3||1
+2016-12-06 04:09:33.770934||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.163414||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.664247||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.678068||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.698183||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.712744||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.724877||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.736569||measurement||news||2016-12-06 04:08:43.363721@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:09:34.737598||event||progress-marker||measurement-end||0||1
+2016-12-06 04:09:35.206556||meta||block_id end||12
+2016-12-06 04:09:35.206723||meta||block_id start||13
+2016-12-06 04:09:35.206735||meta||assignment||2@|1@|3@|0
+2016-12-06 04:09:47.301540||event||progress-marker||training-start||0||1
+2016-12-06 04:09:47.377695||event||progress-marker||training-start||1||0
+2016-12-06 04:09:47.378970||event||progress-marker||training-end||1||0
+2016-12-06 04:09:47.394523||event||progress-marker||training-start||3||1
+2016-12-06 04:09:47.579758||event||progress-marker||training-start||2||0
+2016-12-06 04:09:47.582092||event||progress-marker||training-end||2||0
+2016-12-06 04:11:41.300956||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 04:11:47.505404||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 04:12:58.074148||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||3||1
+2016-12-06 04:14:16.331268||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 04:15:04.272150||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 04:15:11.731717||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 04:16:30.300051||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||3||1
+2016-12-06 04:17:25.947494||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/paowalla-review.html?ref=dining||3||1
+2016-12-06 04:17:28.336669||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 04:18:21.289434||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 04:19:16.674203||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 04:19:30.584562||event||progress-marker||training-end||0||1
+2016-12-06 04:19:51.332737||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 04:20:40.672983||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 04:21:12.117575||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||3||1
+2016-12-06 04:21:45.027871||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||3||1
+2016-12-06 04:21:49.231433||event||progress-marker||training-end||3||1
+2016-12-06 04:21:50.823473||event||progress-marker||measurement-start||0||1
+2016-12-06 04:21:53.716651||event||progress-marker||measurement-start||1||0
+2016-12-06 04:21:54.091592||event||progress-marker||measurement-start||2||0
+2016-12-06 04:21:54.253597||event||progress-marker||measurement-start||3||1
+2016-12-06 04:23:08.466361||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:09.654029||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:11.052696||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:12.517712||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:14.676860||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:16.503456||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:17.506452||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:18.818607||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:18.875193||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:20.240409||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:20.452173||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:21.582148||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:22.043576||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:23.352716||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:23.686394||measurement||news||2016-12-06 04:22:31.569806@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:23:23.687504||event||progress-marker||measurement-end||0||1
+2016-12-06 04:23:24.225070||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:26.056363||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:26.741960||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:28.525195||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:29.460066||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:29.862327||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:30.469295||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:30.911953||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:31.472848||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:31.893720||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:31.920817||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:32.802257||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:33.232946||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:33.524456||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:33.561080||measurement||news||2016-12-06 04:22:54.079746@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:23:33.562409||event||progress-marker||measurement-end||1||0
+2016-12-06 04:23:34.504032||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:35.060086||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Wrapping 4 Dances Into 1 at 100 Grand Street@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:35.140820||measurement||news||2016-12-06 04:22:58.702574@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 04:23:35.141792||event||progress-marker||measurement-end||2||0
+2016-12-06 04:23:35.406579||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.089575||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.135941||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Not Sleeping Enough? Arianna Huffington Wants to Help@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.146567||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.156310||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.164695||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.173483||measurement||news||2016-12-06 04:22:54.319708@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||3||1
+2016-12-06 04:23:36.174680||event||progress-marker||measurement-end||3||1
+2016-12-06 04:23:36.642381||meta||block_id end||13
+2016-12-06 04:23:36.642619||meta||block_id start||14
+2016-12-06 04:23:36.642639||meta||assignment||3@|1@|0@|2
+2016-12-06 04:23:48.844492||event||progress-marker||training-start||0||1
+2016-12-06 04:23:48.986617||event||progress-marker||training-start||1||0
+2016-12-06 04:23:48.986711||event||progress-marker||training-end||1||0
+2016-12-06 04:23:49.108890||event||progress-marker||training-start||3||0
+2016-12-06 04:23:49.118471||event||progress-marker||training-end||3||0
+2016-12-06 04:23:49.177195||event||progress-marker||training-start||2||1
+2016-12-06 04:25:34.530306||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 04:26:07.779759||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 04:26:55.640334||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||2||1
+2016-12-06 04:27:27.317269||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||0||1
+2016-12-06 04:29:39.357663||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 04:29:57.380250||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 04:30:09.665396||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 04:30:39.486562||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 04:33:45.727842||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 04:34:06.097011||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 04:34:49.953619||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 04:35:11.808099||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 04:35:59.503698||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||0||1
+2016-12-06 04:36:10.567388||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 04:36:19.976393||event||progress-marker||training-end||2||1
+2016-12-06 04:36:35.086174||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 04:36:39.113051||event||progress-marker||training-end||0||1
+2016-12-06 04:36:40.056075||event||progress-marker||measurement-start||2||1
+2016-12-06 04:36:41.071752||event||progress-marker||measurement-start||3||0
+2016-12-06 04:36:41.075088||event||progress-marker||measurement-start||1||0
+2016-12-06 04:36:44.123661||event||progress-marker||measurement-start||0||1
+2016-12-06 04:38:12.546687||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:13.239140||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:15.443183||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:15.872071||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:16.452614||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:17.602208||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:18.408968||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:19.017586||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:19.669885||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:20.382709||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:21.672012||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:22.285736||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:23.201358||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:23.491468||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:23.745039||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:24.897181||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:25.116112||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:25.671930||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:25.967988||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:27.485305||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:27.799129||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:28.223480||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:28.613958||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:29.534640||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:30.131952||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:30.298141||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:30.523061||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:31.715121||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:32.311858||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:32.461117||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:32.539407||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:33.892896||measurement||news||2016-12-06 04:37:49.650478@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 04:38:33.894488||event||progress-marker||measurement-end||3||0
+2016-12-06 04:38:34.230666||measurement||news||2016-12-06 04:37:47.467648@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 04:38:34.231633||event||progress-marker||measurement-end||1||0
+2016-12-06 04:38:34.498637||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:34.592969||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:36.122780||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:36.336270||measurement||news||2016-12-06 04:37:30.722135@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 04:38:36.337008||event||progress-marker||measurement-end||2||1
+2016-12-06 04:38:38.475266||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:39.660166||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:40.015410||measurement||news||2016-12-06 04:37:44.260293@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 04:38:40.018582||event||progress-marker||measurement-end||0||1
+2016-12-06 04:38:41.085125||meta||block_id end||14
+2016-12-06 04:38:41.121717||meta||block_id start||15
+2016-12-06 04:38:41.121753||meta||assignment||0@|2@|1@|3
+2016-12-06 04:38:56.122645||event||progress-marker||training-start||3||1
+2016-12-06 04:38:56.320146||event||progress-marker||training-start||1||1
+2016-12-06 04:38:56.552175||event||progress-marker||training-start||0||0
+2016-12-06 04:38:56.554245||event||progress-marker||training-end||0||0
+2016-12-06 04:38:56.842079||event||progress-marker||training-start||2||0
+2016-12-06 04:38:56.843088||event||progress-marker||training-end||2||0
+2016-12-06 04:40:37.922297||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 04:40:58.400179||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 04:44:13.973024||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 04:44:53.067986||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 04:46:10.734810||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 04:46:50.105135||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 04:47:43.292510||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||1||1
+2016-12-06 04:48:14.300384||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 04:48:18.228581||event||progress-marker||training-end||1||1
+2016-12-06 05:12:01.273479||error||block timeout||Error||1||1
+2016-12-06 05:12:01.273763||error||block timeout||Error||0||0
+2016-12-06 05:12:01.273900||error||block timeout||Error||0||2
+2016-12-06 05:12:01.914726||meta||block_id end||15
+2016-12-06 05:12:01.914895||meta||block_id start||16
+2016-12-06 05:12:01.914908||meta||assignment||0@|1@|2@|3
+2016-12-06 05:12:14.526592||event||progress-marker||training-start||3||1
+2016-12-06 05:12:14.538372||event||progress-marker||training-start||0||0
+2016-12-06 05:12:14.539405||event||progress-marker||training-end||0||0
+2016-12-06 05:12:14.829177||event||progress-marker||training-start||1||0
+2016-12-06 05:12:14.830117||event||progress-marker||training-end||1||0
+2016-12-06 05:12:15.040053||event||progress-marker||training-start||2||1
+2016-12-06 05:14:11.933046||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 05:14:15.562333||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 05:15:25.518719||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||2||1
+2016-12-06 05:15:38.085329||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||3||1
+2016-12-06 05:16:20.261775||treatment||read_news||http://cooking.nytimes.com/recipes/1013383-tomato-soup||2||1
+2016-12-06 05:17:54.608313||treatment||read_news||http://www.nytimes.com/2016/11/16/dining/tsurutontan-udon-noodle-brasserie-restaurant-review.html?ref=dining||2||1
+2016-12-06 05:18:22.334842||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 05:19:03.549331||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||3||1
+2016-12-06 05:19:42.678103||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 05:20:24.029500||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 05:20:54.641073||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 05:22:35.253898||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 05:22:38.123845||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 05:23:18.906152||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||3||1
+2016-12-06 05:23:29.556690||event||progress-marker||training-end||3||1
+2016-12-06 05:23:44.337570||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 05:24:16.288645||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 05:24:23.918074||event||progress-marker||training-end||2||1
+2016-12-06 05:24:24.674096||event||progress-marker||measurement-start||3||1
+2016-12-06 05:24:26.219224||event||progress-marker||measurement-start||0||0
+2016-12-06 05:24:26.437492||event||progress-marker||measurement-start||1||0
+2016-12-06 05:24:28.931951||event||progress-marker||measurement-start||2||1
+2016-12-06 05:25:46.394511||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:47.766415||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:49.036460||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:51.716406||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:51.999188||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:25:54.715031||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:25:55.343973||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:55.878594||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:25:57.096276||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:25:57.114811||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:25:57.958638||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:25:58.702327||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:25:59.291713||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:26:00.351046||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:00.910261||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:01.302509||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:26:01.590307||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:01.981725||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:26:02.447047||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:03.239522||measurement||news||2016-12-06 05:25:25.873326@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||3||1
+2016-12-06 05:26:03.240572||event||progress-marker||measurement-end||3||1
+2016-12-06 05:26:03.244660||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:03.796120||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:04.598450||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:05.622498||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:06.251023||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:07.418039||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:07.614928||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:07.974543||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:08.351348||measurement||news||2016-12-06 05:25:33.483063@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 05:26:08.352651||event||progress-marker||measurement-end||1||0
+2016-12-06 05:26:08.836066||measurement||news||2016-12-06 05:25:34.194739@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:26:08.837835||event||progress-marker||measurement-end||0||0
+2016-12-06 05:26:09.836932||meta||block_id end||16
+2016-12-06 05:26:09.837145||meta||block_id start||17
+2016-12-06 05:26:09.837158||meta||assignment||0@|3@|2@|1
+2016-12-06 05:26:22.849753||event||progress-marker||training-start||3||0
+2016-12-06 05:26:22.853980||event||progress-marker||training-end||3||0
+2016-12-06 05:26:23.213906||event||progress-marker||training-start||0||0
+2016-12-06 05:26:23.215154||event||progress-marker||training-end||0||0
+2016-12-06 05:26:23.528887||event||progress-marker||training-start||1||1
+2016-12-06 05:26:23.782263||event||progress-marker||training-start||2||1
+2016-12-06 05:28:12.067854||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 05:28:13.960791||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 05:30:33.914940||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 05:30:35.864527||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 05:31:24.479212||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 05:31:32.591173||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||1||1
+2016-12-06 05:33:15.154059||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 05:33:55.495649||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 05:34:02.272301||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 05:34:50.770676||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 05:35:01.558369||event||progress-marker||training-end||2||1
+2016-12-06 05:35:17.169794||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 05:36:15.696565||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||1||1
+2016-12-06 05:36:49.072796||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 05:37:26.805783||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 05:37:27.134875||event||progress-marker||training-end||1||1
+2016-12-06 05:37:29.426845||event||progress-marker||measurement-start||3||0
+2016-12-06 05:37:29.981341||event||progress-marker||measurement-start||0||0
+2016-12-06 05:37:31.841282||event||progress-marker||measurement-start||2||1
+2016-12-06 05:37:32.165845||event||progress-marker||measurement-start||1||1
+2016-12-06 05:39:02.886732||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:05.381015||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:06.605054||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:07.591006||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:08.973698||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:10.040541||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:11.725951||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:12.146643||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:13.900170||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:14.234396||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:16.387571||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:16.576325||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:18.537124||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:19.246457||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:19.302136||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:20.948581||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:21.315454||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:21.561334||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:23.383251||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:23.422814||measurement||news||2016-12-06 05:38:34.500911@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 05:39:23.424948||event||progress-marker||measurement-end||3||0
+2016-12-06 05:39:23.684159||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:25.527741||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:26.254150||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:27.597543||measurement||news||2016-12-06 05:38:35.409047@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 05:39:27.598493||event||progress-marker||measurement-end||0||0
+2016-12-06 05:39:28.373869||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:29.649244||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:30.055562||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:30.289314||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:30.981337||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:31.016829||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:31.340448||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:31.429715||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:31.576981||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:31.659092||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:31.966501||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:32.249365||measurement||news||2016-12-06 05:38:30.748730@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 05:39:32.250496||event||progress-marker||measurement-end||2||1
+2016-12-06 05:39:32.383153||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:32.699794||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:32.880997||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:33.617908||measurement||news||2016-12-06 05:38:36.266762@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||1||1
+2016-12-06 05:39:33.619728||event||progress-marker||measurement-end||1||1
+2016-12-06 05:39:34.131742||meta||block_id end||17
+2016-12-06 05:39:34.131908||meta||block_id start||18
+2016-12-06 05:39:34.131920||meta||assignment||3@|2@|1@|0
+2016-12-06 05:39:46.243125||event||progress-marker||training-start||0||1
+2016-12-06 05:39:46.478195||event||progress-marker||training-start||1||1
+2016-12-06 05:39:46.910500||event||progress-marker||training-start||3||0
+2016-12-06 05:39:46.911806||event||progress-marker||training-end||3||0
+2016-12-06 05:39:47.634736||event||progress-marker||training-start||2||0
+2016-12-06 05:39:47.637374||event||progress-marker||training-end||2||0
+2016-12-06 05:41:14.396057||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 05:41:48.996972||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 05:45:06.152987||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 05:45:46.549247||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 05:47:11.434866||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 05:48:02.140562||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 05:48:37.920697||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 05:48:53.245738||event||progress-marker||training-end||1||1
+2016-12-06 06:12:54.144894||error||block timeout||Error||1||1
+2016-12-06 06:12:54.185415||error||block timeout||Error||0||2
+2016-12-06 06:12:54.193511||error||block timeout||Error||0||3
+2016-12-06 06:12:54.719606||meta||block_id end||18
+2016-12-06 06:12:54.721000||meta||block_id start||19
+2016-12-06 06:12:54.721029||meta||assignment||3@|2@|1@|0
+2016-12-06 06:13:07.129011||event||progress-marker||training-start||2||0
+2016-12-06 06:13:07.131684||event||progress-marker||training-end||2||0
+2016-12-06 06:13:07.377615||event||progress-marker||training-start||0||1
+2016-12-06 06:13:07.716335||event||progress-marker||training-start||1||1
+2016-12-06 06:13:08.076895||event||progress-marker||training-start||3||0
+2016-12-06 06:13:08.077839||event||progress-marker||training-end||3||0
+2016-12-06 06:14:53.448332||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 06:15:11.954218||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 06:16:00.877192||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||0||1
+2016-12-06 06:16:13.847094||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||1||1
+2016-12-06 06:18:18.440567||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 06:18:30.617677||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 06:19:09.647455||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 06:19:11.167913||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||0||1
+2016-12-06 06:21:03.358369||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 06:21:10.074023||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 06:22:01.251138||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 06:22:10.278365||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 06:22:44.720190||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 06:23:00.193247||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 06:23:28.121158||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||1||1
+2016-12-06 06:23:34.384216||event||progress-marker||training-end||1||1
+2016-12-06 06:23:42.638105||treatment||read_news||http://www.nytimes.com/2016/12/05/us/politics/-michael-flynn-trump-fake-news-clinton.html||0||1
+2016-12-06 06:23:46.856401||event||progress-marker||training-end||0||1
+2016-12-06 06:23:48.863010||event||progress-marker||measurement-start||2||0
+2016-12-06 06:23:49.421638||event||progress-marker||measurement-start||1||1
+2016-12-06 06:23:49.629778||event||progress-marker||measurement-start||3||0
+2016-12-06 06:23:51.884263||event||progress-marker||measurement-start||0||1
+2016-12-06 06:25:11.038469||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:13.728685||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:16.959663||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:17.800109||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:19.324286||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:20.276659||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:20.326436||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:21.529648||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:22.258911||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:22.900253||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:23.293094||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:23.789731||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:24.734469||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:24.764337||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:24.821499||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:25.866181||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:26.188333||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:26.553078||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:27.071879||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:27.269699||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:28.214343||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:28.383612||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:29.066723||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:29.423129||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:29.700383||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:30.145606||measurement||news||2016-12-06 06:24:41.360444@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||1||1
+2016-12-06 06:25:30.154049||event||progress-marker||measurement-end||1||1
+2016-12-06 06:25:31.058344||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:31.462957||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:31.892354||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:31.958664||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:32.249837||measurement||news||2016-12-06 06:24:43.176895@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 06:25:32.250944||event||progress-marker||measurement-end||0||1
+2016-12-06 06:25:33.994225||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:34.087221||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:34.683222||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:35.113804||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:35.304208||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:35.665204||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:35.746798||measurement||news||2016-12-06 06:24:54.953435@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 06:25:35.747847||event||progress-marker||measurement-end||3||0
+2016-12-06 06:25:36.083945||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:36.472302||measurement||news||2016-12-06 06:24:56.141232@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 06:25:36.473389||event||progress-marker||measurement-end||2||0
+2016-12-06 06:25:36.767838||meta||block_id end||19
+2016-12-06 06:25:36.768041||meta||block_id start||20
+2016-12-06 06:25:36.768061||meta||assignment||1@|3@|0@|2
+2016-12-06 06:25:49.166868||event||progress-marker||training-start||2||1
+2016-12-06 06:25:49.453446||event||progress-marker||training-start||3||0
+2016-12-06 06:25:49.454594||event||progress-marker||training-end||3||0
+2016-12-06 06:25:49.488518||event||progress-marker||training-start||0||1
+2016-12-06 06:25:49.506428||event||progress-marker||training-start||1||0
+2016-12-06 06:25:49.507571||event||progress-marker||training-end||1||0
+2016-12-06 06:27:28.913947||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 06:27:52.681546||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 06:30:04.529300||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 06:30:22.890682||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 06:30:38.891545||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 06:30:55.257943||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 06:33:39.102034||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 06:34:25.254908||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 06:34:59.840622||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 06:35:11.629196||event||progress-marker||training-end||0||1
+2016-12-06 06:58:56.842451||error||block timeout||Error||0||1
+2016-12-06 06:58:56.849079||error||block timeout||Error||1||0
+2016-12-06 06:58:56.855643||error||block timeout||Error||0||3
+2016-12-06 06:58:57.355980||meta||block_id end||20
+2016-12-06 06:58:57.359904||meta||block_id start||21
+2016-12-06 06:58:57.359950||meta||assignment||1@|3@|2@|0
+2016-12-06 06:59:09.507093||event||progress-marker||training-start||1||0
+2016-12-06 06:59:09.508729||event||progress-marker||training-end||1||0
+2016-12-06 06:59:09.724969||event||progress-marker||training-start||0||1
+2016-12-06 06:59:09.918437||event||progress-marker||training-start||2||1
+2016-12-06 06:59:10.254599||event||progress-marker||training-start||3||0
+2016-12-06 06:59:10.257226||event||progress-marker||training-end||3||0
+2016-12-06 07:00:55.939326||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 07:01:03.001067||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 07:03:40.086204||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 07:03:40.831082||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 07:04:15.266994||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 07:04:20.632797||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 07:06:24.485373||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 07:06:35.256841||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 07:07:24.937517||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 07:07:40.320614||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 07:08:07.841002||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 07:08:20.284048||event||progress-marker||training-end||2||1
+2016-12-06 07:08:37.513488||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||0||1
+2016-12-06 07:09:08.541131||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 07:09:14.241101||event||progress-marker||training-end||0||1
+2016-12-06 07:09:15.419852||event||progress-marker||measurement-start||2||1
+2016-12-06 07:09:16.198308||event||progress-marker||measurement-start||1||0
+2016-12-06 07:09:16.734458||event||progress-marker||measurement-start||3||0
+2016-12-06 07:09:19.254253||event||progress-marker||measurement-start||0||1
+2016-12-06 07:10:30.618826||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:32.743187||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:34.392670||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:36.174515||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:37.514332||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:38.359878||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:39.779323||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:40.088429||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:42.244566||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:42.333094||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:43.377575||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:43.675249||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:44.323223||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:44.762674||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:46.024879||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:46.184528||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:46.276862||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:47.415098||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:48.351008||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:48.673083||measurement||news||2016-12-06 07:10:10.895193@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:10:48.674698||event||progress-marker||measurement-end||3||0
+2016-12-06 07:10:49.464370||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:50.331829||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:50.897514||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:51.085217||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:51.441302||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:51.908585||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:52.083595||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:52.651764||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:53.064604||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:53.119551||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:53.738073||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:54.040268||measurement||news||2016-12-06 07:10:16.492060@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:10:54.041667||event||progress-marker||measurement-end||1||0
+2016-12-06 07:10:54.423072||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:54.499587||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:54.971448||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:55.012272||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:55.516134||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:55.611095||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:56.301425||measurement||news||2016-12-06 07:09:43.190367@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:10:56.302836||event||progress-marker||measurement-end||0||1
+2016-12-06 07:10:56.566275||measurement||news||2016-12-06 07:10:12.810277@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:10:56.567155||event||progress-marker||measurement-end||2||1
+2016-12-06 07:10:58.908791||meta||block_id end||21
+2016-12-06 07:10:58.909098||meta||block_id start||22
+2016-12-06 07:10:58.909117||meta||assignment||3@|1@|2@|0
+2016-12-06 07:11:11.026763||event||progress-marker||training-start||3||0
+2016-12-06 07:11:11.028182||event||progress-marker||training-end||3||0
+2016-12-06 07:11:11.257985||event||progress-marker||training-start||1||0
+2016-12-06 07:11:11.264285||event||progress-marker||training-end||1||0
+2016-12-06 07:11:11.768203||event||progress-marker||training-start||0||1
+2016-12-06 07:11:11.791654||event||progress-marker||training-start||2||1
+2016-12-06 07:13:09.772515||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||0||1
+2016-12-06 07:13:14.148823||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 07:15:19.327410||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||0||1
+2016-12-06 07:15:32.602163||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 07:15:51.667033||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||0||1
+2016-12-06 07:16:09.307763||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 07:18:05.155245||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||0||1
+2016-12-06 07:18:13.777665||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 07:19:10.001599||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||0||1
+2016-12-06 07:19:23.506698||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 07:19:48.731101||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||0||1
+2016-12-06 07:19:57.039503||event||progress-marker||training-end||0||1
+2016-12-06 07:20:09.935753||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 07:20:17.619983||event||progress-marker||training-end||2||1
+2016-12-06 07:20:17.885571||event||progress-marker||measurement-start||1||0
+2016-12-06 07:20:22.091377||event||progress-marker||measurement-start||0||1
+2016-12-06 07:20:22.601834||event||progress-marker||measurement-start||3||0
+2016-12-06 07:20:22.633407||event||progress-marker||measurement-start||2||1
+2016-12-06 07:21:26.789496||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:28.756189||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:30.739641||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:34.396718||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:35.894210||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:37.352725||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:39.418287||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:40.684270||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:42.423803||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:43.113054||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:44.011031||measurement||news||2016-12-06 07:21:01.578326@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||1||0
+2016-12-06 07:21:44.012355||event||progress-marker||measurement-end||1||0
+2016-12-06 07:21:46.221987||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:46.753440||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:48.970988||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:49.293074||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:49.998872||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:50.445679||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:50.979875||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:51.523060||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:52.114002||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:52.404507||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:52.569134||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:53.231551||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:53.452859||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:53.911322||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:54.262151||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:54.854256||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:55.031073||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:55.516861||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:55.704313||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:56.493155||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:56.569621||measurement||news||2016-12-06 07:21:25.069045@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||0||1
+2016-12-06 07:21:56.570471||event||progress-marker||measurement-end||0||1
+2016-12-06 07:21:57.169765||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:58.276991||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:58.366459||measurement||news||2016-12-06 07:21:27.126200@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:21:58.373651||event||progress-marker||measurement-end||3||0
+2016-12-06 07:21:59.358786||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:59.629157||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:59.791609||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:59.839581||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|What’s on TV Monday: ‘The Victoria’s Secret Fashion Show’ and ‘Divas Holiday: Unsilent Night’@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:59.854587||measurement||news||2016-12-06 07:21:21.581004@|Recommended@|What’s on TV Saturday: Key and Peele in ‘Keanu’ and Emma Stone on ‘S.N.L.’@|NYTimes@|ago@|Body||2||1
+2016-12-06 07:21:59.856182||event||progress-marker||measurement-end||2||1
+2016-12-06 07:22:00.175878||meta||block_id end||22
+2016-12-06 07:22:00.176054||meta||block_id start||23
+2016-12-06 07:22:00.176067||meta||assignment||3@|0@|2@|1
+2016-12-06 07:22:10.924959||event||progress-marker||training-start||0||0
+2016-12-06 07:22:10.926270||event||progress-marker||training-end||0||0
+2016-12-06 07:22:11.804109||event||progress-marker||training-start||1||1
+2016-12-06 07:22:12.332336||event||progress-marker||training-start||3||0
+2016-12-06 07:22:12.333390||event||progress-marker||training-end||3||0
+2016-12-06 07:22:12.344720||event||progress-marker||training-start||2||1
+2016-12-06 07:24:11.589479||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||2||1
+2016-12-06 07:24:16.656410||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 07:25:18.950330||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||2||1
+2016-12-06 07:25:31.842713||treatment||read_news||http://www.nytimes.com/2016/11/23/dining/frittata-recipe-baked.html?ref=dining||1||1
+2016-12-06 07:26:10.679549||treatment||read_news||http://cooking.nytimes.com/recipes/1013383-tomato-soup||2||1
+2016-12-06 07:27:34.976344||treatment||read_news||http://www.nytimes.com/2016/11/16/dining/tsurutontan-udon-noodle-brasserie-restaurant-review.html?ref=dining||2||1
+2016-12-06 07:27:49.200750||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 07:28:27.645720||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 07:29:00.232315||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||2||1
+2016-12-06 07:29:39.254761||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||2||1
+2016-12-06 07:29:52.376715||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 07:30:42.387034||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 07:31:27.079269||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||1||1
+2016-12-06 07:31:56.825490||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||2||1
+2016-12-06 07:32:05.700313||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||1||1
+2016-12-06 07:32:10.824670||event||progress-marker||training-end||1||1
+2016-12-06 07:32:44.782573||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||2||1
+2016-12-06 07:33:22.238513||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||2||1
+2016-12-06 07:33:57.112099||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||2||1
+2016-12-06 07:34:00.920233||event||progress-marker||training-end||2||1
+2016-12-06 07:34:01.119779||event||progress-marker||measurement-start||1||1
+2016-12-06 07:34:03.295750||event||progress-marker||measurement-start||0||0
+2016-12-06 07:34:04.717489||event||progress-marker||measurement-start||3||0
+2016-12-06 07:34:05.959055||event||progress-marker||measurement-start||2||1
+2016-12-06 07:35:21.125167||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:23.337341||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:24.285607||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:24.880483||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.286396||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.355515||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.376794||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.571962||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.611650||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.639118||measurement||news||2016-12-06 07:34:57.896924@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||3||0
+2016-12-06 07:35:25.640511||event||progress-marker||measurement-end||3||0
+2016-12-06 07:35:30.160704||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Trump Victory Tour@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.244076||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|The Man Who Brought Paris to Dallas@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.261285||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.851876||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.871298||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.880368||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.891855||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.903055||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.912462||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.948889||measurement||news||2016-12-06 07:34:47.594409@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:35:30.950084||event||progress-marker||measurement-end||1||1
+2016-12-06 07:35:31.414035||meta||block_id end||23
+2016-12-06 07:35:31.414422||meta||block_id start||24
+2016-12-06 07:35:31.414456||meta||assignment||2@|0@|3@|1
+2016-12-06 07:35:43.458591||event||progress-marker||training-start||3||1
+2016-12-06 07:35:43.490386||event||progress-marker||training-start||1||1
+2016-12-06 07:35:43.653807||event||progress-marker||training-start||2||0
+2016-12-06 07:35:43.659911||event||progress-marker||training-end||2||0
+2016-12-06 07:35:43.689436||event||progress-marker||training-start||0||0
+2016-12-06 07:35:43.690535||event||progress-marker||training-end||0||0
+2016-12-06 07:37:23.164553||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||1||1
+2016-12-06 07:37:49.175330||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining&_r=0||3||1
+2016-12-06 07:39:26.029908||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||1||1
+2016-12-06 07:39:47.715495||treatment||read_news||http://www.nytimes.com/2016/12/05/dining/cheese-ball-recipe-snack.html?ref=dining||3||1
+2016-12-06 07:39:58.872470||treatment||read_news||http://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html||1||1
+2016-12-06 07:40:45.589113||treatment||read_news||http://www.nytimes.com/2016/11/28/dining/germany-gin.html?ref=dining||3||1
+2016-12-06 07:42:02.348029||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||1||1
+2016-12-06 07:42:27.092960||treatment||read_news||http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html?ref=dining||3||1
+2016-12-06 07:42:42.907073||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||1||1
+2016-12-06 07:43:46.678998||treatment||read_news||http://www.nytimes.com/2016/11/21/dining/bars-movies.html?ref=dining||1||1
+2016-12-06 07:44:06.729521||treatment||read_news||http://www.nytimes.com/2016/11/09/dining/thanksgiving-pecan-recipes.html?ref=dining||3||1
+2016-12-06 07:44:28.590340||treatment||read_news||http://cooking.nytimes.com/recipes/1018380-the-seelbach-cocktail||1||1
+2016-12-06 07:44:53.812181||treatment||read_news||http://www.nytimes.com/2016/12/05/arts/television/best-tv-shows.html||3||1
+2016-12-06 07:45:05.519628||event||progress-marker||training-end||3||1
+2016-12-06 07:45:25.009082||treatment||read_news||http://www.nytimes.com/2016/12/01/dining/review-rye-whiskey.html?src=me||1||1
+2016-12-06 07:45:25.256804||event||progress-marker||training-end||1||1
+2016-12-06 07:45:25.558600||event||progress-marker||measurement-start||3||1
+2016-12-06 07:45:25.748302||event||progress-marker||measurement-start||0||0
+2016-12-06 07:45:25.753297||event||progress-marker||measurement-start||2||0
+2016-12-06 07:45:30.288007||event||progress-marker||measurement-start||1||1
+2016-12-06 07:46:42.985405||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:45.195014||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:47.009651||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:47.725612||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:49.329330||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:50.185314||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:51.352796||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:52.094194||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:53.269571||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:53.629173||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:54.293499||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Why I Will Not Cast My Electoral Vote for Donald Trump@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:46:55.083600||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Fake News Brings a Gunman to Washington@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:56.211642||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:56.739677||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:46:56.810339||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:58.120095||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:46:58.181647||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|What Donald Trump Might Do for Working-Class Families@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:59.048193||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Trump’s Threat to the Constitution@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:46:59.213461||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|The Hunt for Hatchimals, the Elusive Toy of the Holiday Season@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:46:59.676811||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:47:01.052271||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Dolly Parton Pledges $1,000 a Month to Families Made Homeless by Tennessee Fires@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:47:01.662465||measurement||news||2016-12-06 07:46:24.383471@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||0||0
+2016-12-06 07:47:01.663504||event||progress-marker||measurement-end||0||0
+2016-12-06 07:47:01.725090||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Trump’s Agents of Idiocracy@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:02.215267||measurement||news||2016-12-06 07:46:29.870481@|Recommended@|Loving My Son, After His Death@|NYTimes@|ago@|Body||1||1
+2016-12-06 07:47:02.217309||event||progress-marker||measurement-end||1||1
+2016-12-06 07:47:04.215080||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:05.219281||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:05.770192||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Friday Mailbag: Videos, Photos, Tweets and Adjectives@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:05.818990||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Shopping Guide: Bar Carts@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:05.843146||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Rye Whiskeys, Young and Bucking for Manhattans@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:06.137926||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Trump Chooses Ben Carson to Lead HUD@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:06.385119||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Paul Sevigny Reopens Sway Lounge in SoHo@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:06.822959||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Pakistan Has a Drinking Problem@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:07.034954||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|A Tequila With Rough-Hewn Roots@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:07.261593||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|Deadly Fire Tears Through Oakland Warehouse@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:07.504139||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|‘How to Speak Midwestern,’ a Heartland Dialect Guide@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:07.972482||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|The Art of the Scam@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:08.003174||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Night Out: Joe Jonas@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:08.252965||measurement||news||2016-12-06 07:46:31.388342@|Recommended@|A Stirring Victory for a Texas High School. Then the Unthinkable.@|NYTimes@|ago@|Body||2||0
+2016-12-06 07:47:08.254644||event||progress-marker||measurement-end||2||0
+2016-12-06 07:47:08.305314||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Brooklyn Steel, the Bowery Presents’ Latest Project, Cements Its Presence@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:08.350110||measurement||news||2016-12-06 07:46:22.080321@|Recommended@|Trump Saved Jobs at Carrier, but More Midwest Jobs Are in Jeopardy@|NYTimes@|ago@|Body||3||1
+2016-12-06 07:47:08.360529||event||progress-marker||measurement-end||3||1
+2016-12-06 07:47:09.187870||meta||block_id end||24
